@@ -1,0 +1,34 @@
+Column,Description
+Transaction_ID,Unique transaction identifier
+Product_ID,Unique product identifier
+Product_Category,Product category
+Product_Name,Product model/type
+Brand,Manufacturer or brand
+Purchase_Date,Original purchase date
+Original_Price_INR,Original purchase price in INR
+Current_Market_Value_INR,Estimated current market value in INR
+Condition_at_Resale,Condition at resale
+Ownership_Cycle,Number of ownership cycles
+Resale_Date,Secondary-market resale date
+Resale_Price_INR,Secondary-market resale price in INR
+Seller_Type,Seller classification
+Buyer_Type,Buyer classification
+Platform,Secondary-market platform
+Refurbished,Whether product was refurbished
+Refurbishment_Cost_INR,Refurbishment cost in INR
+Repair_Count,Number of repairs
+Product_Age_Months,Age at resale in months
+Usage_Hours,Estimated lifetime usage
+Warranty_Status,Warranty status at resale
+Return_Status,Whether transaction was returned
+Recycling_Eligible,Whether product can be recycled
+Recycled,Whether product was recycled
+Recycling_Date,Date of recycling
+Material_Recovered_Kg,Recovered material weight
+CO2_Saved_Kg,Estimated carbon emissions avoided
+Waste_Diverted_Kg,Estimated waste diverted
+Circularity_Score,Circular economy score
+Customer_Rating,Customer rating
+Region,Geographic region
+City,City
+Final_Disposition,Final lifecycle outcome
