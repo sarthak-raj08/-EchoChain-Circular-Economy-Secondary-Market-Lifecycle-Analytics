@@ -1,0 +1,36 @@
+bom_id,sku,component_id,component_name,component_category,quantity,component_cost
+B001,ECH-LAP-001,C001,Motherboard,Electronics,1,280
+B002,ECH-LAP-001,C002,Display 14 inch,Display,1,180
+B003,ECH-LAP-001,C003,Battery 50Wh,Battery,1,70
+B004,ECH-LAP-001,C004,Keyboard,Input,1,45
+B005,ECH-LAP-001,C005,SSD 512GB,Storage,1,65
+B006,ECH-LAP-001,C006,RAM 16GB,Memory,1,55
+B007,ECH-LAP-001,C007,Chassis,Mechanical,1,90
+B008,ECH-LAP-002,C008,Motherboard Air 13,Electronics,1,240
+B009,ECH-LAP-002,C009,Display 13 inch,Display,1,150
+B010,ECH-LAP-002,C003,Battery 50Wh,Battery,1,70
+B011,ECH-LAP-002,C004,Keyboard,Input,1,45
+B012,ECH-LAP-002,C005,SSD 512GB,Storage,1,65
+B013,ECH-LAP-002,C006,RAM 16GB,Memory,1,55
+B014,ECH-LAP-002,C007,Chassis,Mechanical,1,90
+B015,ECH-LAP-003,C010,Motherboard Pro 15,Electronics,1,320
+B016,ECH-LAP-003,C011,Display 15 inch,Display,1,230
+B017,ECH-LAP-003,C012,Battery 60Wh,Battery,1,85
+B018,ECH-LAP-003,C004,Keyboard,Input,1,50
+B019,ECH-LAP-003,C013,SSD 1TB,Storage,1,110
+B020,ECH-LAP-003,C014,RAM 32GB,Memory,1,100
+B021,ECH-LAP-003,C015,Chassis Pro,Mechanical,1,110
+B022,ECH-LAP-004,C016,Motherboard Flex 14,Electronics,1,260
+B023,ECH-LAP-004,C002,Display 14 inch,Display,1,180
+B024,ECH-LAP-004,C012,Battery 60Wh,Battery,1,85
+B025,ECH-LAP-004,C004,Keyboard,Input,1,45
+B026,ECH-LAP-004,C005,SSD 512GB,Storage,1,65
+B027,ECH-LAP-004,C006,RAM 16GB,Memory,1,55
+B028,ECH-LAP-004,C007,Chassis,Mechanical,1,90
+B029,ECH-LAP-005,C017,Motherboard Ultra 16,Electronics,1,390
+B030,ECH-LAP-005,C018,Display 16 inch,Display,1,300
+B031,ECH-LAP-005,C019,Battery 80Wh,Battery,1,110
+B032,ECH-LAP-005,C020,Keyboard Ultra,Input,1,60
+B033,ECH-LAP-005,C013,SSD 1TB,Storage,1,110
+B034,ECH-LAP-005,C014,RAM 32GB,Memory,1,100
+B035,ECH-LAP-005,C021,Chassis Ultra,Mechanical,1,140
