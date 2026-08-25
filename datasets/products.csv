@@ -1,0 +1,6 @@
+product_id,sku,product_name,brand,category,launch_year,original_price
+P001,ECH-LAP-001,EchoBook Pro 14,EchoTech,Laptop,2023,999
+P002,ECH-LAP-002,EchoBook Air 13,EchoTech,Laptop,2023,799
+P003,ECH-LAP-003,EchoBook Pro 15,EchoTech,Laptop,2024,1199
+P004,ECH-LAP-004,EchoBook Flex 14,EchoTech,Laptop,2024,899
+P005,ECH-LAP-005,EchoBook Ultra 16,EchoTech,Laptop,2024,1399

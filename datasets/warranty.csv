@@ -1,0 +1,21 @@
+warranty_id,product_id,sku,component_id,component_name,failure_type,failure_date,repair_cost,warranty_status
+W001,P001,ECH-LAP-001,C001,Motherboard,No Power,2024-01-15,310,Approved
+W002,P001,ECH-LAP-001,C001,Motherboard,Random Shutdown,2024-02-18,295,Approved
+W003,P001,ECH-LAP-001,C001,Motherboard,Boot Failure,2024-04-05,320,Approved
+W004,P001,ECH-LAP-001,C001,Motherboard,System Crash,2024-06-12,305,Approved
+W005,P001,ECH-LAP-001,C002,Display,Screen Flicker,2024-03-10,190,Approved
+W006,P001,ECH-LAP-001,C003,Battery,Battery Degradation,2024-05-21,85,Approved
+W007,P002,ECH-LAP-002,C008,Motherboard,No Power,2024-02-11,270,Approved
+W008,P002,ECH-LAP-002,C003,Battery,Battery Degradation,2024-05-19,80,Approved
+W009,P002,ECH-LAP-002,C009,Display,Dead Pixel,2024-07-03,155,Approved
+W010,P003,ECH-LAP-003,C010,Motherboard,Boot Failure,2024-03-14,350,Approved
+W011,P003,ECH-LAP-003,C010,Motherboard,System Crash,2024-07-08,340,Approved
+W012,P003,ECH-LAP-003,C012,Battery,Battery Degradation,2024-06-16,95,Approved
+W013,P003,ECH-LAP-003,C011,Display,Backlight Issue,2024-08-02,240,Approved
+W014,P004,ECH-LAP-004,C016,Motherboard,No Power,2024-04-11,275,Approved
+W015,P004,ECH-LAP-004,C002,Display,Screen Flicker,2024-05-25,190,Approved
+W016,P004,ECH-LAP-004,C012,Battery,Battery Degradation,2024-08-10,90,Approved
+W017,P005,ECH-LAP-005,C017,Motherboard,Random Shutdown,2024-05-17,410,Approved
+W018,P005,ECH-LAP-005,C018,Display,Screen Flicker,2024-06-22,315,Approved
+W019,P005,ECH-LAP-005,C019,Battery,Battery Degradation,2024-08-14,120,Approved
+W020,P005,ECH-LAP-005,C014,RAM,Memory Error,2024-07-27,105,Approved
