@@ -1,26 +1,3 @@
-# import scrapy
-
-
-# class MarketplaceSpider(scrapy.Spider):
-
-#     name = "marketplace"
-
-#     start_urls = [
-#         "TARGET_WEBSITE_URL"
-#     ]
-
-#     def parse(self, response):
-
-#         for product in response.css("PRODUCT_SELECTOR"):
-
-#             yield {
-#                 "Product_Name": product.css("NAME_SELECTOR::text").get(),
-#                 "Brand": product.css("BRAND_SELECTOR::text").get(),
-#                 "Price_INR": product.css("PRICE_SELECTOR::text").get(),
-#                 "Condition": product.css("CONDITION_SELECTOR::text").get(),
-#                 "Location": product.css("LOCATION_SELECTOR::text").get(),
-#             }
-
 import scrapy
 
 
@@ -34,12 +11,36 @@ class MarketplaceSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        for book in response.css("article.product_pod"):
+        products = response.css("article.product_pod")
+
+        self.logger.info(
+            f"Products found: {len(products)}"
+        )
+
+        for product in products:
 
             yield {
-                "title": book.css("h3 a::attr(title)").get(),
-                "price": book.css("p.price_color::text").get(),
-                "availability": book.css("p.instock.availability::text").getall(),
-                "product_url": book.css("h3 a::attr(href)").get(),
-            }
+                "Product_Name": product.css(
+                    "h3 a::attr(title)"
+                ).get(),
 
+                "Price": product.css(
+                    ".price_color::text"
+                ).get(),
+
+                "Availability": product.css(
+                    ".availability::text"
+                ).getall(),
+
+                "Rating": product.css(
+                    "p.star-rating::attr(class)"
+                ).get(),
+
+                "Product_URL": product.css(
+                    "h3 a::attr(href)"
+                ).get(),
+
+                "Image_URL": product.css(
+                    "img::attr(src)"
+                ).get()
+            }
