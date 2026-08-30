@@ -14,9 +14,10 @@ class MarketplaceSpider(scrapy.Spider):
         products = response.css("article.product_pod")
 
         self.logger.info(
-            f"Products found: {len(products)}"
+            f"Products found on page: {len(products)}"
         )
 
+        # Extract product data
         for product in products:
 
             yield {
@@ -28,19 +29,41 @@ class MarketplaceSpider(scrapy.Spider):
                     ".price_color::text"
                 ).get(),
 
-                "Availability": product.css(
-                    ".availability::text"
-                ).getall(),
+                "Availability": " ".join(
+                    product.css(
+                        ".availability::text"
+                    ).getall()
+                ).strip(),
 
                 "Rating": product.css(
                     "p.star-rating::attr(class)"
                 ).get(),
 
-                "Product_URL": product.css(
-                    "h3 a::attr(href)"
-                ).get(),
+                "Product_URL": response.urljoin(
+                    product.css(
+                        "h3 a::attr(href)"
+                    ).get()
+                ),
 
-                "Image_URL": product.css(
-                    "img::attr(src)"
-                ).get()
+                "Image_URL": response.urljoin(
+                    product.css(
+                        "img::attr(src)"
+                    ).get()
+                )
             }
+
+        # Find next page
+        next_page = response.css(
+            "li.next a::attr(href)"
+        ).get()
+
+        if next_page:
+
+            self.logger.info(
+                f"Going to next page: {next_page}"
+            )
+
+            yield response.follow(
+                next_page,
+                callback=self.parse
+            )
