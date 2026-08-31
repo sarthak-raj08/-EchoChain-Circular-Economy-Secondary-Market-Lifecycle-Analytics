@@ -1,17 +1,11 @@
 import scrapy
 
 
-class MarketplaceItem(scrapy.Item):
-    listing_id = scrapy.Field()
-    product_name = scrapy.Field()
-    brand = scrapy.Field()
-    product_category = scrapy.Field()
-    price_inr = scrapy.Field()
-    condition = scrapy.Field()
-    seller_type = scrapy.Field()
-    city = scrapy.Field()
-    platform = scrapy.Field()
-    listing_date = scrapy.Field()
-    refurbished = scrapy.Field()
-    warranty_status = scrapy.Field()
-    availability = scrapy.Field()
+class EchomarketItem(scrapy.Item):
+
+    Product_Name = scrapy.Field()
+    Price = scrapy.Field()
+    Availability = scrapy.Field()
+    Rating = scrapy.Field()
+    Product_URL = scrapy.Field()
+    Image_URL = scrapy.Field()
