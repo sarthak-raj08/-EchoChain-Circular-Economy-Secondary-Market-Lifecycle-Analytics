@@ -558,6 +558,4 @@ By connecting **manufacturing BOM data with secondary-market information**, the 
 
 ---
 
-## 📄 License
-
 This project was developed for **educational and analytical purposes**. Add an appropriate open-source license if the repository is intended for public distribution.
