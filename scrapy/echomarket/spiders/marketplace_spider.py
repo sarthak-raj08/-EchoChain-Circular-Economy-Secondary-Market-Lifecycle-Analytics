@@ -1,5 +1,6 @@
 import scrapy
-
+from echomarket.items import EchomarketItem
+from echomarket.itemloaders import EchomarketItemLoader
 
 class MarketplaceSpider(scrapy.Spider):
 
@@ -17,42 +18,55 @@ class MarketplaceSpider(scrapy.Spider):
             f"Products found on page: {len(products)}"
         )
 
-        # Extract product data
         for product in products:
 
-            yield {
-                "Product_Name": product.css(
-                    "h3 a::attr(title)"
-                ).get(),
+            loader = EchomarketItemLoader(
+                item=EchomarketItem(),
+                selector=product
+            )
 
-                "Price": product.css(
-                    ".price_color::text"
-                ).get(),
+            loader.add_css(
+                "Product_Name",
+                "h3 a::attr(title)"
+            )
 
-                "Availability": " ".join(
-                    product.css(
-                        ".availability::text"
-                    ).getall()
-                ).strip(),
+            loader.add_css(
+                "Price",
+                ".price_color::text"
+            )
 
-                "Rating": product.css(
-                    "p.star-rating::attr(class)"
-                ).get(),
+            loader.add_css(
+                "Availability",
+                ".availability::text"
+            )
 
-                "Product_URL": response.urljoin(
-                    product.css(
-                        "h3 a::attr(href)"
-                    ).get()
-                ),
+            loader.add_css(
+                "Rating",
+                "p.star-rating::attr(class)"
+            )
 
-                "Image_URL": response.urljoin(
-                    product.css(
-                        "img::attr(src)"
-                    ).get()
-                )
-            }
+            loader.add_css(
+                "Product_URL",
+                "h3 a::attr(href)"
+            )
 
-        # Find next page
+            loader.add_css(
+                "Image_URL",
+                "img::attr(src)"
+            )
+
+            item = loader.load_item()
+
+            item["Product_URL"] = response.urljoin(
+                item["Product_URL"]
+            )
+
+            item["Image_URL"] = response.urljoin(
+                item["Image_URL"]
+            )
+
+            yield item
+
         next_page = response.css(
             "li.next a::attr(href)"
         ).get()
