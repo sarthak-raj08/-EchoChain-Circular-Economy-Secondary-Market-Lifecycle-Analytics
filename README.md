@@ -201,13 +201,13 @@ The dashboard can provide:
 
 ## 01. Executive Overview
 
-![Executive Overview](dashboards/Dashboard-1.png)
+![Executive Overview](executive-overview.png)
 
 ---
 
 ## 02. Product & Resale Analytics
 
-![Product & Resale Analytics](dashboards/02-product-resale.png)
+![Product & Resale Analytics](product-resale-analytics.png)
 
 ---
 
