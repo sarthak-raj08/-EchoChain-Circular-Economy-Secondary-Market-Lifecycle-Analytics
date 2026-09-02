@@ -2,12 +2,12 @@
 
 > **Turning post-sale product data into actionable insights for sustainable manufacturing, circular economy, and secondary-market decision-making.**
 
-![Project Banner](https://img.shields.io/badge/Project-EchoChain-0A66C2?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-EchoChain-0A66C2?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Circular%20Economy-2E8B57?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Data%20Processing-blue)
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-red)
+![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-FF3621?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Analytics-Lifecycle%20Analytics-6A5ACD?style=for-the-badge)
 
 ---
