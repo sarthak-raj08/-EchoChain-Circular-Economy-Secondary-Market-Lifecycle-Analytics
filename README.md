@@ -201,13 +201,13 @@ The dashboard can provide:
 
 ## 01. Executive Overview
 
-![Executive Overview](power-bi-dashboard/executive-overview.png)
+![Executive Overview](Power%20BI%20Dashboard/executive_overview.png)
 
 ---
 
 ## 02. Product & Resale Analytics
 
-![Product & Resale Analytics](power-bi-dashboard/product-resale-analytics.png)
+![Product-Resale-Analytics](Power%20BI%20Dashboard/product-resale-analytics.png)
 
 ---
 
