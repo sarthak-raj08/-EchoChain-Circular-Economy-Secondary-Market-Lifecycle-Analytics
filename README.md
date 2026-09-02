@@ -201,7 +201,7 @@ The dashboard can provide:
 
 ## 01. Executive Overview
 
-![Executive Overview](Power%20BI%20Dashboard/executive_overview.png)
+![Executive Overview](Power%20BI%20Dashboard/executive-overview.png)
 
 ---
 
