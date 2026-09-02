@@ -158,29 +158,7 @@ Key processing activities include:
 
 ---
 
-### 4. Product & SKU Matching
-
-A major challenge is connecting marketplace listings with internal manufacturing records.
-
-EchoChain uses matching techniques to associate:
-
-```text
-Marketplace Listing
-        ↓
-Product / Model Identification
-        ↓
-Internal SKU
-        ↓
-BOM Components
-        ↓
-Lifecycle Analysis
-```
-
-Fuzzy matching can help identify products even when marketplace descriptions are inconsistent, abbreviated, or formatted differently.
-
----
-
-### 5. Circularity Analytics
+### 4. Circularity Analytics
 
 EchoChain generates analytical indicators that help evaluate the circular potential of products.
 
@@ -200,7 +178,7 @@ These metrics help convert raw lifecycle data into actionable business insights.
 
 ---
 
-### 6. Power BI Dashboard
+### 5. Power BI Dashboard
 
 Microsoft Power BI acts as the executive analytics layer.
 
@@ -216,6 +194,20 @@ The dashboard can provide:
 * Recovery-value analysis
 * SKU-level drill-downs
 * Executive KPIs
+
+---
+
+## 📊 Dashboard Overview
+
+## 01. Executive Overview
+
+![Executive Overview](dashboards/Dashboard-1.png)
+
+---
+
+## 02. Product & Resale Analytics
+
+![Product & Resale Analytics](dashboards/02-product-resale.png)
 
 ---
 
@@ -241,12 +233,10 @@ EchoChain is designed to answer questions such as:
 | Category            | Technology                                   |
 | ------------------- | -------------------------------------------- |
 | Programming         | Python                                       |
-| Web Scraping        | Python Web Scraping / Spiders                |
-| Big Data Processing | Apache PySpark                               |
+| Web Scraping        | Python Web Scraping                          |
 | Data Platform       | Databricks                                   |
 | Storage             | Delta Lake                                   |
 | Data Transformation | PySpark / SQL                                |
-| Data Analytics      | SQL, PySpark                                 |
 | Visualization       | Microsoft Power BI                           |
 | Data Domain         | Circular Economy & Sustainable Manufacturing |
 | Analytics Focus     | Product Lifecycle & Secondary Market         |
