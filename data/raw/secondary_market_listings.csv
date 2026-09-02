@@ -1,0 +1,1001 @@
+Listing_ID,Product_ID,Product_Category,Product_Name,Brand,Condition,Market_Value_INR,Listing_Price_INR,Seller_Type,Buyer_Type,Platform,Refurbished,Refurbishment_Cost_INR,Repair_Count,Product_Age_Months,Usage_Hours,Warranty_Status,Return_Status,Region,City,Customer_Rating,Final_Disposition
+LISTING_00001,PRD00001,Fashion,Denim,Levi's,Good,19270,8270,Individual,Individual,Facebook Marketplace,Yes,2520,2,48,888,Expired,Not Returned,North,Lucknow,4.4,Recycled
+LISTING_00002,PRD00002,Fashion,Sneakers,Levi's,Like New,11160,5940,Business,Individual,OLX,Yes,1460,2,60,3720,Expired,Not Returned,North,Delhi,4.1,Resold
+LISTING_00003,PRD00003,Laptops,Pavilion,Acer,Like New,96100,127950,Individual,Individual,OLX,Yes,10500,2,3,10994,Active,Not Returned,South,Hyderabad,3.4,Refurbished
+LISTING_00004,PRD00004,Laptops,ThinkPad,Apple,Fair,48270,16370,Individual,Individual,Amazon Renewed,No,0,1,50,6249,Expired,Not Returned,West,Ahmedabad,2.9,Refurbished
+LISTING_00005,PRD00005,Smartphones,OnePlus,OnePlus,Like New,58620,47270,Individual,Individual,OLX,Yes,3760,0,52,4816,Expired,Not Returned,South,Chennai,4.6,Refurbished
+LISTING_00006,PRD00006,Cameras,DSLR,GoPro,Good,86540,76170,Business,Business,Cashify,No,0,0,9,8603,Active,Not Returned,South,Vijayawada,3.4,Refurbished
+LISTING_00007,PRD00007,Smartphones,OnePlus,Google,Fair,50050,22520,Individual,Individual,Local Dealer,Yes,13990,1,53,8702,Expired,Not Returned,East,Guwahati,3.7,Recycled
+LISTING_00008,PRD00008,Home Appliances,Washing Machine,IFB,Good,72190,42100,Individual,Business,OLX,Yes,10690,4,28,10600,Expired,Returned,North,Jaipur,3.4,Resold
+LISTING_00009,PRD00009,Laptops,MacBook Air,Acer,Good,62530,53230,Individual,Business,Cashify,Yes,14520,1,8,11005,Active,Not Returned,South,Chennai,4.4,Refurbished
+LISTING_00010,PRD00010,Smartphones,Galaxy S Series,Google,Fair,58360,40820,Individual,Individual,EchoChain Marketplace,No,0,3,27,8163,Expired,Not Returned,West,Nagpur,4.3,Resold
+LISTING_00011,PRD00011,Furniture,Dining Set,Pepperfry,Like New,47390,35560,Individual,Individual,Local Dealer,No,0,2,25,1442,Extended,Not Returned,South,Hyderabad,3.8,Resold
+LISTING_00012,PRD00012,Cameras,DSLR,Sony,Good,112270,61820,Business,Individual,Facebook Marketplace,No,0,2,43,2228,Expired,Not Returned,South,Kochi,4.6,Refurbished
+LISTING_00013,PRD00013,Cameras,Camcorder,Sony,Good,70000,33600,Business,Individual,EchoChain Marketplace,No,0,5,47,10944,Expired,Not Returned,South,Vijayawada,4.4,Resold
+LISTING_00014,PRD00014,Smartphones,Xperia,Google,Good,59500,47170,Individual,Business,OLX,No,0,1,20,2736,Expired,Not Returned,East,Kolkata,4.8,Resold
+LISTING_00015,PRD00015,Gaming,Controller,Sony,Like New,3660,4020,Business,Individual,OLX,No,0,0,43,4183,Expired,Not Returned,East,Ranchi,4.2,Refurbished
+LISTING_00016,PRD00016,Home Appliances,Vacuum Cleaner,Samsung,Like New,59290,45670,Individual,Business,Amazon Renewed,No,0,3,15,2313,Expired,Not Returned,North,Jaipur,3.9,Resold
+LISTING_00017,PRD00017,Laptops,MacBook Air,HP,Good,34950,19810,Individual,Individual,Facebook Marketplace,No,0,1,7,5710,Active,Not Returned,South,Vijayawada,4.1,Resold
+LISTING_00018,PRD00018,Audio,Wireless Earbuds,JBL,Good,23590,12270,Individual,Individual,OLX,No,0,1,34,6022,Expired,Not Returned,South,Kochi,4.5,Resold
+LISTING_00019,PRD00019,Furniture,Office Chair,IKEA,Fair,24270,14960,Individual,Individual,EchoChain Marketplace,No,0,0,29,4914,Extended,Not Returned,East,Patna,3.2,Recycled
+LISTING_00020,PRD00020,Home Appliances,Air Conditioner,Samsung,Good,23470,11310,Individual,Individual,Facebook Marketplace,Yes,4460,0,47,6043,Expired,Not Returned,East,Ranchi,4.5,Refurbished
+LISTING_00021,PRD00021,Audio,Bluetooth Speaker,Bose,Good,2530,2920,Business,Individual,Amazon Renewed,No,0,1,4,9404,Active,Not Returned,West,Ahmedabad,4.5,Resold
+LISTING_00022,PRD00022,Fashion,Jacket,Fossil,Like New,17240,19700,Individual,Individual,Amazon Renewed,Yes,2660,0,17,4516,Expired,Not Returned,East,Guwahati,4.6,Resold
+LISTING_00023,PRD00023,Furniture,Office Chair,Urban Ladder,Like New,7220,6500,Individual,Individual,Amazon Renewed,Yes,1760,0,29,10246,Extended,Not Returned,South,Vijayawada,4.0,Refurbished
+LISTING_00024,PRD00024,Audio,Wireless Earbuds,JBL,Good,5720,3490,Business,Individual,Amazon Renewed,No,0,0,41,11824,Expired,Not Returned,East,Ranchi,4.2,Resold
+LISTING_00025,PRD00025,Smartphones,OnePlus,Google,Fair,55010,22510,Individual,Individual,EchoChain Marketplace,No,0,2,25,283,Expired,Not Returned,East,Ranchi,2.9,Refurbished
+LISTING_00026,PRD00026,Cameras,Action Camera,Nikon,Fair,36350,20880,Individual,Individual,Facebook Marketplace,Yes,4080,1,20,787,Extended,Not Returned,North,Lucknow,4.4,Resold
+LISTING_00027,PRD00027,Smartphones,Galaxy S Series,Apple,Fair,53160,16260,Individual,Individual,Facebook Marketplace,No,0,2,58,9048,Expired,Not Returned,North,Delhi,3.6,Resold
+LISTING_00028,PRD00028,Laptops,Pavilion,Lenovo,Good,112790,62370,Individual,Individual,EchoChain Marketplace,No,0,2,23,9657,Expired,Not Returned,East,Guwahati,5.0,Resold
+LISTING_00029,PRD00029,Smartphones,OnePlus,Sony,Like New,41350,20380,Individual,Business,Cashify,No,0,1,58,8637,Expired,Not Returned,East,Ranchi,4.4,Recycled
+LISTING_00030,PRD00030,Furniture,Dining Set,Godrej,Good,31760,22490,Individual,Individual,Cashify,No,0,1,29,8906,Expired,Not Returned,East,Patna,4.1,Landfill
+LISTING_00031,PRD00031,Furniture,Office Chair,Pepperfry,Like New,37460,35220,Individual,Individual,EchoChain Marketplace,No,0,1,48,8495,Expired,Not Returned,South,Kochi,4.1,Resold
+LISTING_00032,PRD00032,Laptops,Pavilion,Lenovo,Good,99320,76470,Individual,Individual,Local Dealer,Yes,7000,1,17,2853,Expired,Not Returned,North,Jaipur,5.0,Resold
+LISTING_00033,PRD00033,Fashion,Backpack,Levi's,Like New,1830,1300,Individual,Individual,Local Dealer,Yes,110,1,41,7017,Expired,Not Returned,West,Pune,4.5,Recycled
+LISTING_00034,PRD00034,Gaming,Monitor,Microsoft,Poor,56160,19860,Individual,Individual,Amazon Renewed,No,0,0,8,10592,Active,Not Returned,South,Bengaluru,4.5,Resold
+LISTING_00035,PRD00035,Furniture,Office Chair,Godrej,Good,40150,31380,Individual,Individual,OLX,No,0,0,32,2326,Expired,Not Returned,East,Kolkata,4.6,Resold
+LISTING_00036,PRD00036,Furniture,Dining Set,Wakefit,Like New,59940,52900,Individual,Individual,OLX,No,0,3,23,664,Extended,Not Returned,South,Bengaluru,4.6,Resold
+LISTING_00037,PRD00037,Laptops,MacBook Air,HP,Good,87680,77180,Individual,Individual,Cashify,No,0,2,3,7190,Active,Not Returned,North,Noida,3.8,Refurbished
+LISTING_00038,PRD00038,Home Appliances,Air Conditioner,LG,Good,8540,7160,Business,Business,Amazon Renewed,Yes,1600,3,38,3323,Expired,Not Returned,North,Lucknow,5.0,Resold
+LISTING_00039,PRD00039,Audio,Headphones,Sony,Good,19440,9920,Individual,Business,EchoChain Marketplace,No,0,0,23,10844,Expired,Not Returned,East,Guwahati,2.6,Refurbished
+LISTING_00040,PRD00040,Audio,Soundbar,JBL,Good,36540,23220,Individual,Individual,EchoChain Marketplace,No,0,3,13,5456,Expired,Not Returned,East,Guwahati,4.4,Recycled
+LISTING_00041,PRD00041,Cameras,DSLR,Canon,Good,41640,35720,Business,Individual,Facebook Marketplace,Yes,8300,2,26,7790,Extended,Not Returned,North,Lucknow,3.7,Resold
+LISTING_00042,PRD00042,Home Appliances,Vacuum Cleaner,Samsung,Fair,9710,3930,Individual,Individual,Cashify,No,0,0,40,10189,Expired,Not Returned,South,Chennai,2.3,Resold
+LISTING_00043,PRD00043,Laptops,Pavilion,Dell,Fair,32990,21770,Individual,Individual,Facebook Marketplace,Yes,5330,0,36,923,Extended,Not Returned,North,Jaipur,4.3,Refurbished
+LISTING_00044,PRD00044,Gaming,Monitor,ASUS,Good,26200,13810,Business,Individual,Local Dealer,No,0,2,59,3297,Expired,Not Returned,East,Patna,4.2,Resold
+LISTING_00045,PRD00045,Home Appliances,Air Conditioner,LG,Good,16770,14150,Business,Business,Cashify,Yes,1420,0,8,4159,Active,Not Returned,South,Hyderabad,4.4,Resold
+LISTING_00046,PRD00046,Smartphones,iPhone,Samsung,Good,36180,44700,Business,Individual,Cashify,No,0,2,3,10606,Active,Not Returned,North,Jaipur,3.9,Resold
+LISTING_00047,PRD00047,Laptops,IdeaPad,Dell,Fair,104340,45930,Business,Individual,Amazon Renewed,Yes,5410,2,19,11606,Expired,Not Returned,South,Hyderabad,4.0,Resold
+LISTING_00048,PRD00048,Gaming,Gaming Laptop,Meta,Fair,54710,22400,Business,Individual,Local Dealer,Yes,3690,1,46,2939,Expired,Not Returned,East,Kolkata,3.3,Refurbished
+LISTING_00049,PRD00049,Laptops,Inspiron,Lenovo,Like New,138370,107290,Individual,Individual,EchoChain Marketplace,No,0,0,9,8909,Active,Not Returned,South,Hyderabad,2.9,Resold
+LISTING_00050,PRD00050,Smartphones,OnePlus,Google,Poor,68310,19160,Business,Business,EchoChain Marketplace,Yes,11630,0,49,1343,Expired,Not Returned,East,Ranchi,3.3,Resold
+LISTING_00051,PRD00051,Audio,Wireless Earbuds,Sennheiser,Good,2420,2280,Individual,Individual,Amazon Renewed,Yes,390,0,34,3037,Extended,Not Returned,West,Pune,3.6,Resold
+LISTING_00052,PRD00052,Smartphones,Pixel,Samsung,Good,44550,20950,Individual,Individual,OLX,Yes,7060,1,60,10441,Expired,Not Returned,East,Guwahati,3.3,Refurbished
+LISTING_00053,PRD00053,Fashion,Backpack,Nike,Poor,21440,4380,Individual,Individual,Facebook Marketplace,No,0,2,35,11543,Expired,Not Returned,West,Mumbai,2.6,Recycled
+LISTING_00054,PRD00054,Furniture,Office Chair,Wakefit,Good,64400,42030,Individual,Business,OLX,No,0,1,17,780,Expired,Not Returned,North,Jaipur,4.6,Resold
+LISTING_00055,PRD00055,Cameras,Mirrorless Camera,Panasonic,Fair,27410,8760,Individual,Individual,EchoChain Marketplace,No,0,0,53,3840,Expired,Not Returned,South,Kochi,3.4,Resold
+LISTING_00056,PRD00056,Audio,Wireless Earbuds,Bose,Poor,21940,5580,Individual,Business,Facebook Marketplace,Yes,3060,0,52,7496,Expired,Not Returned,East,Bhubaneswar,2.0,Resold
+LISTING_00057,PRD00057,Smartphones,Pixel,Apple,Good,30360,20810,Individual,Individual,Cashify,No,0,0,12,2834,Active,Not Returned,West,Nagpur,3.9,Refurbished
+LISTING_00058,PRD00058,Smartphones,OnePlus,Samsung,Good,118070,59470,Individual,Business,Cashify,Yes,18050,0,30,4349,Expired,Not Returned,East,Ranchi,3.9,Refurbished
+LISTING_00059,PRD00059,Fashion,Denim,Levi's,Fair,19620,14520,Individual,Individual,EchoChain Marketplace,No,0,1,14,4587,Expired,Not Returned,South,Hyderabad,4.1,Recycled
+LISTING_00060,PRD00060,Smartphones,Pixel,Google,Good,17070,11670,Individual,Business,OLX,No,0,1,33,167,Expired,Not Returned,South,Kochi,4.2,Resold
+LISTING_00061,PRD00061,Home Appliances,Microwave,IFB,Fair,19700,14780,Individual,Individual,Cashify,Yes,6030,0,15,9166,Expired,Not Returned,North,Jaipur,4.4,Recycled
+LISTING_00062,PRD00062,Home Appliances,Vacuum Cleaner,Whirlpool,Good,50330,29370,Individual,Business,EchoChain Marketplace,No,0,1,43,9604,Expired,Not Returned,West,Mumbai,3.6,Refurbished
+LISTING_00063,PRD00063,Smartphones,Pixel,Samsung,Like New,123220,77720,Business,Individual,Amazon Renewed,No,0,2,15,10497,Expired,Not Returned,North,Jaipur,4.4,Recycled
+LISTING_00064,PRD00064,Home Appliances,Microwave,Daikin,Good,12370,6520,Individual,Individual,Cashify,Yes,1840,1,29,11650,Expired,Returned,South,Hyderabad,3.3,Resold
+LISTING_00065,PRD00065,Smartphones,iPhone,Apple,Good,105080,57720,Business,Business,EchoChain Marketplace,Yes,12170,3,32,482,Extended,Not Returned,East,Guwahati,4.6,Recycled
+LISTING_00066,PRD00066,Furniture,Bookshelf,Wakefit,Like New,55610,49810,Individual,Individual,Facebook Marketplace,No,0,1,14,4562,Expired,Not Returned,South,Kochi,4.0,Resold
+LISTING_00067,PRD00067,Laptops,Inspiron,Dell,Good,96050,43590,Individual,Individual,OLX,No,0,1,60,7989,Expired,Not Returned,South,Chennai,2.5,Resold
+LISTING_00068,PRD00068,Audio,Headphones,Sennheiser,Good,25160,15050,Individual,Business,OLX,No,0,4,37,717,Expired,Not Returned,West,Ahmedabad,4.3,Refurbished
+LISTING_00069,PRD00069,Furniture,Dining Set,IKEA,Good,23430,13990,Individual,Individual,EchoChain Marketplace,Yes,1440,1,26,7420,Expired,Not Returned,South,Kochi,3.3,Refurbished
+LISTING_00070,PRD00070,Cameras,Action Camera,Sony,Fair,51600,30200,Individual,Individual,Amazon Renewed,Yes,8990,0,19,9355,Expired,Not Returned,West,Pune,3.1,Refurbished
+LISTING_00071,PRD00071,Furniture,Dining Set,Pepperfry,Good,27820,22970,Individual,Individual,OLX,No,0,2,6,10781,Active,Not Returned,North,Jaipur,4.2,Refurbished
+LISTING_00072,PRD00072,Cameras,Mirrorless Camera,GoPro,Good,91590,54310,Business,Business,Facebook Marketplace,No,0,0,45,11815,Expired,Not Returned,East,Patna,3.9,Refurbished
+LISTING_00073,PRD00073,Laptops,ThinkPad,Lenovo,Like New,49920,59260,Individual,Individual,EchoChain Marketplace,Yes,12690,0,12,3091,Active,Not Returned,North,Chandigarh,3.5,Recycled
+LISTING_00074,PRD00074,Cameras,Lens,Panasonic,Good,128290,56340,Individual,Business,OLX,No,0,0,54,1234,Extended,Not Returned,West,Pune,4.4,Resold
+LISTING_00075,PRD00075,Laptops,MacBook Air,Lenovo,Fair,106120,46800,Individual,Individual,Amazon Renewed,No,0,1,18,5828,Expired,Not Returned,North,Delhi,3.7,Recycled
+LISTING_00076,PRD00076,Gaming,Gaming Laptop,Meta,Good,5980,6160,Individual,Individual,Local Dealer,No,0,1,27,4318,Expired,Not Returned,West,Mumbai,3.9,Refurbished
+LISTING_00077,PRD00077,Laptops,Pavilion,Acer,Fair,60630,25810,Individual,Individual,OLX,No,0,2,54,1196,Expired,Not Returned,South,Bengaluru,4.3,Refurbished
+LISTING_00078,PRD00078,Smartphones,Xperia,Samsung,Fair,84050,31410,Individual,Individual,Facebook Marketplace,No,0,2,59,10877,Expired,Not Returned,South,Kochi,4.8,Resold
+LISTING_00079,PRD00079,Audio,Soundbar,Sennheiser,Fair,26910,10370,Individual,Individual,Facebook Marketplace,Yes,4500,1,36,3733,Expired,Not Returned,East,Guwahati,3.5,Resold
+LISTING_00080,PRD00080,Laptops,ThinkPad,Lenovo,Fair,17510,11110,Individual,Individual,OLX,No,0,1,23,203,Extended,Not Returned,East,Guwahati,4.9,Resold
+LISTING_00081,PRD00081,Laptops,ThinkPad,Acer,Like New,33580,16710,Individual,Individual,OLX,No,0,2,59,8758,Expired,Not Returned,South,Hyderabad,3.7,Resold
+LISTING_00082,PRD00082,Fashion,Sneakers,Fossil,Good,21700,9600,Individual,Individual,Amazon Renewed,No,0,3,53,5352,Expired,Not Returned,South,Chennai,4.8,Refurbished
+LISTING_00083,PRD00083,Smartphones,iPhone,Google,Good,49380,26780,Business,Business,Local Dealer,Yes,3230,3,43,9682,Expired,Not Returned,North,Delhi,4.2,Landfill
+LISTING_00084,PRD00084,Furniture,Office Chair,Wakefit,Fair,48980,16050,Business,Business,OLX,Yes,2200,0,56,4283,Expired,Returned,South,Vijayawada,3.4,Resold
+LISTING_00085,PRD00085,Laptops,ThinkPad,HP,Fair,89810,35810,Individual,Individual,Cashify,No,0,0,29,6217,Expired,Not Returned,South,Bengaluru,3.5,Resold
+LISTING_00086,PRD00086,Furniture,Dining Set,Urban Ladder,Fair,18000,8190,Individual,Individual,Facebook Marketplace,No,0,4,35,2068,Extended,Not Returned,South,Vijayawada,3.2,Resold
+LISTING_00087,PRD00087,Gaming,Gaming Console,Sony,Fair,68390,23770,Business,Individual,Cashify,No,0,2,60,9941,Expired,Not Returned,West,Mumbai,4.5,Recycled
+LISTING_00088,PRD00088,Smartphones,OnePlus,Samsung,Good,27620,22450,Individual,Individual,OLX,No,0,2,34,5279,Expired,Not Returned,East,Guwahati,3.5,Recycled
+LISTING_00089,PRD00089,Gaming,VR Headset,Sony,Like New,44200,39050,Individual,Individual,EchoChain Marketplace,No,0,1,57,3080,Expired,Returned,East,Patna,2.5,Resold
+LISTING_00090,PRD00090,Home Appliances,Refrigerator,Daikin,Like New,36550,24510,Business,Individual,Cashify,No,0,0,47,10930,Expired,Not Returned,East,Guwahati,3.9,Refurbished
+LISTING_00091,PRD00091,Fashion,Jacket,Nike,Like New,4020,3400,Individual,Business,Facebook Marketplace,No,0,0,58,4400,Extended,Not Returned,East,Ranchi,4.5,Recycled
+LISTING_00092,PRD00092,Fashion,Denim,Adidas,Poor,32920,6790,Business,Individual,EchoChain Marketplace,No,0,1,39,2459,Expired,Not Returned,North,Lucknow,3.4,Resold
+LISTING_00093,PRD00093,Fashion,Denim,Levi's,Like New,22060,11360,Individual,Individual,Cashify,Yes,4140,1,52,6414,Extended,Not Returned,North,Chandigarh,4.9,Resold
+LISTING_00094,PRD00094,Audio,Bluetooth Speaker,Boat,Good,21370,21730,Individual,Individual,EchoChain Marketplace,No,0,2,12,7288,Active,Not Returned,South,Hyderabad,4.2,Resold
+LISTING_00095,PRD00095,Laptops,MacBook Air,Apple,Like New,61090,64040,Individual,Business,EchoChain Marketplace,No,0,0,35,3133,Expired,Not Returned,North,Noida,3.3,Resold
+LISTING_00096,PRD00096,Audio,Soundbar,JBL,Good,8390,6580,Individual,Individual,Amazon Renewed,No,0,1,13,10818,Expired,Not Returned,West,Surat,3.9,Resold
+LISTING_00097,PRD00097,Home Appliances,Washing Machine,Whirlpool,Like New,41090,32470,Business,Individual,EchoChain Marketplace,No,0,1,5,11897,Active,Not Returned,South,Hyderabad,3.3,Resold
+LISTING_00098,PRD00098,Furniture,Bookshelf,Urban Ladder,Good,57420,36750,Individual,Individual,Local Dealer,No,0,0,11,8010,Active,Not Returned,South,Vijayawada,4.6,Resold
+LISTING_00099,PRD00099,Smartphones,OnePlus,Sony,Good,109660,57220,Individual,Individual,EchoChain Marketplace,Yes,16510,1,24,9632,Expired,Not Returned,East,Bhubaneswar,5.0,Refurbished
+LISTING_00100,PRD00100,Furniture,Sofa,Urban Ladder,Fair,40870,34020,Individual,Individual,Local Dealer,No,0,0,3,7912,Active,Not Returned,North,Jaipur,3.6,Resold
+LISTING_00101,PRD00101,Furniture,Dining Set,Godrej,Good,13720,9110,Individual,Individual,Amazon Renewed,No,0,0,51,1419,Expired,Not Returned,West,Pune,4.7,Refurbished
+LISTING_00102,PRD00102,Fashion,Denim,Adidas,Like New,28910,19050,Individual,Individual,OLX,Yes,3890,0,36,170,Expired,Not Returned,South,Vijayawada,3.3,Refurbished
+LISTING_00103,PRD00103,Laptops,IdeaPad,Dell,Fair,80750,39530,Individual,Individual,Cashify,Yes,7230,5,54,5542,Expired,Not Returned,West,Pune,3.4,Resold
+LISTING_00104,PRD00104,Cameras,Lens,Canon,Like New,95500,68490,Business,Individual,Cashify,Yes,14820,0,33,9003,Expired,Not Returned,South,Chennai,4.2,Recycled
+LISTING_00105,PRD00105,Audio,Bluetooth Speaker,Sony,Good,22780,12070,Individual,Individual,Amazon Renewed,Yes,1950,0,24,11907,Expired,Not Returned,North,Noida,3.4,Resold
+LISTING_00106,PRD00106,Home Appliances,Vacuum Cleaner,Daikin,Good,40820,20750,Individual,Individual,Amazon Renewed,Yes,6150,0,52,2561,Expired,Not Returned,East,Ranchi,4.4,Recycled
+LISTING_00107,PRD00107,Cameras,Action Camera,Nikon,Like New,138550,100610,Individual,Individual,OLX,No,0,0,31,397,Expired,Not Returned,South,Hyderabad,5.0,Resold
+LISTING_00108,PRD00108,Home Appliances,Vacuum Cleaner,Whirlpool,Good,9720,5790,Individual,Business,Facebook Marketplace,No,0,0,51,11029,Expired,Returned,East,Guwahati,3.4,Recycled
+LISTING_00109,PRD00109,Laptops,IdeaPad,Acer,Good,31270,12010,Individual,Individual,Facebook Marketplace,No,0,0,46,3329,Expired,Not Returned,East,Guwahati,4.7,Resold
+LISTING_00110,PRD00110,Smartphones,Pixel,Sony,Good,15170,5840,Individual,Individual,EchoChain Marketplace,Yes,1920,2,42,9966,Expired,Not Returned,North,Lucknow,3.9,Refurbished
+LISTING_00111,PRD00111,Smartphones,Galaxy S Series,Sony,Fair,82120,37930,Individual,Individual,OLX,Yes,20970,1,33,8030,Extended,Not Returned,West,Mumbai,1.9,Resold
+LISTING_00112,PRD00112,Audio,Smart Speaker,Sony,Like New,10260,7140,Business,Individual,Cashify,Yes,610,1,14,1168,Expired,Not Returned,North,Lucknow,4.4,Refurbished
+LISTING_00113,PRD00113,Smartphones,OnePlus,Sony,Good,119930,67400,Individual,Individual,Amazon Renewed,No,0,2,20,9210,Expired,Not Returned,South,Kochi,2.9,Resold
+LISTING_00114,PRD00114,Audio,Wireless Earbuds,Boat,Fair,30740,11630,Individual,Business,Facebook Marketplace,No,0,2,32,3982,Expired,Not Returned,North,Delhi,3.8,Resold
+LISTING_00115,PRD00115,Fashion,Watch,Puma,Fair,8610,3440,Individual,Business,Amazon Renewed,No,0,1,55,9975,Expired,Not Returned,North,Noida,3.2,Resold
+LISTING_00116,PRD00116,Smartphones,OnePlus,Sony,Good,68430,57280,Business,Individual,Local Dealer,No,0,1,13,5661,Expired,Not Returned,South,Hyderabad,2.9,Recycled
+LISTING_00117,PRD00117,Gaming,Controller,Meta,Like New,5050,3140,Individual,Individual,Facebook Marketplace,No,0,0,55,3399,Extended,Not Returned,East,Bhubaneswar,4.5,Recycled
+LISTING_00118,PRD00118,Home Appliances,Refrigerator,LG,Good,32940,20190,Individual,Individual,Amazon Renewed,No,0,0,58,1866,Expired,Not Returned,South,Chennai,3.4,Recycled
+LISTING_00119,PRD00119,Home Appliances,Microwave,Samsung,Good,62760,37290,Individual,Individual,EchoChain Marketplace,Yes,3940,2,19,11573,Expired,Not Returned,North,Jaipur,2.6,Refurbished
+LISTING_00120,PRD00120,Laptops,IdeaPad,Acer,Fair,106890,53130,Business,Individual,EchoChain Marketplace,No,0,1,17,3096,Expired,Not Returned,North,Chandigarh,4.0,Recycled
+LISTING_00121,PRD00121,Laptops,MacBook Air,HP,Fair,83180,32700,Individual,Individual,OLX,No,0,1,29,4665,Expired,Not Returned,West,Ahmedabad,3.3,Resold
+LISTING_00122,PRD00122,Home Appliances,Vacuum Cleaner,LG,Good,17990,11990,Individual,Individual,Local Dealer,No,0,2,29,2255,Expired,Not Returned,North,Lucknow,3.9,Refurbished
+LISTING_00123,PRD00123,Smartphones,iPhone,Sony,Fair,26590,10890,Individual,Individual,Cashify,Yes,3330,0,42,4112,Expired,Not Returned,West,Pune,4.6,Refurbished
+LISTING_00124,PRD00124,Furniture,Sofa,Pepperfry,Like New,17320,13280,Individual,Individual,Facebook Marketplace,Yes,1350,1,46,9855,Expired,Not Returned,South,Hyderabad,3.9,Resold
+LISTING_00125,PRD00125,Furniture,Office Chair,Wakefit,Fair,16420,12050,Individual,Individual,EchoChain Marketplace,No,0,1,14,294,Expired,Not Returned,South,Bengaluru,3.6,Refurbished
+LISTING_00126,PRD00126,Furniture,Office Chair,IKEA,Like New,75920,51880,Business,Business,OLX,Yes,9230,1,16,4007,Expired,Not Returned,West,Pune,4.7,Resold
+LISTING_00127,PRD00127,Smartphones,iPhone,Sony,Good,73310,46210,Individual,Individual,Facebook Marketplace,Yes,13870,2,47,4969,Expired,Not Returned,North,Noida,4.1,Recycled
+LISTING_00128,PRD00128,Laptops,Pavilion,HP,Good,60780,31940,Business,Individual,Local Dealer,No,0,2,50,4911,Expired,Not Returned,West,Mumbai,3.8,Resold
+LISTING_00129,PRD00129,Smartphones,OnePlus,Google,Fair,44290,15960,Individual,Individual,Local Dealer,Yes,8010,0,38,2333,Expired,Not Returned,East,Guwahati,3.8,Resold
+LISTING_00130,PRD00130,Audio,Bluetooth Speaker,Sennheiser,Good,34870,16220,Individual,Individual,Amazon Renewed,No,0,1,36,5928,Expired,Not Returned,West,Surat,3.8,Refurbished
+LISTING_00131,PRD00131,Laptops,ThinkPad,Lenovo,Good,110870,83370,Business,Individual,EchoChain Marketplace,No,0,0,12,4046,Active,Not Returned,North,Delhi,4.7,Resold
+LISTING_00132,PRD00132,Home Appliances,Refrigerator,IFB,Good,22290,13360,Individual,Individual,Local Dealer,Yes,960,0,7,5010,Active,Not Returned,East,Kolkata,4.2,Refurbished
+LISTING_00133,PRD00133,Gaming,VR Headset,Microsoft,Good,49960,22710,Individual,Individual,Local Dealer,Yes,6820,2,28,839,Expired,Not Returned,South,Bengaluru,3.9,Resold
+LISTING_00134,PRD00134,Laptops,Inspiron,Acer,Fair,103310,53210,Individual,Business,Cashify,No,0,0,30,8450,Expired,Not Returned,North,Noida,4.1,Resold
+LISTING_00135,PRD00135,Audio,Bluetooth Speaker,Sennheiser,Fair,6970,3080,Business,Individual,Local Dealer,Yes,350,0,15,5797,Expired,Not Returned,South,Hyderabad,4.2,Recycled
+LISTING_00136,PRD00136,Laptops,IdeaPad,HP,Fair,122850,52970,Individual,Individual,Amazon Renewed,Yes,17660,1,31,7520,Extended,Not Returned,West,Surat,2.5,Resold
+LISTING_00137,PRD00137,Home Appliances,Air Conditioner,Samsung,Fair,73900,29690,Individual,Individual,Facebook Marketplace,No,0,1,35,9140,Expired,Not Returned,West,Nagpur,3.8,Resold
+LISTING_00138,PRD00138,Laptops,Pavilion,Acer,Good,73990,65140,Individual,Individual,EchoChain Marketplace,No,0,2,8,4966,Active,Not Returned,West,Nagpur,3.7,Resold
+LISTING_00139,PRD00139,Smartphones,Galaxy S Series,Apple,Fair,36450,18670,Individual,Business,OLX,No,0,2,58,3405,Expired,Not Returned,West,Ahmedabad,3.4,Resold
+LISTING_00140,PRD00140,Fashion,Backpack,Puma,Good,13700,13980,Individual,Individual,OLX,No,0,1,7,4766,Active,Not Returned,East,Ranchi,2.1,Resold
+LISTING_00141,PRD00141,Smartphones,OnePlus,Google,Like New,65960,54300,Individual,Individual,OLX,Yes,3350,1,45,208,Expired,Not Returned,East,Patna,3.4,Refurbished
+LISTING_00142,PRD00142,Audio,Soundbar,Sennheiser,Good,17190,14690,Business,Individual,Local Dealer,No,0,2,5,1995,Active,Not Returned,North,Chandigarh,4.2,Resold
+LISTING_00143,PRD00143,Audio,Wireless Earbuds,JBL,Good,37640,18670,Individual,Business,OLX,No,0,1,31,4586,Expired,Returned,West,Pune,4.1,Resold
+LISTING_00144,PRD00144,Laptops,IdeaPad,Dell,Good,89740,44710,Individual,Individual,EchoChain Marketplace,No,0,0,44,3975,Expired,Not Returned,West,Mumbai,4.7,Resold
+LISTING_00145,PRD00145,Laptops,IdeaPad,HP,Fair,130970,69390,Individual,Individual,Local Dealer,No,0,1,4,1202,Active,Not Returned,North,Jaipur,4.1,Resold
+LISTING_00146,PRD00146,Cameras,Mirrorless Camera,Canon,Good,55450,54720,Individual,Individual,OLX,Yes,16440,2,21,7768,Expired,Returned,South,Vijayawada,5.0,Resold
+LISTING_00147,PRD00147,Gaming,Gaming Console,Microsoft,Fair,6030,5670,Business,Individual,Cashify,No,0,1,9,6796,Active,Not Returned,East,Patna,3.9,Recycled
+LISTING_00148,PRD00148,Smartphones,Galaxy S Series,Sony,Good,13220,6350,Individual,Individual,Cashify,No,0,2,25,4915,Expired,Not Returned,North,Chandigarh,4.0,Resold
+LISTING_00149,PRD00149,Smartphones,Xperia,Apple,Fair,116250,33930,Individual,Individual,Local Dealer,Yes,16170,0,45,927,Expired,Not Returned,South,Kochi,3.6,Refurbished
+LISTING_00150,PRD00150,Smartphones,Pixel,OnePlus,Good,15080,9660,Individual,Individual,OLX,No,0,0,12,8762,Active,Not Returned,North,Chandigarh,4.3,Recycled
+LISTING_00151,PRD00151,Smartphones,iPhone,Sony,Good,91530,53030,Individual,Individual,Local Dealer,Yes,4250,0,5,6774,Active,Not Returned,West,Nagpur,3.6,Resold
+LISTING_00152,PRD00152,Gaming,VR Headset,Microsoft,Like New,6380,7580,Individual,Individual,EchoChain Marketplace,Yes,1320,2,5,6658,Active,Not Returned,North,Chandigarh,3.2,Landfill
+LISTING_00153,PRD00153,Gaming,Gaming Laptop,ASUS,Good,63280,29100,Individual,Individual,Cashify,No,0,1,37,9429,Expired,Not Returned,West,Ahmedabad,3.8,Resold
+LISTING_00154,PRD00154,Laptops,MacBook Air,Acer,Good,125790,61840,Individual,Individual,Cashify,No,0,0,44,6603,Extended,Not Returned,South,Hyderabad,3.8,Refurbished
+LISTING_00155,PRD00155,Smartphones,Xperia,Google,Like New,14500,16830,Individual,Individual,Cashify,No,0,1,23,7479,Expired,Not Returned,North,Chandigarh,3.2,Refurbished
+LISTING_00156,PRD00156,Home Appliances,Refrigerator,Daikin,Good,64790,51950,Business,Individual,OLX,No,0,2,6,8147,Active,Not Returned,West,Mumbai,4.0,Refurbished
+LISTING_00157,PRD00157,Audio,Wireless Earbuds,Bose,Like New,30280,22680,Business,Individual,Facebook Marketplace,No,0,0,42,11268,Expired,Not Returned,East,Kolkata,3.3,Landfill
+LISTING_00158,PRD00158,Laptops,Pavilion,Apple,Good,88350,61950,Individual,Individual,Cashify,No,0,2,26,6151,Expired,Returned,East,Bhubaneswar,4.2,Resold
+LISTING_00159,PRD00159,Gaming,Controller,ASUS,Fair,51410,23260,Individual,Individual,OLX,No,0,0,25,4320,Expired,Not Returned,East,Patna,4.2,Resold
+LISTING_00160,PRD00160,Furniture,Office Chair,Wakefit,Fair,39300,12070,Individual,Business,Local Dealer,Yes,3640,1,58,8881,Expired,Not Returned,North,Jaipur,4.0,Refurbished
+LISTING_00161,PRD00161,Smartphones,OnePlus,Samsung,Like New,73090,54800,Individual,Individual,Cashify,No,0,1,18,3804,Expired,Not Returned,South,Vijayawada,5.0,Recycled
+LISTING_00162,PRD00162,Smartphones,Pixel,Apple,Poor,72310,28640,Individual,Individual,OLX,Yes,12390,0,6,11432,Active,Not Returned,East,Bhubaneswar,3.1,Resold
+LISTING_00163,PRD00163,Home Appliances,Washing Machine,IFB,Good,44170,23030,Individual,Individual,Amazon Renewed,No,0,1,38,10034,Expired,Not Returned,East,Ranchi,4.4,Resold
+LISTING_00164,PRD00164,Furniture,Office Chair,Pepperfry,Fair,29800,13270,Business,Individual,EchoChain Marketplace,No,0,0,37,3786,Expired,Not Returned,West,Ahmedabad,2.6,Resold
+LISTING_00165,PRD00165,Fashion,Watch,Nike,Like New,20270,16960,Business,Business,Facebook Marketplace,No,0,0,24,7915,Expired,Not Returned,South,Vijayawada,4.2,Resold
+LISTING_00166,PRD00166,Smartphones,Xperia,Sony,Fair,45500,14880,Individual,Individual,Facebook Marketplace,Yes,7320,0,43,4103,Expired,Not Returned,East,Guwahati,2.3,Resold
+LISTING_00167,PRD00167,Cameras,Lens,Panasonic,Fair,25750,15000,Individual,Individual,Local Dealer,No,0,1,58,9440,Expired,Not Returned,South,Kochi,4.0,Resold
+LISTING_00168,PRD00168,Audio,Wireless Earbuds,JBL,Poor,41720,9500,Individual,Individual,Facebook Marketplace,No,0,0,24,2451,Extended,Not Returned,South,Bengaluru,3.3,Refurbished
+LISTING_00169,PRD00169,Fashion,Watch,Fossil,Fair,3440,1650,Individual,Individual,Cashify,Yes,320,0,26,5348,Expired,Not Returned,North,Jaipur,4.0,Refurbished
+LISTING_00170,PRD00170,Smartphones,OnePlus,OnePlus,Like New,97350,42290,Individual,Individual,Facebook Marketplace,Yes,16270,4,52,4180,Expired,Not Returned,West,Mumbai,4.8,Refurbished
+LISTING_00171,PRD00171,Gaming,Gaming Console,Sony,Poor,22490,4620,Individual,Business,Facebook Marketplace,Yes,1630,0,59,5498,Extended,Not Returned,East,Patna,3.5,Resold
+LISTING_00172,PRD00172,Smartphones,iPhone,Apple,Fair,48720,33990,Business,Individual,Local Dealer,No,0,0,41,2503,Expired,Not Returned,North,Noida,3.0,Landfill
+LISTING_00173,PRD00173,Home Appliances,Microwave,Whirlpool,Like New,18890,10420,Individual,Business,OLX,No,0,0,37,4100,Expired,Not Returned,North,Chandigarh,4.8,Resold
+LISTING_00174,PRD00174,Gaming,Gaming Laptop,ASUS,Good,103160,58920,Individual,Individual,EchoChain Marketplace,No,0,0,57,11263,Expired,Returned,West,Mumbai,4.1,Resold
+LISTING_00175,PRD00175,Laptops,ThinkPad,Apple,Good,80850,74180,Individual,Individual,EchoChain Marketplace,No,0,0,36,607,Expired,Returned,West,Nagpur,3.6,Refurbished
+LISTING_00176,PRD00176,Fashion,Backpack,Fossil,Fair,6870,2820,Individual,Individual,Amazon Renewed,No,0,1,4,8325,Active,Not Returned,West,Surat,4.1,Recycled
+LISTING_00177,PRD00177,Furniture,Study Table,Wakefit,Good,19080,10120,Business,Business,OLX,Yes,1360,1,54,609,Expired,Returned,North,Delhi,4.1,Refurbished
+LISTING_00178,PRD00178,Smartphones,iPhone,Apple,Fair,52390,22130,Business,Individual,Amazon Renewed,Yes,6600,1,40,1598,Expired,Not Returned,East,Patna,4.0,Refurbished
+LISTING_00179,PRD00179,Cameras,Camcorder,GoPro,Good,43000,32210,Business,Business,EchoChain Marketplace,No,0,2,13,1230,Expired,Not Returned,South,Bengaluru,4.7,Refurbished
+LISTING_00180,PRD00180,Laptops,Pavilion,Acer,Good,69960,32870,Individual,Individual,Cashify,Yes,2450,1,29,156,Expired,Not Returned,North,Chandigarh,4.6,Resold
+LISTING_00181,PRD00181,Laptops,Inspiron,Dell,Fair,52510,23440,Individual,Individual,EchoChain Marketplace,No,0,1,15,10230,Expired,Not Returned,South,Bengaluru,4.4,Refurbished
+LISTING_00182,PRD00182,Smartphones,Xperia,OnePlus,Like New,84180,39240,Individual,Individual,EchoChain Marketplace,No,0,2,56,2368,Extended,Not Returned,East,Guwahati,4.3,Resold
+LISTING_00183,PRD00183,Gaming,Gaming Console,Meta,Good,67590,53330,Individual,Individual,EchoChain Marketplace,No,0,1,45,1431,Expired,Not Returned,West,Pune,5.0,Resold
+LISTING_00184,PRD00184,Laptops,Pavilion,HP,Like New,52080,36800,Individual,Business,OLX,No,0,3,32,4432,Expired,Not Returned,South,Kochi,4.5,Refurbished
+LISTING_00185,PRD00185,Gaming,Gaming Console,Sony,Fair,34370,25950,Individual,Individual,Local Dealer,No,0,0,12,4020,Active,Not Returned,North,Lucknow,4.1,Recycled
+LISTING_00186,PRD00186,Smartphones,Xperia,OnePlus,Fair,70040,21530,Individual,Individual,Facebook Marketplace,Yes,7950,2,57,7954,Extended,Not Returned,West,Mumbai,3.6,Refurbished
+LISTING_00187,PRD00187,Smartphones,OnePlus,OnePlus,Good,79320,61890,Individual,Individual,Facebook Marketplace,No,0,1,4,7983,Active,Not Returned,South,Chennai,5.0,Resold
+LISTING_00188,PRD00188,Fashion,Backpack,Adidas,Fair,5430,2720,Business,Business,EchoChain Marketplace,No,0,5,32,1418,Expired,Not Returned,East,Patna,3.5,Resold
+LISTING_00189,PRD00189,Smartphones,Pixel,Apple,Fair,37220,16900,Individual,Business,Facebook Marketplace,No,0,3,49,4906,Expired,Not Returned,South,Chennai,4.2,Resold
+LISTING_00190,PRD00190,Fashion,Backpack,Adidas,Good,20090,9860,Individual,Business,Cashify,Yes,930,1,47,6054,Expired,Not Returned,West,Mumbai,5.0,Refurbished
+LISTING_00191,PRD00191,Gaming,Controller,ASUS,Fair,52800,26830,Individual,Business,Facebook Marketplace,No,0,0,32,229,Expired,Not Returned,West,Mumbai,3.9,Recycled
+LISTING_00192,PRD00192,Cameras,Action Camera,Panasonic,Good,63440,37990,Individual,Business,Cashify,No,0,0,48,5317,Expired,Not Returned,North,Jaipur,5.0,Resold
+LISTING_00193,PRD00193,Laptops,IdeaPad,Dell,Fair,139330,42240,Individual,Individual,Cashify,Yes,25790,0,48,4957,Expired,Not Returned,South,Kochi,3.5,Resold
+LISTING_00194,PRD00194,Furniture,Dining Set,Godrej,Fair,20470,9830,Business,Individual,Cashify,No,0,3,3,3140,Active,Not Returned,East,Bhubaneswar,2.8,Refurbished
+LISTING_00195,PRD00195,Laptops,Pavilion,Apple,Fair,72430,30460,Individual,Individual,Cashify,Yes,17760,0,49,3442,Expired,Not Returned,East,Guwahati,2.3,Resold
+LISTING_00196,PRD00196,Cameras,Lens,Panasonic,Good,63060,51520,Individual,Individual,Amazon Renewed,No,0,2,54,7841,Expired,Not Returned,North,Delhi,4.2,Resold
+LISTING_00197,PRD00197,Cameras,Lens,GoPro,Good,44060,25910,Individual,Individual,Local Dealer,Yes,8050,0,9,1502,Active,Not Returned,North,Chandigarh,4.0,Resold
+LISTING_00198,PRD00198,Furniture,Study Table,Pepperfry,Good,38130,25390,Individual,Individual,OLX,Yes,3090,2,3,6168,Active,Not Returned,North,Jaipur,3.4,Refurbished
+LISTING_00199,PRD00199,Cameras,Camcorder,GoPro,Like New,88630,118620,Individual,Individual,Facebook Marketplace,No,0,2,3,9137,Active,Not Returned,South,Kochi,3.7,Recycled
+LISTING_00200,PRD00200,Smartphones,iPhone,Apple,Good,44980,33020,Business,Business,Local Dealer,Yes,2930,1,31,241,Expired,Not Returned,South,Vijayawada,5.0,Refurbished
+LISTING_00201,PRD00201,Laptops,IdeaPad,HP,Good,92650,59410,Individual,Business,Local Dealer,Yes,17330,0,44,7111,Expired,Not Returned,West,Nagpur,4.6,Resold
+LISTING_00202,PRD00202,Home Appliances,Microwave,Samsung,Like New,38400,33130,Individual,Individual,Cashify,Yes,8020,2,57,5078,Expired,Not Returned,South,Chennai,2.3,Recycled
+LISTING_00203,PRD00203,Home Appliances,Air Conditioner,LG,Like New,98030,58210,Individual,Individual,OLX,Yes,11310,4,43,5815,Expired,Not Returned,South,Hyderabad,4.2,Refurbished
+LISTING_00204,PRD00204,Audio,Smart Speaker,Bose,Like New,6120,3160,Individual,Individual,Facebook Marketplace,Yes,270,1,56,7295,Expired,Not Returned,North,Chandigarh,4.6,Resold
+LISTING_00205,PRD00205,Furniture,Dining Set,Urban Ladder,Good,28610,17220,Individual,Business,Facebook Marketplace,Yes,2400,2,18,11145,Expired,Not Returned,East,Ranchi,4.4,Refurbished
+LISTING_00206,PRD00206,Smartphones,Xperia,Sony,Like New,24110,10900,Individual,Individual,OLX,No,0,2,57,1123,Expired,Not Returned,South,Chennai,3.7,Recycled
+LISTING_00207,PRD00207,Cameras,Camcorder,GoPro,Good,80160,48060,Individual,Individual,OLX,No,0,2,10,1594,Active,Not Returned,West,Mumbai,4.6,Recycled
+LISTING_00208,PRD00208,Smartphones,iPhone,Apple,Good,72370,61420,Individual,Individual,Cashify,Yes,5070,3,20,4612,Expired,Not Returned,South,Bengaluru,4.7,Refurbished
+LISTING_00209,PRD00209,Laptops,Pavilion,Dell,Fair,77580,41140,Individual,Individual,Facebook Marketplace,No,0,0,27,7863,Expired,Not Returned,South,Hyderabad,3.3,Resold
+LISTING_00210,PRD00210,Gaming,Monitor,Meta,Like New,156920,113810,Individual,Business,Cashify,No,0,0,12,6784,Active,Not Returned,West,Surat,3.2,Resold
+LISTING_00211,PRD00211,Fashion,Denim,Nike,Good,8180,6940,Business,Individual,Cashify,No,0,2,43,4139,Expired,Not Returned,South,Vijayawada,4.2,Recycled
+LISTING_00212,PRD00212,Laptops,IdeaPad,Acer,Good,59780,35690,Individual,Individual,OLX,No,0,0,4,8580,Active,Not Returned,East,Ranchi,3.1,Resold
+LISTING_00213,PRD00213,Furniture,Office Chair,Wakefit,Like New,46500,45530,Business,Individual,EchoChain Marketplace,Yes,9350,2,14,4101,Expired,Not Returned,South,Bengaluru,4.1,Refurbished
+LISTING_00214,PRD00214,Smartphones,Xperia,OnePlus,Fair,78440,31550,Individual,Business,Cashify,No,0,0,15,10167,Expired,Not Returned,South,Hyderabad,2.1,Refurbished
+LISTING_00215,PRD00215,Smartphones,OnePlus,Samsung,Like New,24470,19290,Individual,Individual,Local Dealer,No,0,2,16,675,Expired,Not Returned,South,Kochi,3.6,Resold
+LISTING_00216,PRD00216,Home Appliances,Refrigerator,Daikin,Like New,9560,9740,Individual,Individual,Amazon Renewed,No,0,4,17,3066,Expired,Not Returned,South,Hyderabad,4.5,Recycled
+LISTING_00217,PRD00217,Home Appliances,Refrigerator,IFB,Fair,17950,12070,Individual,Business,Cashify,No,0,1,38,5750,Extended,Not Returned,North,Lucknow,3.2,Resold
+LISTING_00218,PRD00218,Furniture,Sofa,IKEA,Fair,27390,9490,Individual,Individual,OLX,No,0,3,60,8418,Expired,Not Returned,North,Delhi,3.0,Resold
+LISTING_00219,PRD00219,Laptops,Inspiron,Acer,Fair,58120,20930,Business,Individual,OLX,No,0,0,48,10916,Expired,Not Returned,West,Nagpur,2.6,Resold
+LISTING_00220,PRD00220,Laptops,Inspiron,HP,Good,77040,59800,Individual,Business,Amazon Renewed,No,0,0,52,4195,Expired,Not Returned,North,Delhi,4.0,Resold
+LISTING_00221,PRD00221,Home Appliances,Washing Machine,Whirlpool,Good,8410,5440,Individual,Individual,Amazon Renewed,Yes,510,0,22,1126,Expired,Not Returned,North,Lucknow,4.3,Resold
+LISTING_00222,PRD00222,Fashion,Jacket,Levi's,Like New,13190,17140,Individual,Individual,Local Dealer,No,0,2,10,9274,Active,Not Returned,West,Surat,3.1,Resold
+LISTING_00223,PRD00223,Smartphones,iPhone,Apple,Good,7760,4430,Individual,Business,OLX,No,0,1,45,8803,Expired,Returned,South,Chennai,3.7,Refurbished
+LISTING_00224,PRD00224,Fashion,Jacket,Fossil,Good,2230,1450,Individual,Individual,Local Dealer,Yes,300,5,38,4526,Expired,Not Returned,South,Bengaluru,4.3,Refurbished
+LISTING_00225,PRD00225,Audio,Wireless Earbuds,Sony,Fair,15120,7090,Individual,Individual,Cashify,Yes,1370,2,26,4825,Expired,Not Returned,North,Delhi,3.8,Refurbished
+LISTING_00226,PRD00226,Laptops,IdeaPad,Dell,Good,22490,23000,Individual,Business,Amazon Renewed,No,0,3,7,1870,Active,Not Returned,West,Pune,3.7,Refurbished
+LISTING_00227,PRD00227,Laptops,ThinkPad,HP,Fair,68820,44570,Business,Individual,OLX,No,0,2,19,3290,Expired,Not Returned,West,Nagpur,4.3,Refurbished
+LISTING_00228,PRD00228,Fashion,Backpack,Adidas,Good,18550,12700,Individual,Individual,OLX,No,0,2,22,8402,Expired,Not Returned,South,Bengaluru,4.7,Resold
+LISTING_00229,PRD00229,Smartphones,iPhone,Google,Good,45120,23650,Individual,Individual,Cashify,No,0,2,48,10083,Expired,Not Returned,West,Surat,3.9,Resold
+LISTING_00230,PRD00230,Furniture,Study Table,Godrej,Good,30580,27230,Business,Individual,Amazon Renewed,Yes,4760,3,3,6817,Active,Not Returned,East,Guwahati,4.8,Recycled
+LISTING_00231,PRD00231,Smartphones,iPhone,Google,Like New,68190,35150,Business,Individual,Facebook Marketplace,No,0,0,57,1486,Extended,Not Returned,South,Vijayawada,4.1,Refurbished
+LISTING_00232,PRD00232,Gaming,Gaming Console,Meta,Good,87270,95420,Individual,Individual,EchoChain Marketplace,No,0,0,6,2476,Active,Not Returned,South,Kochi,3.8,Resold
+LISTING_00233,PRD00233,Laptops,MacBook Air,Lenovo,Fair,31180,20470,Individual,Individual,Cashify,Yes,5970,1,38,5417,Extended,Not Returned,South,Chennai,3.5,Recycled
+LISTING_00234,PRD00234,Furniture,Bookshelf,Godrej,Good,61200,41530,Individual,Individual,EchoChain Marketplace,Yes,6630,0,12,4973,Active,Not Returned,North,Delhi,4.7,Recycled
+LISTING_00235,PRD00235,Gaming,Gaming Laptop,Microsoft,Like New,39150,19750,Individual,Individual,Local Dealer,Yes,2430,3,57,407,Expired,Not Returned,East,Patna,3.3,Recycled
+LISTING_00236,PRD00236,Home Appliances,Microwave,LG,Good,62930,68830,Individual,Individual,Cashify,No,0,3,12,7061,Active,Returned,North,Noida,4.3,Refurbished
+LISTING_00237,PRD00237,Cameras,Action Camera,GoPro,Poor,79870,26020,Individual,Individual,OLX,No,0,1,20,10224,Expired,Not Returned,East,Ranchi,4.2,Resold
+LISTING_00238,PRD00238,Gaming,Gaming Console,Meta,Like New,2850,2740,Business,Business,Amazon Renewed,No,0,2,52,9575,Expired,Not Returned,West,Ahmedabad,3.1,Resold
+LISTING_00239,PRD00239,Smartphones,Xperia,Apple,Like New,37470,16880,Individual,Business,OLX,Yes,3170,0,50,11313,Expired,Not Returned,North,Delhi,3.5,Resold
+LISTING_00240,PRD00240,Furniture,Bookshelf,Urban Ladder,Poor,33470,8990,Individual,Individual,Facebook Marketplace,Yes,6670,1,28,10773,Expired,Not Returned,North,Noida,3.9,Refurbished
+LISTING_00241,PRD00241,Gaming,Controller,ASUS,Fair,128930,36550,Individual,Individual,OLX,Yes,8440,3,57,2715,Extended,Not Returned,South,Bengaluru,3.3,Recycled
+LISTING_00242,PRD00242,Gaming,Controller,Sony,Good,81830,71250,Individual,Business,Amazon Renewed,No,0,2,33,499,Expired,Not Returned,North,Noida,5.0,Resold
+LISTING_00243,PRD00243,Smartphones,Galaxy S Series,Samsung,Good,22560,8460,Individual,Individual,OLX,Yes,3240,0,54,3623,Expired,Not Returned,West,Surat,3.1,Refurbished
+LISTING_00244,PRD00244,Smartphones,iPhone,Sony,Good,44260,39370,Business,Individual,Cashify,Yes,13840,1,46,11421,Expired,Returned,South,Vijayawada,3.8,Recycled
+LISTING_00245,PRD00245,Fashion,Jacket,Fossil,Fair,14750,5200,Individual,Individual,Cashify,Yes,1180,0,50,2796,Expired,Not Returned,West,Nagpur,3.8,Resold
+LISTING_00246,PRD00246,Smartphones,Xperia,Sony,Good,13100,10380,Individual,Individual,OLX,No,0,0,35,7667,Extended,Not Returned,West,Nagpur,4.5,Resold
+LISTING_00247,PRD00247,Smartphones,Xperia,Sony,Fair,78400,35170,Individual,Individual,Cashify,Yes,11920,2,8,8759,Active,Not Returned,East,Bhubaneswar,3.4,Refurbished
+LISTING_00248,PRD00248,Cameras,Camcorder,Nikon,Good,32010,23560,Individual,Individual,Facebook Marketplace,No,0,0,3,601,Active,Not Returned,South,Bengaluru,3.5,Resold
+LISTING_00249,PRD00249,Cameras,Action Camera,GoPro,Good,114840,82710,Individual,Individual,Amazon Renewed,No,0,0,32,4049,Expired,Not Returned,West,Mumbai,4.1,Resold
+LISTING_00250,PRD00250,Furniture,Study Table,Urban Ladder,Good,38510,24820,Individual,Individual,Local Dealer,Yes,1810,0,28,10168,Expired,Not Returned,North,Jaipur,5.0,Refurbished
+LISTING_00251,PRD00251,Laptops,MacBook Air,Dell,Like New,60970,44230,Individual,Individual,Amazon Renewed,No,0,1,21,10214,Expired,Not Returned,North,Jaipur,3.7,Resold
+LISTING_00252,PRD00252,Cameras,Action Camera,Panasonic,Like New,145550,101380,Individual,Individual,Cashify,No,0,5,34,5983,Expired,Not Returned,North,Lucknow,4.3,Refurbished
+LISTING_00253,PRD00253,Fashion,Jacket,Adidas,Like New,7100,6590,Individual,Business,Cashify,No,0,0,35,1667,Expired,Not Returned,East,Patna,2.3,Resold
+LISTING_00254,PRD00254,Smartphones,iPhone,Apple,Good,60320,32620,Individual,Individual,Facebook Marketplace,Yes,12070,1,52,87,Expired,Not Returned,North,Chandigarh,2.5,Recycled
+LISTING_00255,PRD00255,Furniture,Office Chair,Urban Ladder,Good,29980,27070,Individual,Business,Facebook Marketplace,No,0,0,31,8757,Expired,Not Returned,West,Nagpur,4.3,Resold
+LISTING_00256,PRD00256,Gaming,Controller,ASUS,Good,122670,63170,Individual,Individual,Amazon Renewed,No,0,2,9,1418,Active,Not Returned,North,Delhi,4.0,Refurbished
+LISTING_00257,PRD00257,Laptops,ThinkPad,Acer,Fair,18280,10690,Business,Business,Local Dealer,No,0,0,6,6709,Active,Not Returned,North,Delhi,4.0,Refurbished
+LISTING_00258,PRD00258,Gaming,Monitor,Sony,Good,98470,64410,Individual,Individual,Local Dealer,Yes,23490,0,55,1466,Extended,Not Returned,East,Bhubaneswar,5.0,Landfill
+LISTING_00259,PRD00259,Gaming,Monitor,ASUS,Good,103560,66060,Individual,Individual,OLX,Yes,9140,1,8,7435,Active,Not Returned,East,Patna,3.4,Refurbished
+LISTING_00260,PRD00260,Home Appliances,Refrigerator,IFB,Good,39380,27360,Individual,Individual,EchoChain Marketplace,Yes,4810,2,60,11776,Extended,Not Returned,East,Bhubaneswar,3.9,Refurbished
+LISTING_00261,PRD00261,Gaming,Gaming Laptop,ASUS,Like New,25270,14740,Individual,Individual,Cashify,No,0,2,53,1284,Extended,Not Returned,North,Jaipur,4.2,Recycled
+LISTING_00262,PRD00262,Audio,Bluetooth Speaker,Sony,Fair,14950,8660,Individual,Individual,Cashify,Yes,1230,1,28,1292,Expired,Not Returned,North,Noida,3.3,Recycled
+LISTING_00263,PRD00263,Smartphones,iPhone,Samsung,Good,7440,5910,Business,Business,OLX,No,0,3,3,11502,Active,Not Returned,West,Surat,3.7,Resold
+LISTING_00264,PRD00264,Gaming,VR Headset,ASUS,Good,79200,46730,Individual,Individual,EchoChain Marketplace,Yes,16850,0,49,10398,Extended,Not Returned,West,Pune,4.1,Resold
+LISTING_00265,PRD00265,Laptops,Pavilion,Apple,Fair,65850,23780,Individual,Individual,OLX,Yes,6920,0,39,3571,Expired,Not Returned,South,Chennai,3.2,Landfill
+LISTING_00266,PRD00266,Gaming,Controller,Microsoft,Good,24270,20880,Individual,Individual,Facebook Marketplace,Yes,5090,2,21,4839,Expired,Not Returned,East,Bhubaneswar,4.5,Resold
+LISTING_00267,PRD00267,Laptops,Pavilion,Apple,Like New,37360,14860,Individual,Individual,Facebook Marketplace,No,0,2,58,999,Extended,Not Returned,East,Guwahati,3.6,Resold
+LISTING_00268,PRD00268,Smartphones,Xperia,OnePlus,Good,98280,52030,Individual,Individual,Local Dealer,No,0,2,49,2805,Extended,Not Returned,West,Surat,4.2,Recycled
+LISTING_00269,PRD00269,Gaming,Gaming Laptop,Meta,Fair,85850,58650,Individual,Individual,EchoChain Marketplace,Yes,16820,0,7,3098,Active,Not Returned,South,Kochi,3.9,Recycled
+LISTING_00270,PRD00270,Home Appliances,Refrigerator,Whirlpool,Like New,68700,58780,Business,Business,Facebook Marketplace,Yes,7950,1,10,9229,Active,Not Returned,North,Lucknow,5.0,Resold
+LISTING_00271,PRD00271,Smartphones,iPhone,Apple,Fair,69200,28230,Individual,Individual,Local Dealer,No,0,0,9,2139,Active,Not Returned,South,Bengaluru,3.3,Refurbished
+LISTING_00272,PRD00272,Audio,Smart Speaker,Sony,Fair,30340,10120,Individual,Individual,Facebook Marketplace,Yes,2800,0,56,7825,Expired,Not Returned,South,Hyderabad,3.1,Refurbished
+LISTING_00273,PRD00273,Smartphones,Xperia,Sony,Good,18230,15650,Business,Business,EchoChain Marketplace,Yes,4550,0,20,11024,Expired,Not Returned,North,Lucknow,3.6,Refurbished
+LISTING_00274,PRD00274,Laptops,MacBook Air,Lenovo,Fair,31150,12550,Individual,Individual,Amazon Renewed,No,0,2,4,2680,Active,Not Returned,West,Ahmedabad,3.9,Resold
+LISTING_00275,PRD00275,Audio,Bluetooth Speaker,Boat,Fair,26290,9110,Individual,Individual,Facebook Marketplace,No,0,0,47,7215,Expired,Not Returned,North,Jaipur,4.8,Recycled
+LISTING_00276,PRD00276,Audio,Bluetooth Speaker,Boat,Like New,20300,12690,Individual,Individual,Local Dealer,Yes,3600,1,43,8585,Expired,Not Returned,North,Delhi,4.3,Refurbished
+LISTING_00277,PRD00277,Laptops,Pavilion,Lenovo,Like New,22740,23030,Business,Individual,Local Dealer,Yes,5850,1,27,2457,Expired,Not Returned,East,Kolkata,3.8,Refurbished
+LISTING_00278,PRD00278,Laptops,IdeaPad,Apple,Fair,32770,14760,Individual,Individual,OLX,No,0,0,44,100,Expired,Not Returned,North,Lucknow,5.0,Refurbished
+LISTING_00279,PRD00279,Fashion,Backpack,Adidas,Good,22630,9260,Individual,Individual,Amazon Renewed,No,0,3,42,1616,Expired,Not Returned,South,Bengaluru,3.8,Resold
+LISTING_00280,PRD00280,Laptops,MacBook Air,HP,Good,59800,29020,Business,Individual,Local Dealer,Yes,5750,1,60,9956,Expired,Not Returned,East,Guwahati,4.1,Refurbished
+LISTING_00281,PRD00281,Laptops,Pavilion,Lenovo,Good,76170,57850,Individual,Individual,Facebook Marketplace,Yes,16520,0,8,2725,Active,Not Returned,North,Jaipur,3.6,Recycled
+LISTING_00282,PRD00282,Home Appliances,Air Conditioner,LG,Good,61040,22860,Individual,Individual,Facebook Marketplace,Yes,8830,0,52,4131,Expired,Not Returned,South,Hyderabad,3.7,Recycled
+LISTING_00283,PRD00283,Cameras,DSLR,Sony,Fair,98380,50120,Individual,Individual,Local Dealer,No,0,1,10,1294,Active,Not Returned,West,Ahmedabad,2.2,Resold
+LISTING_00284,PRD00284,Audio,Soundbar,JBL,Fair,4080,1690,Individual,Individual,EchoChain Marketplace,Yes,340,0,30,11037,Expired,Not Returned,West,Mumbai,4.2,Resold
+LISTING_00285,PRD00285,Cameras,Lens,Sony,Like New,52000,49660,Individual,Individual,OLX,Yes,9200,0,55,5426,Expired,Not Returned,North,Jaipur,4.2,Resold
+LISTING_00286,PRD00286,Gaming,Gaming Console,ASUS,Good,86180,49490,Individual,Individual,EchoChain Marketplace,No,0,1,59,6212,Expired,Not Returned,South,Chennai,3.6,Landfill
+LISTING_00287,PRD00287,Home Appliances,Vacuum Cleaner,Whirlpool,Like New,52690,53580,Individual,Individual,OLX,No,0,0,15,3779,Extended,Not Returned,West,Mumbai,4.7,Resold
+LISTING_00288,PRD00288,Home Appliances,Air Conditioner,Samsung,Good,46480,36040,Individual,Individual,Cashify,Yes,4170,3,35,6118,Extended,Not Returned,East,Patna,4.5,Recycled
+LISTING_00289,PRD00289,Laptops,Pavilion,Lenovo,Fair,72250,26810,Individual,Business,Local Dealer,No,0,1,20,6637,Expired,Not Returned,South,Chennai,2.7,Recycled
+LISTING_00290,PRD00290,Laptops,Inspiron,Dell,Good,36500,15110,Individual,Individual,Facebook Marketplace,Yes,5730,4,56,7134,Expired,Not Returned,South,Bengaluru,4.7,Resold
+LISTING_00291,PRD00291,Smartphones,Galaxy S Series,Sony,Good,41550,18640,Individual,Individual,Local Dealer,No,0,4,48,10867,Extended,Not Returned,South,Hyderabad,4.4,Resold
+LISTING_00292,PRD00292,Fashion,Denim,Puma,Good,32080,15280,Individual,Individual,Local Dealer,No,0,2,47,9265,Expired,Not Returned,South,Kochi,2.7,Refurbished
+LISTING_00293,PRD00293,Home Appliances,Microwave,Samsung,Good,42620,27090,Business,Individual,Local Dealer,No,0,1,47,431,Expired,Not Returned,West,Pune,2.9,Recycled
+LISTING_00294,PRD00294,Laptops,Inspiron,HP,Good,96590,57810,Individual,Business,EchoChain Marketplace,No,0,2,49,2740,Expired,Not Returned,East,Guwahati,4.4,Resold
+LISTING_00295,PRD00295,Smartphones,OnePlus,Apple,Good,11220,5360,Individual,Individual,EchoChain Marketplace,No,0,2,36,8995,Extended,Not Returned,North,Lucknow,3.9,Refurbished
+LISTING_00296,PRD00296,Laptops,Pavilion,Apple,Good,79690,52750,Individual,Individual,OLX,Yes,17260,2,51,642,Expired,Not Returned,South,Bengaluru,3.9,Resold
+LISTING_00297,PRD00297,Smartphones,Xperia,Apple,Good,68240,64400,Individual,Individual,Cashify,No,0,2,32,6063,Extended,Not Returned,South,Hyderabad,3.6,Resold
+LISTING_00298,PRD00298,Smartphones,Galaxy S Series,Sony,Fair,64380,32380,Business,Individual,Cashify,No,0,0,57,2037,Expired,Not Returned,West,Mumbai,3.4,Resold
+LISTING_00299,PRD00299,Smartphones,Galaxy S Series,Sony,Fair,98580,24890,Individual,Individual,OLX,No,0,1,50,7523,Expired,Not Returned,North,Delhi,3.0,Recycled
+LISTING_00300,PRD00300,Home Appliances,Washing Machine,LG,Fair,38180,21070,Individual,Individual,EchoChain Marketplace,Yes,3370,1,20,8086,Expired,Not Returned,South,Bengaluru,5.0,Refurbished
+LISTING_00301,PRD00301,Cameras,DSLR,Panasonic,Like New,196170,92890,Individual,Individual,Amazon Renewed,No,0,1,51,2523,Expired,Not Returned,East,Kolkata,5.0,Resold
+LISTING_00302,PRD00302,Laptops,ThinkPad,Apple,Good,72320,43880,Individual,Individual,Cashify,No,0,0,36,8503,Expired,Not Returned,East,Ranchi,3.5,Refurbished
+LISTING_00303,PRD00303,Laptops,MacBook Air,Apple,Good,44520,21860,Individual,Individual,Cashify,No,0,0,59,4057,Expired,Not Returned,West,Nagpur,4.6,Recycled
+LISTING_00304,PRD00304,Smartphones,OnePlus,OnePlus,Good,72440,53950,Individual,Individual,Cashify,No,0,1,34,1620,Expired,Not Returned,West,Ahmedabad,4.5,Refurbished
+LISTING_00305,PRD00305,Furniture,Dining Set,Wakefit,Good,8350,5870,Business,Individual,Local Dealer,No,0,0,38,8050,Extended,Not Returned,North,Delhi,3.6,Resold
+LISTING_00306,PRD00306,Smartphones,Xperia,Google,Good,35440,13590,Business,Individual,Amazon Renewed,No,0,1,57,472,Expired,Not Returned,South,Chennai,3.7,Landfill
+LISTING_00307,PRD00307,Furniture,Sofa,Godrej,Fair,8240,5750,Business,Individual,EchoChain Marketplace,No,0,0,12,8283,Active,Not Returned,South,Chennai,3.9,Refurbished
+LISTING_00308,PRD00308,Cameras,Action Camera,Canon,Fair,52320,27030,Individual,Individual,OLX,Yes,9520,1,19,511,Expired,Not Returned,East,Ranchi,4.0,Refurbished
+LISTING_00309,PRD00309,Gaming,Monitor,Meta,Fair,15560,7600,Business,Business,EchoChain Marketplace,No,0,0,36,11087,Expired,Not Returned,North,Delhi,3.2,Recycled
+LISTING_00310,PRD00310,Smartphones,Xperia,Google,Good,21940,15240,Individual,Individual,OLX,Yes,5160,1,37,5607,Expired,Not Returned,West,Surat,5.0,Landfill
+LISTING_00311,PRD00311,Smartphones,OnePlus,OnePlus,Good,68350,42040,Individual,Individual,Cashify,No,0,1,18,1075,Expired,Not Returned,West,Surat,3.1,Refurbished
+LISTING_00312,PRD00312,Laptops,Inspiron,Dell,Good,35500,22560,Business,Individual,Cashify,No,0,0,56,8632,Extended,Not Returned,South,Chennai,4.0,Resold
+LISTING_00313,PRD00313,Smartphones,Xperia,Apple,Like New,111990,94590,Individual,Individual,OLX,No,0,0,3,5504,Active,Not Returned,East,Kolkata,4.7,Resold
+LISTING_00314,PRD00314,Smartphones,OnePlus,Sony,Good,45600,17910,Individual,Business,OLX,No,0,3,40,2398,Expired,Not Returned,West,Mumbai,3.7,Resold
+LISTING_00315,PRD00315,Laptops,MacBook Air,Acer,Fair,66970,30480,Individual,Individual,Local Dealer,No,0,0,13,4408,Expired,Not Returned,North,Lucknow,3.0,Resold
+LISTING_00316,PRD00316,Smartphones,Pixel,Apple,Good,55360,29180,Individual,Individual,OLX,No,0,2,35,6006,Expired,Not Returned,West,Surat,3.3,Recycled
+LISTING_00317,PRD00317,Laptops,MacBook Air,Apple,Good,74020,54140,Individual,Individual,Local Dealer,No,0,2,41,9587,Expired,Not Returned,West,Surat,4.3,Recycled
+LISTING_00318,PRD00318,Laptops,Inspiron,Apple,Like New,43710,28990,Individual,Individual,EchoChain Marketplace,No,0,0,50,4960,Expired,Not Returned,East,Ranchi,4.2,Resold
+LISTING_00319,PRD00319,Home Appliances,Refrigerator,LG,Good,58660,43160,Individual,Individual,Amazon Renewed,Yes,5520,1,3,9689,Active,Not Returned,West,Mumbai,4.3,Resold
+LISTING_00320,PRD00320,Furniture,Sofa,Wakefit,Fair,21290,8230,Individual,Individual,Facebook Marketplace,Yes,960,1,58,10432,Expired,Not Returned,East,Ranchi,2.9,Resold
+LISTING_00321,PRD00321,Fashion,Watch,Nike,Like New,1830,1470,Individual,Individual,OLX,No,0,2,12,9377,Active,Not Returned,South,Bengaluru,4.3,Resold
+LISTING_00322,PRD00322,Fashion,Backpack,Fossil,Like New,21110,10660,Individual,Individual,EchoChain Marketplace,Yes,1540,3,54,6702,Expired,Not Returned,North,Jaipur,3.5,Resold
+LISTING_00323,PRD00323,Laptops,ThinkPad,Apple,Good,92080,53410,Individual,Individual,Amazon Renewed,Yes,21800,0,39,1308,Expired,Not Returned,North,Jaipur,4.9,Refurbished
+LISTING_00324,PRD00324,Gaming,Monitor,ASUS,Poor,42880,20390,Business,Individual,EchoChain Marketplace,No,0,2,12,2823,Active,Not Returned,East,Patna,3.8,Recycled
+LISTING_00325,PRD00325,Smartphones,Pixel,Sony,Good,78190,28780,Individual,Business,EchoChain Marketplace,Yes,8800,0,53,6955,Expired,Not Returned,East,Bhubaneswar,5.0,Recycled
+LISTING_00326,PRD00326,Fashion,Jacket,Adidas,Poor,3190,1290,Individual,Individual,Cashify,No,0,0,25,5847,Expired,Not Returned,North,Chandigarh,2.4,Recycled
+LISTING_00327,PRD00327,Smartphones,Galaxy S Series,Apple,Fair,19920,9560,Individual,Individual,Amazon Renewed,No,0,0,27,3626,Expired,Not Returned,South,Hyderabad,4.3,Landfill
+LISTING_00328,PRD00328,Home Appliances,Vacuum Cleaner,Whirlpool,Good,20990,20650,Business,Individual,Local Dealer,No,0,0,13,1696,Expired,Not Returned,South,Vijayawada,4.6,Refurbished
+LISTING_00329,PRD00329,Home Appliances,Air Conditioner,LG,Like New,45420,24770,Individual,Individual,Cashify,No,0,4,50,2355,Expired,Not Returned,West,Mumbai,4.9,Resold
+LISTING_00330,PRD00330,Smartphones,Xperia,Apple,Good,21720,11960,Individual,Individual,Local Dealer,No,0,2,33,949,Expired,Not Returned,South,Kochi,3.9,Recycled
+LISTING_00331,PRD00331,Home Appliances,Microwave,LG,Fair,60210,25360,Individual,Individual,EchoChain Marketplace,Yes,7380,0,18,2032,Expired,Not Returned,South,Bengaluru,2.9,Resold
+LISTING_00332,PRD00332,Cameras,Camcorder,GoPro,Fair,14450,4730,Business,Individual,Local Dealer,Yes,2930,1,57,11865,Extended,Not Returned,East,Kolkata,2.6,Refurbished
+LISTING_00333,PRD00333,Smartphones,Pixel,OnePlus,Good,16260,13290,Individual,Individual,Facebook Marketplace,Yes,4440,1,16,1439,Expired,Not Returned,South,Chennai,4.7,Resold
+LISTING_00334,PRD00334,Home Appliances,Vacuum Cleaner,IFB,Good,50720,30990,Individual,Individual,Amazon Renewed,No,0,0,57,8154,Expired,Not Returned,West,Surat,4.0,Resold
+LISTING_00335,PRD00335,Smartphones,Pixel,Apple,Fair,87700,32220,Business,Individual,EchoChain Marketplace,No,0,0,60,10665,Expired,Not Returned,South,Vijayawada,2.2,Resold
+LISTING_00336,PRD00336,Fashion,Backpack,Puma,Good,17070,14340,Individual,Business,OLX,Yes,4560,1,43,9245,Expired,Returned,East,Kolkata,3.1,Refurbished
+LISTING_00337,PRD00337,Fashion,Sneakers,Adidas,Fair,11460,6410,Individual,Individual,EchoChain Marketplace,No,0,1,47,5700,Expired,Not Returned,East,Bhubaneswar,4.1,Resold
+LISTING_00338,PRD00338,Cameras,Action Camera,Sony,Good,10670,10710,Individual,Individual,EchoChain Marketplace,Yes,3590,3,10,3360,Active,Not Returned,West,Nagpur,3.1,Resold
+LISTING_00339,PRD00339,Audio,Soundbar,JBL,Good,4490,1550,Individual,Business,OLX,No,0,3,59,747,Expired,Not Returned,East,Bhubaneswar,4.6,Recycled
+LISTING_00340,PRD00340,Gaming,Gaming Console,Lenovo,Fair,43940,13710,Individual,Business,Facebook Marketplace,No,0,0,53,4440,Expired,Returned,East,Ranchi,4.6,Resold
+LISTING_00341,PRD00341,Home Appliances,Microwave,LG,Poor,13980,3150,Individual,Individual,OLX,No,0,1,39,2158,Expired,Not Returned,South,Bengaluru,3.1,Resold
+LISTING_00342,PRD00342,Fashion,Jacket,Levi's,Good,14510,8790,Individual,Individual,Cashify,No,0,2,15,8418,Expired,Not Returned,South,Hyderabad,4.0,Refurbished
+LISTING_00343,PRD00343,Smartphones,Xperia,Apple,Fair,130250,41970,Individual,Individual,EchoChain Marketplace,No,0,1,23,9012,Expired,Not Returned,South,Kochi,3.0,Refurbished
+LISTING_00344,PRD00344,Smartphones,Galaxy S Series,Samsung,Good,21820,14730,Business,Individual,EchoChain Marketplace,Yes,2550,1,42,4769,Expired,Not Returned,South,Chennai,3.8,Landfill
+LISTING_00345,PRD00345,Audio,Wireless Earbuds,JBL,Like New,13780,14460,Business,Business,EchoChain Marketplace,No,0,1,6,8730,Active,Not Returned,East,Kolkata,2.4,Resold
+LISTING_00346,PRD00346,Fashion,Jacket,Adidas,Good,10040,4490,Individual,Individual,Cashify,No,0,2,39,5612,Expired,Not Returned,East,Kolkata,2.8,Resold
+LISTING_00347,PRD00347,Audio,Bluetooth Speaker,JBL,Good,36770,27590,Individual,Individual,Cashify,No,0,3,9,6320,Active,Not Returned,South,Hyderabad,3.9,Recycled
+LISTING_00348,PRD00348,Cameras,Action Camera,Nikon,Poor,104350,32640,Business,Individual,Facebook Marketplace,Yes,9790,0,22,1783,Extended,Not Returned,West,Nagpur,3.8,Refurbished
+LISTING_00349,PRD00349,Home Appliances,Vacuum Cleaner,Daikin,Good,68580,65620,Individual,Individual,Local Dealer,No,0,0,4,2750,Active,Not Returned,North,Jaipur,3.6,Resold
+LISTING_00350,PRD00350,Audio,Smart Speaker,Sennheiser,Fair,14000,9750,Individual,Business,Amazon Renewed,No,0,0,15,10561,Expired,Not Returned,South,Hyderabad,2.3,Resold
+LISTING_00351,PRD00351,Fashion,Sneakers,Adidas,Good,25170,22030,Individual,Individual,OLX,No,0,0,6,1288,Active,Not Returned,West,Surat,3.4,Recycled
+LISTING_00352,PRD00352,Smartphones,OnePlus,Google,Good,108100,64470,Business,Individual,Facebook Marketplace,No,0,0,7,4247,Active,Not Returned,West,Nagpur,4.5,Refurbished
+LISTING_00353,PRD00353,Gaming,Controller,Microsoft,Good,95680,84880,Individual,Individual,EchoChain Marketplace,Yes,21430,0,7,3027,Active,Not Returned,South,Hyderabad,5.0,Resold
+LISTING_00354,PRD00354,Home Appliances,Vacuum Cleaner,Samsung,Fair,52560,14710,Individual,Individual,Facebook Marketplace,No,0,3,46,11118,Expired,Not Returned,East,Patna,3.4,Resold
+LISTING_00355,PRD00355,Furniture,Bookshelf,Wakefit,Good,62020,45600,Individual,Individual,OLX,No,0,4,12,4857,Active,Not Returned,North,Chandigarh,4.6,Refurbished
+LISTING_00356,PRD00356,Home Appliances,Vacuum Cleaner,Whirlpool,Good,100990,62220,Individual,Business,Amazon Renewed,Yes,7930,1,18,4773,Expired,Not Returned,West,Surat,3.6,Refurbished
+LISTING_00357,PRD00357,Laptops,ThinkPad,HP,Good,54570,25530,Individual,Individual,OLX,No,0,2,28,636,Extended,Not Returned,North,Noida,3.2,Resold
+LISTING_00358,PRD00358,Home Appliances,Microwave,LG,Good,73520,30210,Individual,Individual,EchoChain Marketplace,Yes,12750,1,52,10342,Expired,Not Returned,North,Jaipur,3.9,Resold
+LISTING_00359,PRD00359,Smartphones,Xperia,OnePlus,Fair,56160,24000,Individual,Individual,Local Dealer,No,0,0,12,1920,Active,Not Returned,West,Surat,2.4,Resold
+LISTING_00360,PRD00360,Smartphones,iPhone,Apple,Fair,23840,8190,Individual,Individual,Facebook Marketplace,Yes,3340,0,31,8215,Expired,Returned,North,Delhi,3.3,Resold
+LISTING_00361,PRD00361,Fashion,Denim,Levi's,Good,6200,5380,Individual,Business,Local Dealer,Yes,1380,1,48,7363,Expired,Not Returned,South,Kochi,3.6,Landfill
+LISTING_00362,PRD00362,Home Appliances,Vacuum Cleaner,IFB,Good,54090,22270,Business,Individual,EchoChain Marketplace,No,0,0,59,8675,Expired,Not Returned,North,Delhi,5.0,Resold
+LISTING_00363,PRD00363,Cameras,Mirrorless Camera,Panasonic,Fair,127510,53970,Individual,Individual,OLX,Yes,14660,0,28,1952,Expired,Not Returned,South,Bengaluru,3.8,Refurbished
+LISTING_00364,PRD00364,Smartphones,iPhone,Apple,Fair,24120,13920,Individual,Individual,Facebook Marketplace,No,0,1,30,4359,Expired,Not Returned,East,Kolkata,3.6,Refurbished
+LISTING_00365,PRD00365,Smartphones,iPhone,Apple,Fair,17520,5770,Business,Individual,Facebook Marketplace,No,0,0,54,1147,Expired,Not Returned,North,Jaipur,3.5,Refurbished
+LISTING_00366,PRD00366,Smartphones,iPhone,Samsung,Good,60390,38930,Individual,Individual,Amazon Renewed,No,0,1,45,7409,Expired,Returned,North,Jaipur,4.6,Resold
+LISTING_00367,PRD00367,Home Appliances,Vacuum Cleaner,IFB,Good,8320,4200,Individual,Business,OLX,Yes,580,3,57,1541,Expired,Not Returned,East,Bhubaneswar,3.7,Resold
+LISTING_00368,PRD00368,Laptops,IdeaPad,Dell,Good,90530,61980,Individual,Individual,Cashify,No,0,1,47,7028,Expired,Not Returned,North,Noida,3.6,Resold
+LISTING_00369,PRD00369,Home Appliances,Refrigerator,IFB,Good,66230,31940,Individual,Individual,Cashify,No,0,4,37,10400,Expired,Not Returned,West,Mumbai,3.6,Refurbished
+LISTING_00370,PRD00370,Furniture,Dining Set,IKEA,Good,65920,31380,Individual,Individual,Cashify,No,0,1,51,9342,Expired,Not Returned,East,Ranchi,3.3,Resold
+LISTING_00371,PRD00371,Fashion,Backpack,Fossil,Good,22010,9280,Individual,Individual,Amazon Renewed,Yes,1600,1,38,1219,Expired,Not Returned,North,Lucknow,3.6,Refurbished
+LISTING_00372,PRD00372,Home Appliances,Air Conditioner,Samsung,Good,52060,22450,Individual,Individual,EchoChain Marketplace,No,0,5,33,7868,Expired,Not Returned,South,Kochi,3.9,Recycled
+LISTING_00373,PRD00373,Gaming,Monitor,ASUS,Good,36500,19590,Individual,Individual,OLX,No,0,3,16,6235,Extended,Not Returned,North,Chandigarh,5.0,Recycled
+LISTING_00374,PRD00374,Laptops,Inspiron,Acer,Good,38450,21320,Individual,Individual,Amazon Renewed,No,0,1,35,5814,Expired,Not Returned,South,Hyderabad,4.9,Resold
+LISTING_00375,PRD00375,Smartphones,OnePlus,Samsung,Good,117090,48060,Individual,Individual,Amazon Renewed,No,0,0,60,8058,Expired,Not Returned,North,Noida,4.2,Resold
+LISTING_00376,PRD00376,Laptops,ThinkPad,Acer,Good,71190,63680,Individual,Individual,Local Dealer,Yes,12700,0,7,2229,Active,Not Returned,North,Chandigarh,4.6,Recycled
+LISTING_00377,PRD00377,Smartphones,Galaxy S Series,OnePlus,Good,104160,54830,Individual,Individual,EchoChain Marketplace,No,0,1,36,10505,Expired,Not Returned,East,Bhubaneswar,4.4,Resold
+LISTING_00378,PRD00378,Smartphones,Xperia,Apple,Poor,100530,23900,Individual,Individual,Cashify,No,0,1,34,816,Expired,Not Returned,South,Vijayawada,3.2,Resold
+LISTING_00379,PRD00379,Furniture,Study Table,Urban Ladder,Fair,18630,9100,Individual,Individual,OLX,No,0,3,13,8601,Expired,Not Returned,South,Bengaluru,3.0,Resold
+LISTING_00380,PRD00380,Smartphones,Pixel,Apple,Good,71530,36150,Individual,Individual,OLX,No,0,0,35,3215,Expired,Not Returned,South,Vijayawada,3.4,Resold
+LISTING_00381,PRD00381,Home Appliances,Air Conditioner,IFB,Good,58730,57900,Individual,Business,Cashify,Yes,3810,2,16,5631,Expired,Not Returned,South,Bengaluru,2.8,Refurbished
+LISTING_00382,PRD00382,Cameras,Mirrorless Camera,Canon,Like New,141320,131440,Individual,Individual,EchoChain Marketplace,No,0,1,22,4520,Expired,Not Returned,West,Ahmedabad,4.6,Refurbished
+LISTING_00383,PRD00383,Furniture,Office Chair,Godrej,Good,3170,3120,Individual,Individual,Local Dealer,No,0,0,11,5408,Active,Not Returned,North,Noida,4.2,Refurbished
+LISTING_00384,PRD00384,Audio,Wireless Earbuds,Sony,Good,29590,17040,Individual,Business,Local Dealer,Yes,2940,0,14,6516,Expired,Not Returned,West,Surat,4.0,Refurbished
+LISTING_00385,PRD00385,Laptops,IdeaPad,HP,Good,79530,64280,Individual,Individual,Amazon Renewed,Yes,18200,1,37,8796,Extended,Not Returned,South,Bengaluru,3.7,Resold
+LISTING_00386,PRD00386,Smartphones,Pixel,Sony,Good,79240,50360,Business,Individual,EchoChain Marketplace,Yes,9470,1,25,1883,Extended,Not Returned,South,Kochi,4.0,Refurbished
+LISTING_00387,PRD00387,Smartphones,Galaxy S Series,Apple,Like New,42610,32900,Individual,Individual,EchoChain Marketplace,Yes,6880,4,45,2025,Expired,Not Returned,East,Guwahati,4.3,Refurbished
+LISTING_00388,PRD00388,Furniture,Bookshelf,Godrej,Fair,54270,18120,Business,Individual,EchoChain Marketplace,No,0,1,55,1878,Expired,Not Returned,East,Guwahati,3.9,Resold
+LISTING_00389,PRD00389,Audio,Headphones,Sennheiser,Like New,6700,4670,Individual,Individual,Local Dealer,Yes,1320,0,37,6386,Expired,Not Returned,East,Bhubaneswar,3.9,Refurbished
+LISTING_00390,PRD00390,Fashion,Jacket,Nike,Good,13390,6260,Individual,Individual,Cashify,No,0,0,41,10465,Expired,Not Returned,South,Chennai,3.3,Refurbished
+LISTING_00391,PRD00391,Fashion,Jacket,Fossil,Like New,7040,7450,Business,Individual,OLX,No,0,0,36,11104,Expired,Not Returned,South,Chennai,3.6,Refurbished
+LISTING_00392,PRD00392,Smartphones,OnePlus,Samsung,Good,39320,29600,Individual,Individual,EchoChain Marketplace,No,0,0,48,11664,Expired,Not Returned,West,Ahmedabad,4.9,Resold
+LISTING_00393,PRD00393,Furniture,Sofa,IKEA,Fair,34870,20300,Individual,Individual,Local Dealer,Yes,2700,0,21,4871,Extended,Not Returned,East,Kolkata,3.7,Resold
+LISTING_00394,PRD00394,Gaming,VR Headset,Microsoft,Good,19150,9930,Individual,Business,EchoChain Marketplace,No,0,0,36,10041,Expired,Not Returned,South,Chennai,4.3,Resold
+LISTING_00395,PRD00395,Laptops,Inspiron,Apple,Like New,15820,13190,Individual,Individual,Amazon Renewed,Yes,3190,0,57,5223,Extended,Returned,West,Surat,4.4,Refurbished
+LISTING_00396,PRD00396,Audio,Bluetooth Speaker,Boat,Fair,21140,6020,Individual,Individual,Amazon Renewed,No,0,2,42,2397,Expired,Returned,South,Hyderabad,3.4,Resold
+LISTING_00397,PRD00397,Smartphones,iPhone,Sony,Like New,21650,28150,Individual,Individual,EchoChain Marketplace,No,0,1,15,11629,Expired,Returned,West,Pune,3.9,Resold
+LISTING_00398,PRD00398,Home Appliances,Air Conditioner,LG,Good,91560,40630,Individual,Individual,Cashify,No,0,0,41,10574,Expired,Not Returned,West,Mumbai,4.0,Resold
+LISTING_00399,PRD00399,Laptops,MacBook Air,HP,Like New,29190,25950,Individual,Individual,Cashify,Yes,4980,4,34,6068,Expired,Not Returned,North,Noida,3.0,Recycled
+LISTING_00400,PRD00400,Smartphones,Galaxy S Series,Google,Good,7040,7090,Individual,Individual,Cashify,Yes,2240,0,14,77,Expired,Not Returned,West,Mumbai,3.6,Recycled
+LISTING_00401,PRD00401,Smartphones,OnePlus,OnePlus,Fair,114380,35790,Individual,Individual,EchoChain Marketplace,No,0,0,47,9068,Expired,Not Returned,West,Mumbai,3.8,Refurbished
+LISTING_00402,PRD00402,Gaming,VR Headset,Meta,Poor,51140,20420,Business,Individual,OLX,No,0,1,24,6619,Expired,Not Returned,East,Guwahati,4.6,Resold
+LISTING_00403,PRD00403,Home Appliances,Air Conditioner,LG,Good,67200,36970,Business,Business,Amazon Renewed,No,0,4,27,2675,Expired,Not Returned,North,Jaipur,4.7,Resold
+LISTING_00404,PRD00404,Audio,Wireless Earbuds,JBL,Good,18990,11310,Individual,Individual,Cashify,Yes,1010,1,9,8764,Active,Not Returned,East,Guwahati,4.4,Resold
+LISTING_00405,PRD00405,Laptops,Pavilion,Lenovo,Like New,52590,50860,Individual,Individual,Amazon Renewed,Yes,3300,2,10,8141,Active,Not Returned,North,Lucknow,4.6,Recycled
+LISTING_00406,PRD00406,Laptops,IdeaPad,Lenovo,Like New,118410,97940,Individual,Individual,Local Dealer,No,0,2,39,8580,Expired,Not Returned,North,Noida,3.5,Refurbished
+LISTING_00407,PRD00407,Audio,Headphones,Bose,Good,8310,3750,Individual,Business,Cashify,No,0,1,38,2562,Expired,Not Returned,West,Mumbai,4.6,Resold
+LISTING_00408,PRD00408,Smartphones,Pixel,Samsung,Good,119870,51200,Individual,Business,OLX,No,0,0,31,979,Expired,Not Returned,West,Ahmedabad,4.7,Recycled
+LISTING_00409,PRD00409,Smartphones,Xperia,Apple,Good,74950,38500,Individual,Individual,Amazon Renewed,Yes,10160,0,49,1724,Expired,Not Returned,North,Jaipur,3.8,Recycled
+LISTING_00410,PRD00410,Gaming,Gaming Console,Sony,Fair,30610,10440,Individual,Individual,Local Dealer,Yes,2590,2,53,10414,Expired,Not Returned,East,Patna,3.2,Refurbished
+LISTING_00411,PRD00411,Home Appliances,Washing Machine,Daikin,Fair,25720,10780,Individual,Individual,OLX,No,0,1,37,1623,Extended,Not Returned,North,Jaipur,3.5,Resold
+LISTING_00412,PRD00412,Audio,Bluetooth Speaker,Boat,Fair,18140,11490,Business,Business,Facebook Marketplace,Yes,4120,2,41,5866,Expired,Not Returned,West,Ahmedabad,3.6,Resold
+LISTING_00413,PRD00413,Laptops,Pavilion,Lenovo,Like New,40540,34240,Business,Business,Facebook Marketplace,No,0,1,42,2534,Expired,Not Returned,South,Vijayawada,3.5,Resold
+LISTING_00414,PRD00414,Home Appliances,Air Conditioner,Whirlpool,Good,73440,57090,Individual,Business,Local Dealer,Yes,12380,2,7,11957,Active,Not Returned,West,Mumbai,3.3,Refurbished
+LISTING_00415,PRD00415,Smartphones,iPhone,Sony,Fair,61490,32180,Individual,Individual,EchoChain Marketplace,Yes,10780,0,41,2980,Extended,Not Returned,South,Vijayawada,4.4,Recycled
+LISTING_00416,PRD00416,Home Appliances,Air Conditioner,IFB,Good,11360,8860,Individual,Business,Local Dealer,Yes,2150,0,24,6008,Expired,Returned,South,Kochi,3.7,Resold
+LISTING_00417,PRD00417,Audio,Soundbar,Sony,Good,2110,1070,Individual,Individual,Facebook Marketplace,No,0,1,51,2937,Expired,Not Returned,East,Bhubaneswar,4.2,Resold
+LISTING_00418,PRD00418,Home Appliances,Washing Machine,IFB,Good,27600,17150,Individual,Individual,OLX,No,0,0,14,4013,Expired,Not Returned,North,Chandigarh,4.3,Resold
+LISTING_00419,PRD00419,Laptops,MacBook Air,Lenovo,Good,110570,70160,Individual,Business,Amazon Renewed,No,0,0,34,8789,Expired,Not Returned,East,Kolkata,4.3,Refurbished
+LISTING_00420,PRD00420,Furniture,Dining Set,Godrej,Good,63870,35370,Individual,Individual,Facebook Marketplace,Yes,6980,0,30,8429,Extended,Not Returned,East,Patna,4.6,Resold
+LISTING_00421,PRD00421,Furniture,Bookshelf,Urban Ladder,Like New,50770,50640,Business,Individual,OLX,Yes,5320,1,10,10740,Active,Not Returned,West,Nagpur,3.5,Resold
+LISTING_00422,PRD00422,Gaming,Monitor,Lenovo,Like New,99060,92080,Individual,Individual,Amazon Renewed,No,0,0,25,633,Expired,Not Returned,West,Ahmedabad,3.2,Resold
+LISTING_00423,PRD00423,Cameras,Lens,Canon,Good,73040,45630,Individual,Individual,Cashify,No,0,0,37,670,Expired,Not Returned,West,Ahmedabad,5.0,Resold
+LISTING_00424,PRD00424,Smartphones,iPhone,Google,Like New,26990,31770,Individual,Individual,OLX,No,0,1,46,4954,Expired,Not Returned,East,Ranchi,3.6,Refurbished
+LISTING_00425,PRD00425,Smartphones,iPhone,Google,Fair,59190,29230,Individual,Business,EchoChain Marketplace,Yes,9890,0,3,3743,Active,Not Returned,South,Kochi,3.6,Refurbished
+LISTING_00426,PRD00426,Fashion,Watch,Fossil,Good,32690,21000,Individual,Individual,OLX,Yes,5010,1,29,5649,Expired,Not Returned,West,Mumbai,4.1,Resold
+LISTING_00427,PRD00427,Home Appliances,Air Conditioner,Daikin,Like New,63400,38750,Individual,Individual,OLX,No,0,1,34,8085,Expired,Not Returned,North,Jaipur,3.8,Recycled
+LISTING_00428,PRD00428,Fashion,Watch,Fossil,Good,16880,9830,Business,Business,Cashify,Yes,730,0,27,11035,Expired,Not Returned,West,Ahmedabad,4.8,Refurbished
+LISTING_00429,PRD00429,Gaming,Monitor,Lenovo,Fair,49940,19860,Business,Individual,OLX,No,0,2,16,8817,Expired,Not Returned,South,Hyderabad,5.0,Resold
+LISTING_00430,PRD00430,Audio,Wireless Earbuds,JBL,Good,25560,23020,Individual,Individual,OLX,No,0,1,3,6653,Active,Not Returned,North,Jaipur,4.8,Resold
+LISTING_00431,PRD00431,Laptops,Inspiron,HP,Fair,46410,27530,Individual,Individual,OLX,Yes,8240,2,28,5927,Extended,Not Returned,East,Ranchi,3.5,Recycled
+LISTING_00432,PRD00432,Furniture,Study Table,Pepperfry,Fair,65860,18540,Individual,Business,Cashify,Yes,7430,2,55,3056,Expired,Not Returned,West,Nagpur,3.9,Resold
+LISTING_00433,PRD00433,Laptops,Inspiron,HP,Fair,101300,37620,Individual,Individual,Cashify,No,0,3,43,9922,Expired,Not Returned,North,Jaipur,3.6,Resold
+LISTING_00434,PRD00434,Laptops,Pavilion,Apple,Good,141540,60120,Business,Individual,Local Dealer,No,0,1,52,7476,Expired,Not Returned,North,Chandigarh,4.1,Resold
+LISTING_00435,PRD00435,Smartphones,OnePlus,OnePlus,Good,47760,37260,Individual,Individual,Local Dealer,No,0,0,36,4719,Expired,Not Returned,North,Chandigarh,3.5,Recycled
+LISTING_00436,PRD00436,Smartphones,Xperia,Samsung,Good,45250,21690,Individual,Individual,Amazon Renewed,No,0,3,37,8055,Expired,Not Returned,East,Guwahati,4.7,Refurbished
+LISTING_00437,PRD00437,Smartphones,Pixel,Apple,Fair,47890,29180,Business,Individual,Amazon Renewed,No,0,1,22,3022,Expired,Not Returned,West,Pune,2.6,Refurbished
+LISTING_00438,PRD00438,Fashion,Sneakers,Nike,Fair,24500,7560,Business,Individual,OLX,Yes,2170,1,55,11440,Expired,Not Returned,East,Guwahati,3.0,Recycled
+LISTING_00439,PRD00439,Smartphones,iPhone,Samsung,Fair,48950,16810,Individual,Individual,Cashify,Yes,3290,0,46,10268,Expired,Not Returned,East,Kolkata,3.2,Recycled
+LISTING_00440,PRD00440,Smartphones,Xperia,Apple,Good,105600,69120,Individual,Individual,Facebook Marketplace,Yes,16460,1,17,3059,Expired,Not Returned,West,Nagpur,4.7,Resold
+LISTING_00441,PRD00441,Home Appliances,Microwave,Whirlpool,Good,65330,40660,Individual,Individual,OLX,Yes,11040,1,12,5152,Active,Not Returned,West,Pune,3.4,Refurbished
+LISTING_00442,PRD00442,Fashion,Jacket,Levi's,Good,34340,15200,Business,Individual,Amazon Renewed,No,0,1,33,303,Extended,Not Returned,West,Mumbai,2.9,Resold
+LISTING_00443,PRD00443,Home Appliances,Washing Machine,Samsung,Good,71730,44120,Individual,Individual,Cashify,Yes,10800,4,32,8999,Expired,Not Returned,South,Kochi,4.2,Resold
+LISTING_00444,PRD00444,Home Appliances,Vacuum Cleaner,LG,Like New,71590,52360,Business,Individual,EchoChain Marketplace,No,0,3,41,9276,Extended,Not Returned,West,Nagpur,5.0,Resold
+LISTING_00445,PRD00445,Furniture,Office Chair,Godrej,Fair,10550,4490,Business,Individual,OLX,No,0,2,15,6020,Expired,Not Returned,North,Delhi,3.4,Recycled
+LISTING_00446,PRD00446,Laptops,Pavilion,Dell,Fair,22700,10410,Individual,Individual,Facebook Marketplace,No,0,1,22,11568,Expired,Not Returned,East,Patna,4.1,Resold
+LISTING_00447,PRD00447,Laptops,ThinkPad,Acer,Like New,149420,67730,Individual,Business,Amazon Renewed,Yes,25510,2,56,6157,Expired,Not Returned,South,Chennai,4.1,Resold
+LISTING_00448,PRD00448,Fashion,Jacket,Adidas,Good,13140,9200,Individual,Individual,Local Dealer,No,0,0,12,5502,Active,Not Returned,East,Ranchi,3.4,Resold
+LISTING_00449,PRD00449,Laptops,Inspiron,Dell,Like New,62950,54580,Individual,Business,EchoChain Marketplace,Yes,8140,0,23,9379,Expired,Not Returned,West,Pune,5.0,Resold
+LISTING_00450,PRD00450,Home Appliances,Microwave,Whirlpool,Fair,5360,2620,Business,Individual,OLX,Yes,1230,1,33,5487,Expired,Not Returned,East,Guwahati,4.0,Resold
+LISTING_00451,PRD00451,Home Appliances,Washing Machine,LG,Good,28190,13900,Business,Individual,Cashify,No,0,1,32,2600,Expired,Not Returned,North,Chandigarh,4.6,Resold
+LISTING_00452,PRD00452,Cameras,Action Camera,Sony,Good,48510,38080,Individual,Individual,Cashify,Yes,7080,0,29,8539,Expired,Not Returned,East,Bhubaneswar,3.2,Refurbished
+LISTING_00453,PRD00453,Cameras,Camcorder,GoPro,Like New,97820,86920,Individual,Individual,Amazon Renewed,Yes,12060,1,22,10396,Expired,Not Returned,West,Mumbai,5.0,Refurbished
+LISTING_00454,PRD00454,Smartphones,Pixel,Sony,Like New,45870,27120,Individual,Individual,Amazon Renewed,Yes,3220,1,45,10128,Extended,Returned,North,Jaipur,4.5,Refurbished
+LISTING_00455,PRD00455,Furniture,Sofa,IKEA,Fair,40730,16520,Business,Individual,Cashify,Yes,3120,1,12,2103,Active,Not Returned,East,Bhubaneswar,2.6,Resold
+LISTING_00456,PRD00456,Audio,Smart Speaker,Sennheiser,Like New,25650,31370,Individual,Individual,Local Dealer,Yes,2360,1,18,6968,Expired,Not Returned,South,Bengaluru,4.1,Refurbished
+LISTING_00457,PRD00457,Home Appliances,Washing Machine,Whirlpool,Fair,75260,21890,Individual,Individual,EchoChain Marketplace,No,0,0,53,11867,Expired,Not Returned,South,Hyderabad,2.6,Resold
+LISTING_00458,PRD00458,Laptops,MacBook Air,Lenovo,Good,96170,75130,Individual,Business,Cashify,Yes,11150,1,7,1794,Active,Not Returned,North,Noida,4.2,Resold
+LISTING_00459,PRD00459,Laptops,MacBook Air,Lenovo,Poor,94670,30460,Individual,Individual,Cashify,No,0,1,34,11481,Expired,Not Returned,East,Kolkata,3.3,Resold
+LISTING_00460,PRD00460,Cameras,Lens,Panasonic,Good,38530,16360,Business,Individual,EchoChain Marketplace,No,0,0,49,1047,Extended,Returned,South,Chennai,5.0,Resold
+LISTING_00461,PRD00461,Laptops,MacBook Air,Lenovo,Good,110840,61790,Individual,Individual,Cashify,Yes,17600,0,16,9955,Expired,Not Returned,South,Bengaluru,4.4,Refurbished
+LISTING_00462,PRD00462,Audio,Wireless Earbuds,Bose,Fair,8270,4410,Individual,Individual,Facebook Marketplace,No,0,3,19,6801,Expired,Not Returned,West,Pune,2.6,Resold
+LISTING_00463,PRD00463,Gaming,Monitor,Lenovo,Fair,45280,30090,Individual,Individual,Cashify,No,0,2,4,2784,Active,Returned,East,Patna,3.1,Resold
+LISTING_00464,PRD00464,Smartphones,Galaxy S Series,Apple,Fair,47760,17540,Individual,Business,EchoChain Marketplace,No,0,3,43,5754,Expired,Not Returned,West,Mumbai,3.7,Resold
+LISTING_00465,PRD00465,Furniture,Office Chair,IKEA,Good,24260,20500,Individual,Business,Facebook Marketplace,No,0,1,14,2711,Expired,Not Returned,West,Surat,3.4,Resold
+LISTING_00466,PRD00466,Home Appliances,Refrigerator,Daikin,Good,47980,30380,Individual,Individual,EchoChain Marketplace,Yes,8920,1,18,3283,Expired,Returned,North,Jaipur,4.7,Resold
+LISTING_00467,PRD00467,Smartphones,OnePlus,OnePlus,Good,11450,7140,Individual,Individual,Facebook Marketplace,Yes,1350,1,12,10018,Active,Not Returned,North,Lucknow,3.6,Refurbished
+LISTING_00468,PRD00468,Laptops,MacBook Air,HP,Fair,107780,39640,Individual,Individual,OLX,Yes,13230,3,54,7177,Extended,Not Returned,South,Hyderabad,3.8,Resold
+LISTING_00469,PRD00469,Audio,Headphones,JBL,Good,4000,2480,Individual,Individual,Amazon Renewed,No,0,2,50,7726,Expired,Not Returned,West,Surat,5.0,Resold
+LISTING_00470,PRD00470,Fashion,Backpack,Nike,Poor,34270,5830,Individual,Individual,Local Dealer,Yes,5140,0,56,2088,Expired,Not Returned,West,Pune,3.8,Refurbished
+LISTING_00471,PRD00471,Gaming,Controller,Meta,Good,75940,63740,Individual,Individual,Local Dealer,No,0,2,11,10314,Active,Not Returned,East,Patna,3.9,Resold
+LISTING_00472,PRD00472,Cameras,Camcorder,GoPro,Like New,95520,66550,Individual,Individual,Facebook Marketplace,No,0,3,56,11959,Expired,Not Returned,South,Bengaluru,4.5,Resold
+LISTING_00473,PRD00473,Laptops,IdeaPad,Lenovo,Fair,45170,26810,Individual,Individual,Local Dealer,No,0,0,48,9060,Expired,Not Returned,West,Ahmedabad,3.3,Resold
+LISTING_00474,PRD00474,Laptops,IdeaPad,HP,Good,83330,83560,Individual,Individual,OLX,Yes,17650,1,20,11819,Expired,Not Returned,East,Bhubaneswar,2.7,Resold
+LISTING_00475,PRD00475,Fashion,Sneakers,Fossil,Good,7150,5290,Individual,Individual,OLX,No,0,0,37,11514,Expired,Not Returned,East,Bhubaneswar,3.9,Resold
+LISTING_00476,PRD00476,Laptops,MacBook Air,Lenovo,Good,57720,47800,Individual,Individual,EchoChain Marketplace,No,0,3,24,11303,Extended,Not Returned,East,Ranchi,5.0,Recycled
+LISTING_00477,PRD00477,Cameras,Mirrorless Camera,Sony,Fair,57230,20820,Individual,Individual,OLX,Yes,9740,1,43,10308,Expired,Returned,South,Vijayawada,3.1,Resold
+LISTING_00478,PRD00478,Laptops,ThinkPad,Lenovo,Good,93610,96540,Business,Individual,OLX,Yes,22900,3,3,459,Active,Not Returned,South,Kochi,4.4,Resold
+LISTING_00479,PRD00479,Smartphones,Galaxy S Series,Google,Like New,43120,41440,Individual,Individual,Cashify,Yes,9140,0,25,4810,Expired,Not Returned,East,Kolkata,4.8,Resold
+LISTING_00480,PRD00480,Home Appliances,Vacuum Cleaner,Daikin,Good,55840,33440,Individual,Individual,OLX,No,0,1,25,545,Expired,Not Returned,East,Bhubaneswar,4.0,Recycled
+LISTING_00481,PRD00481,Gaming,VR Headset,Microsoft,Fair,96220,39320,Individual,Individual,Facebook Marketplace,Yes,16310,2,13,3691,Expired,Not Returned,West,Surat,3.1,Refurbished
+LISTING_00482,PRD00482,Audio,Soundbar,Sennheiser,Good,27400,21500,Individual,Individual,Amazon Renewed,Yes,2610,0,31,1798,Expired,Not Returned,East,Guwahati,5.0,Refurbished
+LISTING_00483,PRD00483,Home Appliances,Refrigerator,IFB,Fair,76480,44970,Individual,Business,Cashify,No,0,2,5,8885,Active,Not Returned,West,Nagpur,2.9,Resold
+LISTING_00484,PRD00484,Home Appliances,Refrigerator,Whirlpool,Good,25350,9760,Individual,Business,Cashify,Yes,1840,1,51,11575,Expired,Not Returned,East,Bhubaneswar,2.5,Refurbished
+LISTING_00485,PRD00485,Home Appliances,Microwave,LG,Fair,45840,20790,Individual,Individual,EchoChain Marketplace,No,0,0,10,734,Active,Not Returned,East,Guwahati,3.7,Resold
+LISTING_00486,PRD00486,Cameras,Camcorder,GoPro,Fair,51140,32130,Individual,Individual,EchoChain Marketplace,No,0,1,23,10656,Expired,Not Returned,South,Bengaluru,2.7,Recycled
+LISTING_00487,PRD00487,Gaming,Controller,Meta,Good,13910,9650,Business,Individual,EchoChain Marketplace,No,0,0,5,9294,Active,Not Returned,West,Ahmedabad,2.9,Refurbished
+LISTING_00488,PRD00488,Home Appliances,Air Conditioner,Samsung,Fair,59460,36230,Individual,Business,Amazon Renewed,Yes,11830,0,10,9798,Active,Not Returned,South,Kochi,3.1,Refurbished
+LISTING_00489,PRD00489,Laptops,IdeaPad,HP,Good,33770,27650,Individual,Individual,OLX,No,0,3,15,5980,Expired,Not Returned,South,Vijayawada,3.4,Resold
+LISTING_00490,PRD00490,Laptops,IdeaPad,Lenovo,Poor,44980,17410,Individual,Individual,Amazon Renewed,No,0,0,33,3894,Expired,Not Returned,South,Chennai,2.8,Resold
+LISTING_00491,PRD00491,Smartphones,Xperia,Google,Good,16030,11140,Individual,Individual,EchoChain Marketplace,Yes,3740,1,19,2756,Expired,Not Returned,North,Chandigarh,4.2,Resold
+LISTING_00492,PRD00492,Laptops,MacBook Air,HP,Good,94110,54740,Individual,Individual,OLX,No,0,0,58,10761,Expired,Not Returned,East,Patna,3.3,Refurbished
+LISTING_00493,PRD00493,Smartphones,Xperia,Sony,Fair,91270,33900,Individual,Business,Facebook Marketplace,No,0,4,18,8414,Expired,Not Returned,West,Nagpur,2.1,Resold
+LISTING_00494,PRD00494,Laptops,IdeaPad,Acer,Fair,121770,51260,Individual,Individual,Facebook Marketplace,Yes,19260,1,27,3101,Expired,Not Returned,North,Jaipur,3.9,Refurbished
+LISTING_00495,PRD00495,Laptops,Inspiron,Apple,Good,158090,76200,Business,Individual,EchoChain Marketplace,No,0,0,23,7298,Expired,Returned,West,Ahmedabad,5.0,Recycled
+LISTING_00496,PRD00496,Gaming,VR Headset,ASUS,Fair,107430,37080,Individual,Individual,EchoChain Marketplace,No,0,3,40,1827,Expired,Not Returned,South,Chennai,2.9,Resold
+LISTING_00497,PRD00497,Gaming,Monitor,Sony,Good,52760,31090,Individual,Individual,Cashify,No,0,0,17,1015,Expired,Not Returned,North,Lucknow,4.7,Resold
+LISTING_00498,PRD00498,Gaming,Gaming Console,Sony,Good,15130,15390,Individual,Individual,Facebook Marketplace,No,0,1,11,7810,Active,Not Returned,West,Surat,3.8,Recycled
+LISTING_00499,PRD00499,Laptops,MacBook Air,Acer,Fair,146500,70370,Individual,Individual,EchoChain Marketplace,No,0,2,16,9989,Expired,Not Returned,South,Kochi,3.0,Resold
+LISTING_00500,PRD00500,Laptops,Pavilion,Dell,Fair,135510,55570,Business,Individual,Local Dealer,Yes,8460,4,27,2941,Expired,Not Returned,West,Mumbai,3.8,Recycled
+LISTING_00501,PRD00501,Cameras,DSLR,Nikon,Like New,141640,143180,Individual,Individual,Local Dealer,Yes,11710,4,5,4197,Active,Not Returned,North,Noida,5.0,Refurbished
+LISTING_00502,PRD00502,Laptops,ThinkPad,Lenovo,Like New,64740,78650,Individual,Individual,Cashify,No,0,0,15,10341,Expired,Not Returned,East,Ranchi,5.0,Resold
+LISTING_00503,PRD00503,Fashion,Denim,Fossil,Like New,12120,10170,Business,Individual,Local Dealer,No,0,2,4,1148,Active,Not Returned,South,Hyderabad,4.1,Refurbished
+LISTING_00504,PRD00504,Furniture,Office Chair,IKEA,Like New,16250,12500,Individual,Individual,Amazon Renewed,No,0,2,19,8671,Expired,Not Returned,South,Chennai,4.1,Resold
+LISTING_00505,PRD00505,Smartphones,Pixel,Apple,Fair,20190,10070,Individual,Individual,EchoChain Marketplace,No,0,2,3,3381,Active,Not Returned,East,Kolkata,1.9,Resold
+LISTING_00506,PRD00506,Smartphones,iPhone,Google,Poor,86080,19690,Individual,Individual,Local Dealer,No,0,4,59,3334,Expired,Not Returned,East,Patna,3.6,Refurbished
+LISTING_00507,PRD00507,Audio,Smart Speaker,Boat,Fair,14560,5510,Individual,Individual,Local Dealer,No,0,0,29,5456,Expired,Not Returned,North,Jaipur,4.7,Resold
+LISTING_00508,PRD00508,Audio,Smart Speaker,Bose,Good,920,640,Business,Individual,OLX,No,0,0,51,7778,Expired,Not Returned,West,Mumbai,4.1,Landfill
+LISTING_00509,PRD00509,Gaming,VR Headset,Microsoft,Like New,31350,14140,Business,Individual,Facebook Marketplace,No,0,1,51,6152,Expired,Not Returned,South,Vijayawada,3.4,Recycled
+LISTING_00510,PRD00510,Audio,Headphones,Sennheiser,Fair,22100,10760,Business,Individual,Amazon Renewed,Yes,1870,0,49,2644,Expired,Not Returned,South,Bengaluru,2.9,Resold
+LISTING_00511,PRD00511,Gaming,Controller,Microsoft,Good,7610,6190,Individual,Individual,EchoChain Marketplace,No,0,4,28,9651,Expired,Not Returned,North,Chandigarh,3.9,Recycled
+LISTING_00512,PRD00512,Laptops,Pavilion,Dell,Good,39840,19630,Individual,Business,Facebook Marketplace,No,0,0,57,3806,Expired,Not Returned,South,Vijayawada,4.7,Refurbished
+LISTING_00513,PRD00513,Smartphones,Pixel,Samsung,Good,27840,21640,Individual,Individual,Facebook Marketplace,No,0,0,6,2705,Active,Not Returned,East,Kolkata,4.9,Refurbished
+LISTING_00514,PRD00514,Gaming,Controller,Microsoft,Fair,148170,60260,Individual,Individual,Local Dealer,No,0,3,20,11574,Expired,Not Returned,West,Surat,3.8,Resold
+LISTING_00515,PRD00515,Furniture,Bookshelf,Urban Ladder,Good,22620,24990,Individual,Individual,OLX,Yes,2700,3,17,11823,Expired,Not Returned,East,Patna,5.0,Refurbished
+LISTING_00516,PRD00516,Audio,Smart Speaker,Bose,Like New,28760,17620,Individual,Business,OLX,No,0,1,41,9795,Expired,Not Returned,West,Ahmedabad,4.1,Resold
+LISTING_00517,PRD00517,Home Appliances,Washing Machine,Samsung,Fair,34170,23120,Individual,Business,Local Dealer,No,0,1,17,8300,Extended,Not Returned,East,Patna,3.6,Resold
+LISTING_00518,PRD00518,Fashion,Backpack,Levi's,Good,6540,6810,Individual,Business,EchoChain Marketplace,Yes,1130,0,20,3384,Expired,Not Returned,East,Kolkata,3.2,Resold
+LISTING_00519,PRD00519,Cameras,DSLR,GoPro,Fair,181300,74210,Individual,Individual,OLX,Yes,23790,2,6,10143,Active,Returned,South,Kochi,3.6,Resold
+LISTING_00520,PRD00520,Laptops,Pavilion,Acer,Fair,41750,18970,Individual,Individual,Local Dealer,No,0,0,6,5211,Active,Not Returned,West,Nagpur,3.5,Landfill
+LISTING_00521,PRD00521,Smartphones,Xperia,Google,Good,65330,41010,Business,Individual,Cashify,Yes,11310,3,48,269,Expired,Returned,East,Kolkata,3.7,Refurbished
+LISTING_00522,PRD00522,Smartphones,Xperia,OnePlus,Like New,109960,56260,Business,Individual,Local Dealer,No,0,1,53,10674,Expired,Not Returned,East,Ranchi,5.0,Refurbished
+LISTING_00523,PRD00523,Furniture,Office Chair,Pepperfry,Good,42920,22280,Individual,Individual,Amazon Renewed,No,0,1,24,8356,Expired,Not Returned,South,Hyderabad,4.7,Refurbished
+LISTING_00524,PRD00524,Furniture,Sofa,Godrej,Good,21560,14980,Business,Business,Local Dealer,Yes,2000,1,5,2690,Active,Not Returned,East,Ranchi,3.9,Recycled
+LISTING_00525,PRD00525,Fashion,Jacket,Puma,Good,18050,14260,Individual,Individual,Local Dealer,Yes,1480,1,50,7097,Expired,Returned,East,Guwahati,3.5,Refurbished
+LISTING_00526,PRD00526,Home Appliances,Microwave,Whirlpool,Good,25410,18030,Individual,Individual,OLX,No,0,1,24,7088,Expired,Not Returned,North,Chandigarh,3.8,Landfill
+LISTING_00527,PRD00527,Smartphones,Xperia,Apple,Good,60970,29450,Individual,Business,Amazon Renewed,No,0,1,30,5770,Expired,Not Returned,South,Kochi,3.8,Refurbished
+LISTING_00528,PRD00528,Smartphones,Pixel,OnePlus,Good,69910,48220,Individual,Individual,Amazon Renewed,No,0,1,26,11067,Expired,Not Returned,East,Kolkata,4.8,Refurbished
+LISTING_00529,PRD00529,Smartphones,Galaxy S Series,OnePlus,Fair,67730,34790,Individual,Individual,OLX,Yes,9490,1,39,2797,Expired,Not Returned,East,Guwahati,3.9,Landfill
+LISTING_00530,PRD00530,Gaming,VR Headset,Meta,Fair,68180,33660,Individual,Individual,Facebook Marketplace,No,0,1,13,6165,Expired,Not Returned,North,Lucknow,3.2,Refurbished
+LISTING_00531,PRD00531,Smartphones,OnePlus,Apple,Fair,62350,34560,Individual,Business,Local Dealer,No,0,0,60,1402,Expired,Not Returned,North,Delhi,3.6,Refurbished
+LISTING_00532,PRD00532,Gaming,VR Headset,Microsoft,Fair,83150,34230,Business,Individual,Local Dealer,Yes,8060,0,29,4125,Extended,Not Returned,East,Kolkata,2.9,Resold
+LISTING_00533,PRD00533,Laptops,Pavilion,Dell,Good,94530,53530,Individual,Individual,EchoChain Marketplace,No,0,1,38,7383,Expired,Returned,North,Chandigarh,4.8,Resold
+LISTING_00534,PRD00534,Cameras,DSLR,Sony,Like New,90650,75740,Individual,Individual,OLX,No,0,0,33,9044,Expired,Not Returned,North,Lucknow,3.7,Resold
+LISTING_00535,PRD00535,Gaming,Gaming Console,ASUS,Fair,154370,53910,Individual,Individual,Amazon Renewed,No,0,1,19,11803,Expired,Not Returned,North,Noida,2.6,Refurbished
+LISTING_00536,PRD00536,Home Appliances,Washing Machine,IFB,Good,20290,10460,Individual,Individual,Facebook Marketplace,No,0,1,58,11912,Expired,Returned,North,Delhi,4.1,Recycled
+LISTING_00537,PRD00537,Furniture,Office Chair,Godrej,Good,33190,17570,Individual,Individual,Facebook Marketplace,Yes,2490,0,30,1509,Extended,Not Returned,West,Nagpur,3.0,Recycled
+LISTING_00538,PRD00538,Home Appliances,Air Conditioner,Whirlpool,Good,31240,17320,Individual,Individual,Amazon Renewed,No,0,0,60,9231,Expired,Not Returned,South,Kochi,4.3,Refurbished
+LISTING_00539,PRD00539,Audio,Smart Speaker,Sennheiser,Fair,12940,4350,Individual,Individual,Cashify,Yes,1780,4,51,8536,Expired,Not Returned,South,Hyderabad,2.7,Recycled
+LISTING_00540,PRD00540,Smartphones,Xperia,OnePlus,Like New,55870,42750,Individual,Business,Local Dealer,No,0,4,10,10230,Active,Not Returned,North,Jaipur,4.1,Resold
+LISTING_00541,PRD00541,Laptops,MacBook Air,Apple,Fair,54010,28030,Individual,Individual,Amazon Renewed,Yes,11480,0,14,3671,Expired,Not Returned,North,Jaipur,4.3,Resold
+LISTING_00542,PRD00542,Home Appliances,Vacuum Cleaner,LG,Good,58740,52510,Individual,Individual,Amazon Renewed,Yes,11280,0,31,5942,Expired,Not Returned,East,Ranchi,3.7,Resold
+LISTING_00543,PRD00543,Gaming,VR Headset,ASUS,Poor,46530,19610,Business,Individual,OLX,Yes,5120,0,11,8766,Active,Not Returned,West,Pune,4.1,Resold
+LISTING_00544,PRD00544,Gaming,VR Headset,ASUS,Good,64220,33010,Individual,Individual,Amazon Renewed,Yes,7490,1,25,303,Extended,Not Returned,South,Hyderabad,3.7,Resold
+LISTING_00545,PRD00545,Smartphones,Galaxy S Series,Samsung,Good,56330,25950,Individual,Individual,Local Dealer,No,0,1,40,330,Extended,Not Returned,West,Ahmedabad,3.8,Resold
+LISTING_00546,PRD00546,Gaming,Gaming Laptop,Sony,Fair,35050,27500,Individual,Individual,Local Dealer,No,0,1,25,8366,Expired,Not Returned,West,Pune,3.2,Resold
+LISTING_00547,PRD00547,Furniture,Sofa,IKEA,Good,13060,10930,Individual,Individual,Amazon Renewed,No,0,2,11,7776,Active,Not Returned,South,Vijayawada,3.4,Landfill
+LISTING_00548,PRD00548,Laptops,Inspiron,Acer,Poor,68640,19840,Individual,Individual,EchoChain Marketplace,Yes,7400,0,4,8713,Active,Not Returned,East,Guwahati,2.5,Recycled
+LISTING_00549,PRD00549,Home Appliances,Microwave,LG,Good,22090,11390,Individual,Individual,Local Dealer,No,0,1,32,2563,Expired,Not Returned,North,Noida,3.9,Refurbished
+LISTING_00550,PRD00550,Home Appliances,Vacuum Cleaner,IFB,Poor,102160,24900,Business,Individual,EchoChain Marketplace,No,0,0,26,1321,Expired,Returned,South,Kochi,3.6,Refurbished
+LISTING_00551,PRD00551,Fashion,Backpack,Fossil,Good,6810,6250,Individual,Business,EchoChain Marketplace,No,0,5,10,3777,Active,Not Returned,North,Lucknow,5.0,Resold
+LISTING_00552,PRD00552,Laptops,IdeaPad,Apple,Fair,59370,46150,Individual,Individual,Cashify,No,0,2,14,10277,Expired,Not Returned,North,Lucknow,4.7,Refurbished
+LISTING_00553,PRD00553,Audio,Wireless Earbuds,JBL,Poor,8240,2290,Individual,Individual,OLX,Yes,580,2,32,11375,Extended,Not Returned,West,Ahmedabad,2.8,Resold
+LISTING_00554,PRD00554,Smartphones,Galaxy S Series,Google,Like New,12180,8530,Individual,Business,Cashify,Yes,2160,0,51,7897,Expired,Not Returned,West,Pune,3.7,Refurbished
+LISTING_00555,PRD00555,Home Appliances,Microwave,IFB,Fair,58700,35400,Individual,Business,Cashify,Yes,11030,0,37,8722,Expired,Not Returned,South,Kochi,3.7,Resold
+LISTING_00556,PRD00556,Laptops,IdeaPad,HP,Good,97940,52170,Individual,Individual,Amazon Renewed,No,0,3,53,9474,Extended,Not Returned,West,Nagpur,3.9,Recycled
+LISTING_00557,PRD00557,Smartphones,Pixel,Samsung,Like New,95150,79440,Individual,Individual,OLX,No,0,2,24,7050,Expired,Not Returned,North,Lucknow,3.3,Landfill
+LISTING_00558,PRD00558,Gaming,VR Headset,Microsoft,Good,51330,31830,Individual,Individual,Cashify,No,0,0,4,5319,Active,Not Returned,South,Kochi,4.4,Resold
+LISTING_00559,PRD00559,Smartphones,Galaxy S Series,Apple,Good,35080,18540,Individual,Business,Amazon Renewed,No,0,1,42,592,Extended,Not Returned,South,Vijayawada,3.9,Refurbished
+LISTING_00560,PRD00560,Home Appliances,Microwave,Samsung,Fair,51770,26380,Individual,Individual,Amazon Renewed,No,0,2,56,3238,Expired,Not Returned,West,Pune,2.2,Recycled
+LISTING_00561,PRD00561,Fashion,Backpack,Adidas,Fair,16910,6740,Individual,Individual,OLX,No,0,1,59,3659,Extended,Not Returned,South,Kochi,3.5,Refurbished
+LISTING_00562,PRD00562,Audio,Headphones,JBL,Fair,18930,9620,Individual,Individual,Local Dealer,No,0,1,49,7277,Extended,Not Returned,North,Noida,3.5,Recycled
+LISTING_00563,PRD00563,Fashion,Backpack,Levi's,Fair,3300,1600,Individual,Individual,Facebook Marketplace,No,0,3,20,11743,Extended,Returned,South,Chennai,3.7,Refurbished
+LISTING_00564,PRD00564,Laptops,MacBook Air,Acer,Good,84280,59070,Individual,Individual,EchoChain Marketplace,No,0,0,45,11897,Expired,Not Returned,South,Chennai,4.4,Resold
+LISTING_00565,PRD00565,Audio,Smart Speaker,Sony,Fair,1670,800,Business,Individual,OLX,No,0,0,49,6689,Expired,Not Returned,East,Patna,4.2,Resold
+LISTING_00566,PRD00566,Laptops,Pavilion,Dell,Good,108180,71870,Individual,Individual,Amazon Renewed,Yes,5730,3,25,5191,Expired,Not Returned,West,Ahmedabad,3.5,Recycled
+LISTING_00567,PRD00567,Laptops,ThinkPad,Apple,Fair,37580,21960,Individual,Business,Local Dealer,No,0,0,9,9357,Active,Not Returned,North,Jaipur,4.2,Recycled
+LISTING_00568,PRD00568,Cameras,Action Camera,Panasonic,Good,47740,33110,Business,Individual,Local Dealer,No,0,1,53,8038,Expired,Not Returned,East,Ranchi,4.6,Recycled
+LISTING_00569,PRD00569,Cameras,Lens,GoPro,Good,95200,86490,Individual,Business,Amazon Renewed,Yes,15480,2,13,7142,Extended,Not Returned,North,Chandigarh,4.3,Refurbished
+LISTING_00570,PRD00570,Gaming,Controller,Sony,Good,59460,54300,Individual,Individual,EchoChain Marketplace,No,0,2,33,4245,Expired,Not Returned,North,Noida,3.7,Refurbished
+LISTING_00571,PRD00571,Gaming,Gaming Laptop,Microsoft,Like New,145680,76890,Individual,Individual,Cashify,Yes,16480,3,43,6137,Expired,Not Returned,North,Lucknow,4.1,Resold
+LISTING_00572,PRD00572,Gaming,Monitor,Lenovo,Good,30160,39320,Individual,Business,Local Dealer,No,0,1,5,2259,Active,Not Returned,North,Lucknow,4.2,Resold
+LISTING_00573,PRD00573,Cameras,Lens,GoPro,Good,40960,28640,Individual,Business,Cashify,No,0,2,21,577,Expired,Not Returned,West,Nagpur,3.7,Resold
+LISTING_00574,PRD00574,Home Appliances,Washing Machine,IFB,Good,62480,62500,Individual,Individual,EchoChain Marketplace,No,0,0,8,6641,Active,Not Returned,West,Pune,3.6,Refurbished
+LISTING_00575,PRD00575,Laptops,Pavilion,Dell,Fair,126420,51770,Individual,Individual,EchoChain Marketplace,No,0,0,19,4723,Expired,Not Returned,North,Delhi,3.2,Resold
+LISTING_00576,PRD00576,Laptops,Pavilion,Apple,Good,86660,50770,Individual,Business,Local Dealer,Yes,5310,2,51,7853,Expired,Not Returned,East,Guwahati,4.5,Refurbished
+LISTING_00577,PRD00577,Laptops,MacBook Air,Lenovo,Like New,86560,58090,Individual,Individual,OLX,No,0,1,34,3386,Expired,Not Returned,East,Kolkata,4.1,Refurbished
+LISTING_00578,PRD00578,Fashion,Jacket,Levi's,Good,15110,10000,Individual,Individual,Amazon Renewed,Yes,1850,0,31,6140,Expired,Not Returned,South,Kochi,5.0,Refurbished
+LISTING_00579,PRD00579,Furniture,Bookshelf,IKEA,Fair,7080,4250,Individual,Individual,OLX,No,0,0,43,5422,Expired,Not Returned,North,Chandigarh,4.2,Landfill
+LISTING_00580,PRD00580,Laptops,Inspiron,Dell,Like New,67900,38110,Individual,Individual,Local Dealer,No,0,0,51,9866,Expired,Not Returned,West,Nagpur,3.6,Resold
+LISTING_00581,PRD00581,Audio,Bluetooth Speaker,JBL,Good,28470,17910,Individual,Business,EchoChain Marketplace,Yes,3680,4,34,2954,Expired,Not Returned,East,Guwahati,4.5,Resold
+LISTING_00582,PRD00582,Home Appliances,Microwave,Daikin,Good,35930,25930,Individual,Individual,EchoChain Marketplace,No,0,0,14,8792,Expired,Returned,South,Vijayawada,3.5,Resold
+LISTING_00583,PRD00583,Audio,Wireless Earbuds,Sony,Like New,16180,15740,Individual,Individual,Cashify,No,0,4,28,6763,Expired,Not Returned,South,Vijayawada,3.9,Resold
+LISTING_00584,PRD00584,Furniture,Bookshelf,Godrej,Good,64730,33700,Business,Business,Local Dealer,No,0,1,39,8213,Expired,Not Returned,East,Bhubaneswar,3.5,Resold
+LISTING_00585,PRD00585,Gaming,Controller,Sony,Good,73270,29490,Business,Individual,Local Dealer,Yes,3530,2,47,5231,Extended,Not Returned,North,Jaipur,4.3,Resold
+LISTING_00586,PRD00586,Laptops,Pavilion,Lenovo,Good,78260,48420,Business,Individual,EchoChain Marketplace,No,0,1,33,5192,Expired,Not Returned,North,Jaipur,4.2,Resold
+LISTING_00587,PRD00587,Smartphones,OnePlus,Samsung,Like New,37280,20600,Individual,Individual,Facebook Marketplace,Yes,6420,3,58,6561,Expired,Not Returned,South,Hyderabad,4.6,Refurbished
+LISTING_00588,PRD00588,Smartphones,Pixel,OnePlus,Fair,76230,26320,Individual,Individual,Cashify,No,0,1,57,259,Expired,Not Returned,West,Nagpur,3.9,Resold
+LISTING_00589,PRD00589,Furniture,Sofa,IKEA,Good,39590,20490,Individual,Individual,OLX,No,0,2,32,5425,Extended,Returned,East,Kolkata,3.1,Resold
+LISTING_00590,PRD00590,Fashion,Jacket,Puma,Good,26280,18680,Business,Business,EchoChain Marketplace,No,0,0,32,3901,Expired,Not Returned,South,Kochi,4.6,Resold
+LISTING_00591,PRD00591,Gaming,Monitor,Microsoft,Good,91850,57430,Individual,Individual,Local Dealer,Yes,20240,3,46,4045,Expired,Not Returned,West,Mumbai,3.4,Resold
+LISTING_00592,PRD00592,Smartphones,iPhone,Sony,Fair,6390,2320,Business,Individual,Amazon Renewed,Yes,620,3,58,6284,Extended,Not Returned,South,Bengaluru,3.1,Refurbished
+LISTING_00593,PRD00593,Smartphones,Pixel,Google,Like New,52760,32880,Business,Individual,EchoChain Marketplace,No,0,1,47,3229,Expired,Returned,North,Noida,4.2,Refurbished
+LISTING_00594,PRD00594,Smartphones,Pixel,OnePlus,Poor,14050,5690,Business,Individual,Amazon Renewed,No,0,1,25,11452,Extended,Not Returned,North,Chandigarh,3.6,Resold
+LISTING_00595,PRD00595,Gaming,Gaming Console,Microsoft,Good,76680,85030,Individual,Business,Cashify,Yes,11200,3,9,9051,Active,Not Returned,North,Jaipur,4.5,Refurbished
+LISTING_00596,PRD00596,Home Appliances,Vacuum Cleaner,Daikin,Good,20920,11310,Business,Individual,EchoChain Marketplace,No,0,2,19,5188,Extended,Not Returned,East,Kolkata,3.3,Resold
+LISTING_00597,PRD00597,Fashion,Watch,Nike,Fair,2740,1130,Individual,Individual,EchoChain Marketplace,Yes,220,2,25,4365,Expired,Not Returned,South,Hyderabad,3.6,Resold
+LISTING_00598,PRD00598,Smartphones,Pixel,Samsung,Good,21030,12770,Individual,Business,Cashify,No,0,0,50,1525,Expired,Not Returned,West,Nagpur,4.3,Resold
+LISTING_00599,PRD00599,Fashion,Jacket,Fossil,Good,28960,19950,Business,Business,Cashify,No,0,0,15,7969,Expired,Returned,West,Nagpur,3.9,Resold
+LISTING_00600,PRD00600,Home Appliances,Air Conditioner,Daikin,Good,34440,22850,Individual,Individual,Cashify,No,0,3,30,11226,Expired,Not Returned,South,Chennai,4.7,Resold
+LISTING_00601,PRD00601,Audio,Soundbar,Boat,Poor,34110,9470,Individual,Individual,Amazon Renewed,Yes,3450,0,7,9131,Active,Not Returned,East,Kolkata,3.5,Refurbished
+LISTING_00602,PRD00602,Fashion,Jacket,Puma,Like New,22700,16030,Individual,Individual,Local Dealer,Yes,2630,1,4,4390,Active,Not Returned,North,Chandigarh,4.5,Resold
+LISTING_00603,PRD00603,Smartphones,Xperia,OnePlus,Fair,22370,13590,Business,Business,OLX,No,0,1,43,11129,Expired,Not Returned,East,Ranchi,3.8,Resold
+LISTING_00604,PRD00604,Smartphones,Xperia,Apple,Like New,55270,32440,Business,Individual,EchoChain Marketplace,Yes,7350,1,53,11311,Expired,Not Returned,West,Surat,3.9,Resold
+LISTING_00605,PRD00605,Furniture,Dining Set,IKEA,Good,32400,29070,Individual,Individual,Amazon Renewed,No,0,3,28,4147,Expired,Not Returned,East,Bhubaneswar,4.1,Resold
+LISTING_00606,PRD00606,Audio,Headphones,Sennheiser,Good,14430,13270,Individual,Individual,Facebook Marketplace,Yes,2930,0,43,4627,Expired,Not Returned,East,Guwahati,5.0,Resold
+LISTING_00607,PRD00607,Home Appliances,Washing Machine,Samsung,Fair,21930,12430,Individual,Individual,Local Dealer,Yes,4140,1,13,6276,Expired,Not Returned,West,Ahmedabad,2.4,Resold
+LISTING_00608,PRD00608,Smartphones,Galaxy S Series,OnePlus,Fair,9610,3910,Business,Business,Facebook Marketplace,Yes,1930,3,47,2547,Expired,Not Returned,South,Vijayawada,3.7,Refurbished
+LISTING_00609,PRD00609,Home Appliances,Vacuum Cleaner,LG,Good,78090,40850,Individual,Individual,Amazon Renewed,Yes,2780,3,25,6560,Expired,Not Returned,East,Ranchi,4.4,Refurbished
+LISTING_00610,PRD00610,Fashion,Denim,Fossil,Good,5240,5270,Individual,Individual,Cashify,Yes,610,0,30,7045,Expired,Not Returned,East,Ranchi,2.9,Resold
+LISTING_00611,PRD00611,Gaming,Gaming Console,Sony,Like New,127290,79200,Individual,Individual,Cashify,No,0,1,32,2836,Expired,Not Returned,North,Chandigarh,4.0,Recycled
+LISTING_00612,PRD00612,Smartphones,OnePlus,Sony,Good,27850,23450,Individual,Individual,Local Dealer,Yes,4850,0,23,7214,Expired,Not Returned,South,Vijayawada,3.9,Refurbished
+LISTING_00613,PRD00613,Cameras,Lens,Panasonic,Good,96940,101010,Individual,Individual,Amazon Renewed,No,0,2,4,10159,Active,Not Returned,East,Patna,3.9,Resold
+LISTING_00614,PRD00614,Smartphones,Pixel,Google,Like New,53900,62580,Individual,Individual,EchoChain Marketplace,No,0,1,15,3462,Expired,Not Returned,West,Pune,4.1,Resold
+LISTING_00615,PRD00615,Smartphones,Xperia,Samsung,Fair,109200,52500,Individual,Individual,Cashify,No,0,4,7,1059,Active,Not Returned,North,Delhi,3.2,Resold
+LISTING_00616,PRD00616,Furniture,Bookshelf,IKEA,Fair,34590,23270,Individual,Individual,Cashify,Yes,3550,0,40,4488,Expired,Not Returned,South,Hyderabad,3.6,Recycled
+LISTING_00617,PRD00617,Furniture,Bookshelf,Godrej,Like New,44250,27980,Individual,Business,Amazon Renewed,No,0,2,26,3824,Extended,Not Returned,North,Jaipur,4.6,Landfill
+LISTING_00618,PRD00618,Smartphones,Xperia,Google,Fair,85370,24530,Individual,Individual,EchoChain Marketplace,No,0,0,51,2744,Expired,Not Returned,North,Chandigarh,3.9,Refurbished
+LISTING_00619,PRD00619,Smartphones,Galaxy S Series,Apple,Good,57160,33780,Individual,Individual,Cashify,No,0,0,46,10695,Expired,Not Returned,South,Kochi,4.2,Recycled
+LISTING_00620,PRD00620,Furniture,Office Chair,Wakefit,Like New,38170,44230,Individual,Individual,Cashify,Yes,2530,0,27,6298,Expired,Not Returned,West,Ahmedabad,4.7,Resold
+LISTING_00621,PRD00621,Smartphones,iPhone,OnePlus,Poor,27100,5410,Business,Individual,Amazon Renewed,No,0,0,58,918,Expired,Not Returned,South,Chennai,2.9,Landfill
+LISTING_00622,PRD00622,Audio,Smart Speaker,Sony,Poor,27280,9100,Individual,Individual,EchoChain Marketplace,No,0,1,12,11085,Active,Not Returned,West,Mumbai,3.9,Resold
+LISTING_00623,PRD00623,Laptops,Pavilion,Acer,Like New,102370,65300,Individual,Individual,Cashify,No,0,0,43,7614,Expired,Not Returned,West,Nagpur,4.5,Resold
+LISTING_00624,PRD00624,Furniture,Office Chair,Wakefit,Fair,32810,10590,Individual,Individual,Local Dealer,No,0,3,49,9802,Expired,Not Returned,East,Ranchi,3.5,Refurbished
+LISTING_00625,PRD00625,Laptops,ThinkPad,Apple,Good,13790,13800,Individual,Business,Amazon Renewed,No,0,2,17,1700,Expired,Not Returned,East,Bhubaneswar,2.9,Refurbished
+LISTING_00626,PRD00626,Gaming,Gaming Console,ASUS,Good,34830,21710,Business,Individual,Cashify,No,0,0,6,1069,Active,Not Returned,West,Mumbai,4.7,Resold
+LISTING_00627,PRD00627,Furniture,Office Chair,Urban Ladder,Fair,34990,21580,Individual,Individual,Amazon Renewed,No,0,2,32,8370,Expired,Not Returned,West,Surat,3.5,Refurbished
+LISTING_00628,PRD00628,Smartphones,iPhone,Samsung,Fair,65040,29590,Individual,Business,Facebook Marketplace,Yes,6090,4,31,743,Expired,Not Returned,South,Vijayawada,1.9,Recycled
+LISTING_00629,PRD00629,Audio,Smart Speaker,Sennheiser,Fair,5940,1490,Individual,Individual,Cashify,No,0,0,54,10882,Extended,Not Returned,North,Noida,2.6,Resold
+LISTING_00630,PRD00630,Home Appliances,Air Conditioner,Daikin,Good,49770,20100,Business,Business,Cashify,No,0,0,53,9525,Expired,Not Returned,East,Guwahati,4.0,Resold
+LISTING_00631,PRD00631,Gaming,Gaming Console,ASUS,Like New,114220,56330,Business,Individual,Facebook Marketplace,Yes,14010,0,55,11753,Expired,Not Returned,West,Pune,5.0,Recycled
+LISTING_00632,PRD00632,Cameras,Camcorder,Panasonic,Poor,53610,20070,Individual,Business,Local Dealer,Yes,6320,4,25,4288,Expired,Not Returned,South,Vijayawada,2.9,Resold
+LISTING_00633,PRD00633,Home Appliances,Refrigerator,LG,Fair,98120,37410,Individual,Individual,Facebook Marketplace,No,0,1,8,1509,Active,Not Returned,East,Guwahati,4.0,Landfill
+LISTING_00634,PRD00634,Smartphones,Galaxy S Series,Sony,Like New,35400,21720,Individual,Business,Amazon Renewed,No,0,1,42,4766,Expired,Not Returned,West,Surat,3.6,Refurbished
+LISTING_00635,PRD00635,Furniture,Sofa,Wakefit,Fair,8590,3090,Business,Business,OLX,No,0,3,59,7786,Expired,Not Returned,West,Mumbai,2.7,Resold
+LISTING_00636,PRD00636,Smartphones,Galaxy S Series,Google,Good,37970,33830,Individual,Business,Amazon Renewed,No,0,5,43,5089,Expired,Not Returned,West,Ahmedabad,4.5,Recycled
+LISTING_00637,PRD00637,Audio,Headphones,Boat,Good,33960,21860,Individual,Individual,Cashify,No,0,1,24,4696,Expired,Not Returned,East,Kolkata,3.7,Resold
+LISTING_00638,PRD00638,Smartphones,iPhone,Sony,Like New,38100,33890,Individual,Individual,Facebook Marketplace,No,0,0,5,10174,Active,Not Returned,East,Ranchi,3.8,Refurbished
+LISTING_00639,PRD00639,Cameras,DSLR,GoPro,Fair,28910,20700,Individual,Individual,EchoChain Marketplace,No,0,0,24,10274,Expired,Not Returned,North,Delhi,3.5,Recycled
+LISTING_00640,PRD00640,Laptops,ThinkPad,Dell,Poor,33860,9230,Individual,Individual,Facebook Marketplace,No,0,0,31,11105,Extended,Not Returned,South,Vijayawada,2.9,Refurbished
+LISTING_00641,PRD00641,Fashion,Denim,Nike,Good,4760,5250,Individual,Individual,Facebook Marketplace,Yes,330,0,7,9894,Active,Not Returned,West,Nagpur,3.3,Resold
+LISTING_00642,PRD00642,Audio,Soundbar,JBL,Fair,14050,6650,Individual,Business,OLX,No,0,0,23,9752,Expired,Not Returned,East,Bhubaneswar,3.1,Resold
+LISTING_00643,PRD00643,Furniture,Bookshelf,IKEA,Like New,34980,17590,Individual,Individual,Amazon Renewed,Yes,4920,2,49,11441,Expired,Not Returned,South,Vijayawada,4.7,Resold
+LISTING_00644,PRD00644,Fashion,Backpack,Fossil,Good,32900,14020,Individual,Individual,Local Dealer,No,0,1,40,11334,Expired,Not Returned,North,Jaipur,4.6,Refurbished
+LISTING_00645,PRD00645,Fashion,Watch,Puma,Poor,25160,5390,Individual,Individual,Cashify,No,0,2,19,1646,Expired,Not Returned,North,Delhi,3.6,Refurbished
+LISTING_00646,PRD00646,Gaming,Controller,Meta,Good,57200,45740,Individual,Individual,OLX,Yes,17990,1,47,5227,Extended,Not Returned,East,Kolkata,4.1,Resold
+LISTING_00647,PRD00647,Laptops,Inspiron,Apple,Good,32410,20970,Individual,Business,Local Dealer,No,0,0,50,6306,Expired,Not Returned,South,Vijayawada,2.8,Resold
+LISTING_00648,PRD00648,Gaming,Monitor,Lenovo,Like New,67550,72040,Individual,Individual,Local Dealer,Yes,16090,2,3,11838,Active,Not Returned,South,Hyderabad,3.1,Refurbished
+LISTING_00649,PRD00649,Smartphones,Pixel,Apple,Fair,27340,8190,Individual,Individual,Local Dealer,No,0,3,60,2271,Expired,Not Returned,South,Chennai,3.3,Resold
+LISTING_00650,PRD00650,Gaming,Gaming Laptop,Meta,Fair,49550,32580,Individual,Individual,EchoChain Marketplace,Yes,13310,3,16,1327,Expired,Not Returned,North,Chandigarh,3.3,Recycled
+LISTING_00651,PRD00651,Cameras,DSLR,Canon,Good,168440,113420,Individual,Individual,OLX,No,0,3,8,4902,Active,Not Returned,West,Pune,4.1,Resold
+LISTING_00652,PRD00652,Fashion,Watch,Puma,Good,13420,11470,Business,Individual,EchoChain Marketplace,No,0,1,29,5851,Expired,Not Returned,South,Bengaluru,3.9,Resold
+LISTING_00653,PRD00653,Audio,Headphones,Sony,Good,32800,16800,Individual,Individual,Cashify,No,0,3,18,1113,Expired,Not Returned,East,Guwahati,4.2,Resold
+LISTING_00654,PRD00654,Home Appliances,Refrigerator,Whirlpool,Fair,40310,11620,Individual,Business,Amazon Renewed,No,0,0,54,11787,Extended,Not Returned,East,Guwahati,3.9,Recycled
+LISTING_00655,PRD00655,Smartphones,OnePlus,Apple,Good,25520,11720,Individual,Individual,EchoChain Marketplace,No,0,2,35,11694,Expired,Not Returned,East,Kolkata,4.3,Refurbished
+LISTING_00656,PRD00656,Audio,Wireless Earbuds,Boat,Good,4330,3140,Business,Business,EchoChain Marketplace,No,0,1,22,679,Expired,Not Returned,West,Nagpur,3.7,Resold
+LISTING_00657,PRD00657,Home Appliances,Microwave,Samsung,Good,64610,62890,Individual,Individual,Cashify,No,0,1,7,9926,Active,Not Returned,East,Guwahati,4.7,Resold
+LISTING_00658,PRD00658,Gaming,Controller,Lenovo,Like New,43390,26660,Individual,Business,EchoChain Marketplace,Yes,2770,1,36,7523,Expired,Not Returned,South,Vijayawada,3.7,Resold
+LISTING_00659,PRD00659,Laptops,IdeaPad,Lenovo,Good,47610,36360,Individual,Individual,Cashify,No,0,2,60,5492,Extended,Not Returned,West,Mumbai,4.3,Resold
+LISTING_00660,PRD00660,Audio,Wireless Earbuds,Boat,Fair,16480,7600,Individual,Individual,OLX,No,0,0,9,2504,Active,Not Returned,South,Hyderabad,3.4,Resold
+LISTING_00661,PRD00661,Laptops,Inspiron,Apple,Like New,28690,24110,Individual,Individual,OLX,No,0,2,50,7191,Expired,Not Returned,East,Patna,5.0,Resold
+LISTING_00662,PRD00662,Laptops,Pavilion,Lenovo,Fair,40140,17970,Individual,Individual,Local Dealer,No,0,2,23,8555,Extended,Not Returned,West,Mumbai,3.4,Refurbished
+LISTING_00663,PRD00663,Home Appliances,Microwave,Samsung,Good,39620,29610,Individual,Individual,OLX,No,0,3,6,8064,Active,Not Returned,North,Noida,4.8,Resold
+LISTING_00664,PRD00664,Furniture,Bookshelf,Wakefit,Good,33380,16450,Individual,Individual,OLX,Yes,6350,3,60,10152,Expired,Not Returned,North,Noida,4.2,Recycled
+LISTING_00665,PRD00665,Gaming,Gaming Laptop,Sony,Fair,100770,46330,Individual,Individual,Amazon Renewed,No,0,4,44,5745,Extended,Not Returned,South,Kochi,3.3,Resold
+LISTING_00666,PRD00666,Gaming,Gaming Console,Meta,Good,90920,79090,Individual,Individual,OLX,Yes,18510,1,21,8005,Expired,Not Returned,West,Nagpur,3.4,Resold
+LISTING_00667,PRD00667,Furniture,Dining Set,Urban Ladder,Good,28540,25180,Business,Individual,Facebook Marketplace,No,0,1,23,4370,Extended,Not Returned,North,Noida,3.2,Refurbished
+LISTING_00668,PRD00668,Smartphones,Pixel,Sony,Fair,21140,9180,Individual,Individual,Cashify,No,0,0,50,6035,Expired,Not Returned,South,Vijayawada,4.9,Resold
+LISTING_00669,PRD00669,Fashion,Watch,Puma,Fair,22230,6560,Individual,Individual,Cashify,No,0,0,56,10926,Expired,Not Returned,South,Hyderabad,3.6,Refurbished
+LISTING_00670,PRD00670,Laptops,IdeaPad,Apple,Like New,136880,102150,Individual,Individual,Local Dealer,No,0,4,34,9624,Expired,Not Returned,West,Pune,3.5,Resold
+LISTING_00671,PRD00671,Laptops,IdeaPad,Acer,Good,77480,33410,Individual,Individual,Facebook Marketplace,No,0,0,40,11502,Expired,Not Returned,West,Ahmedabad,4.5,Resold
+LISTING_00672,PRD00672,Audio,Bluetooth Speaker,Boat,Fair,18110,6340,Individual,Individual,Local Dealer,Yes,1670,2,36,3805,Expired,Not Returned,South,Vijayawada,3.8,Refurbished
+LISTING_00673,PRD00673,Laptops,Pavilion,Acer,Fair,89470,44260,Individual,Individual,OLX,No,0,2,55,7907,Expired,Not Returned,North,Noida,4.0,Refurbished
+LISTING_00674,PRD00674,Home Appliances,Air Conditioner,Whirlpool,Fair,51610,22490,Individual,Individual,EchoChain Marketplace,No,0,1,50,11474,Expired,Not Returned,North,Lucknow,3.7,Resold
+LISTING_00675,PRD00675,Fashion,Jacket,Fossil,Fair,3990,1900,Business,Individual,Cashify,Yes,600,0,54,6512,Expired,Not Returned,South,Hyderabad,3.6,Refurbished
+LISTING_00676,PRD00676,Audio,Headphones,Boat,Good,8970,4710,Individual,Business,Amazon Renewed,No,0,3,30,2639,Expired,Not Returned,South,Bengaluru,5.0,Resold
+LISTING_00677,PRD00677,Smartphones,Xperia,Sony,Like New,76280,78470,Business,Individual,OLX,No,0,0,7,1331,Active,Not Returned,South,Chennai,3.8,Resold
+LISTING_00678,PRD00678,Cameras,Mirrorless Camera,Nikon,Fair,66570,25600,Individual,Individual,OLX,Yes,12020,1,49,10576,Extended,Not Returned,North,Delhi,4.3,Resold
+LISTING_00679,PRD00679,Smartphones,OnePlus,OnePlus,Good,51000,55070,Individual,Individual,Local Dealer,No,0,2,6,3661,Active,Not Returned,East,Bhubaneswar,4.1,Refurbished
+LISTING_00680,PRD00680,Furniture,Study Table,Pepperfry,Fair,24140,11620,Individual,Business,OLX,No,0,0,56,6629,Expired,Returned,East,Bhubaneswar,3.6,Resold
+LISTING_00681,PRD00681,Cameras,Action Camera,Canon,Good,48950,38470,Business,Individual,Facebook Marketplace,Yes,3100,0,20,4778,Expired,Not Returned,West,Pune,4.4,Resold
+LISTING_00682,PRD00682,Gaming,Gaming Laptop,Lenovo,Good,4540,2320,Individual,Individual,Cashify,Yes,570,0,27,5539,Expired,Not Returned,West,Mumbai,3.8,Resold
+LISTING_00683,PRD00683,Smartphones,OnePlus,Samsung,Good,44670,45120,Individual,Individual,EchoChain Marketplace,No,0,4,20,6013,Expired,Not Returned,South,Vijayawada,3.2,Recycled
+LISTING_00684,PRD00684,Gaming,VR Headset,Microsoft,Fair,77290,54080,Individual,Individual,EchoChain Marketplace,Yes,14780,0,13,3132,Expired,Not Returned,South,Kochi,3.1,Resold
+LISTING_00685,PRD00685,Smartphones,iPhone,Samsung,Poor,38240,8940,Individual,Individual,OLX,Yes,4350,1,19,6269,Expired,Not Returned,East,Bhubaneswar,3.3,Resold
+LISTING_00686,PRD00686,Furniture,Study Table,Urban Ladder,Good,60580,24290,Individual,Business,OLX,No,0,0,58,1660,Expired,Returned,West,Mumbai,3.0,Recycled
+LISTING_00687,PRD00687,Smartphones,Galaxy S Series,Samsung,Fair,67050,34840,Individual,Individual,OLX,No,0,1,36,1696,Expired,Not Returned,South,Chennai,3.5,Resold
+LISTING_00688,PRD00688,Smartphones,Xperia,OnePlus,Poor,30530,6450,Individual,Individual,Facebook Marketplace,Yes,4720,4,35,11676,Expired,Not Returned,South,Chennai,3.4,Resold
+LISTING_00689,PRD00689,Gaming,Gaming Laptop,ASUS,Fair,117700,69080,Individual,Individual,Amazon Renewed,No,0,4,12,3224,Active,Not Returned,South,Vijayawada,1.6,Recycled
+LISTING_00690,PRD00690,Fashion,Jacket,Levi's,Like New,12610,7490,Business,Individual,Cashify,No,0,2,52,11680,Expired,Not Returned,South,Vijayawada,4.5,Refurbished
+LISTING_00691,PRD00691,Home Appliances,Microwave,Samsung,Fair,30800,22720,Business,Business,EchoChain Marketplace,Yes,6270,0,13,3721,Expired,Not Returned,East,Patna,2.4,Refurbished
+LISTING_00692,PRD00692,Laptops,MacBook Air,Acer,Good,121740,58600,Individual,Individual,Cashify,Yes,14350,0,44,1279,Expired,Not Returned,South,Bengaluru,4.6,Refurbished
+LISTING_00693,PRD00693,Home Appliances,Microwave,LG,Fair,37560,12630,Individual,Individual,Facebook Marketplace,No,0,2,30,3991,Extended,Not Returned,West,Mumbai,4.0,Resold
+LISTING_00694,PRD00694,Fashion,Jacket,Fossil,Good,1990,2310,Individual,Business,Amazon Renewed,Yes,470,1,4,8724,Active,Not Returned,South,Hyderabad,4.3,Refurbished
+LISTING_00695,PRD00695,Laptops,Inspiron,Lenovo,Good,59270,32850,Individual,Business,EchoChain Marketplace,No,0,3,37,1748,Expired,Not Returned,West,Mumbai,4.2,Resold
+LISTING_00696,PRD00696,Laptops,ThinkPad,Apple,Good,113030,79800,Individual,Individual,Cashify,No,0,1,33,11945,Expired,Not Returned,North,Delhi,4.3,Resold
+LISTING_00697,PRD00697,Smartphones,Galaxy S Series,Samsung,Good,46210,26890,Individual,Individual,Local Dealer,Yes,8190,1,40,5483,Extended,Not Returned,North,Lucknow,4.7,Resold
+LISTING_00698,PRD00698,Furniture,Dining Set,IKEA,Good,19000,9360,Business,Individual,Facebook Marketplace,Yes,2550,0,37,3229,Expired,Not Returned,North,Noida,4.3,Refurbished
+LISTING_00699,PRD00699,Smartphones,Xperia,OnePlus,Good,121140,47480,Individual,Individual,Local Dealer,No,0,0,53,5969,Expired,Not Returned,West,Nagpur,4.0,Refurbished
+LISTING_00700,PRD00700,Smartphones,Pixel,Sony,Fair,33140,11710,Business,Business,EchoChain Marketplace,Yes,6230,1,36,4782,Expired,Not Returned,West,Surat,3.1,Resold
+LISTING_00701,PRD00701,Fashion,Backpack,Puma,Good,19840,15050,Individual,Individual,Local Dealer,No,0,1,24,7150,Expired,Not Returned,West,Ahmedabad,3.7,Refurbished
+LISTING_00702,PRD00702,Laptops,Pavilion,Acer,Good,31880,17610,Business,Individual,Local Dealer,Yes,4550,0,53,11320,Expired,Not Returned,North,Lucknow,5.0,Resold
+LISTING_00703,PRD00703,Smartphones,Pixel,Sony,Good,9250,8900,Individual,Individual,OLX,Yes,2000,0,7,8420,Active,Returned,South,Hyderabad,3.4,Resold
+LISTING_00704,PRD00704,Smartphones,Xperia,Sony,Fair,83360,30640,Business,Individual,Amazon Renewed,No,0,2,24,6021,Expired,Not Returned,North,Noida,2.9,Resold
+LISTING_00705,PRD00705,Gaming,Controller,Microsoft,Fair,112840,56750,Business,Individual,Facebook Marketplace,No,0,1,19,5611,Expired,Not Returned,South,Kochi,2.8,Recycled
+LISTING_00706,PRD00706,Smartphones,Xperia,Sony,Good,9280,5150,Individual,Individual,Local Dealer,Yes,890,0,47,1367,Expired,Not Returned,East,Patna,4.7,Resold
+LISTING_00707,PRD00707,Laptops,MacBook Air,Lenovo,Poor,69450,17750,Individual,Individual,Amazon Renewed,No,0,2,34,10376,Expired,Not Returned,East,Patna,3.7,Resold
+LISTING_00708,PRD00708,Audio,Soundbar,Bose,Fair,2120,850,Individual,Business,Facebook Marketplace,No,0,1,25,2211,Expired,Not Returned,West,Pune,3.9,Refurbished
+LISTING_00709,PRD00709,Fashion,Backpack,Nike,Good,12630,8930,Individual,Business,Cashify,No,0,1,42,4092,Expired,Not Returned,South,Vijayawada,3.8,Resold
+LISTING_00710,PRD00710,Furniture,Study Table,Godrej,Fair,15980,8080,Individual,Individual,OLX,Yes,3630,1,20,270,Expired,Not Returned,East,Kolkata,4.5,Resold
+LISTING_00711,PRD00711,Audio,Headphones,JBL,Good,11610,6890,Individual,Individual,Cashify,No,0,1,56,1034,Expired,Not Returned,North,Delhi,4.2,Recycled
+LISTING_00712,PRD00712,Laptops,MacBook Air,HP,Good,150840,56690,Individual,Individual,Cashify,Yes,18200,0,54,142,Extended,Not Returned,South,Kochi,4.8,Resold
+LISTING_00713,PRD00713,Furniture,Sofa,Wakefit,Fair,17920,12350,Business,Individual,EchoChain Marketplace,No,0,0,3,7092,Active,Not Returned,North,Chandigarh,2.0,Resold
+LISTING_00714,PRD00714,Smartphones,Pixel,Samsung,Good,43420,15900,Individual,Business,OLX,No,0,0,55,9203,Expired,Not Returned,North,Chandigarh,4.5,Refurbished
+LISTING_00715,PRD00715,Smartphones,Xperia,Apple,Fair,65130,34670,Business,Individual,Cashify,No,0,0,55,2352,Expired,Not Returned,West,Mumbai,2.9,Refurbished
+LISTING_00716,PRD00716,Laptops,Pavilion,Acer,Like New,94210,58470,Individual,Individual,OLX,Yes,8820,2,53,2485,Expired,Not Returned,South,Vijayawada,4.6,Resold
+LISTING_00717,PRD00717,Laptops,MacBook Air,Dell,Good,84850,39450,Individual,Individual,OLX,No,0,0,56,2436,Expired,Not Returned,West,Nagpur,5.0,Resold
+LISTING_00718,PRD00718,Furniture,Dining Set,Godrej,Poor,43210,16860,Individual,Individual,Cashify,No,0,0,18,10993,Expired,Not Returned,North,Delhi,2.8,Resold
+LISTING_00719,PRD00719,Home Appliances,Air Conditioner,LG,Good,56730,39420,Individual,Business,Amazon Renewed,No,0,0,23,7718,Extended,Returned,South,Chennai,4.4,Recycled
+LISTING_00720,PRD00720,Furniture,Sofa,Urban Ladder,Fair,45860,13380,Business,Business,Amazon Renewed,Yes,9310,2,57,1079,Expired,Not Returned,West,Ahmedabad,3.5,Recycled
+LISTING_00721,PRD00721,Audio,Soundbar,Bose,Poor,18490,6530,Individual,Business,Cashify,Yes,1340,0,14,7063,Extended,Not Returned,South,Bengaluru,3.5,Refurbished
+LISTING_00722,PRD00722,Smartphones,Galaxy S Series,OnePlus,Fair,30270,8900,Individual,Individual,Amazon Renewed,Yes,1380,3,52,11781,Expired,Not Returned,South,Kochi,4.6,Resold
+LISTING_00723,PRD00723,Smartphones,iPhone,Sony,Poor,71200,16920,Individual,Business,OLX,No,0,0,37,7838,Expired,Not Returned,North,Lucknow,3.5,Recycled
+LISTING_00724,PRD00724,Smartphones,Pixel,Google,Like New,28110,28380,Individual,Individual,Local Dealer,No,0,1,27,6148,Expired,Not Returned,West,Nagpur,5.0,Resold
+LISTING_00725,PRD00725,Cameras,DSLR,Nikon,Good,37890,27690,Individual,Individual,Cashify,No,0,1,51,1570,Expired,Not Returned,North,Jaipur,5.0,Resold
+LISTING_00726,PRD00726,Smartphones,OnePlus,Apple,Good,39520,17920,Business,Individual,OLX,Yes,5490,1,54,11843,Extended,Not Returned,East,Bhubaneswar,3.8,Landfill
+LISTING_00727,PRD00727,Audio,Smart Speaker,Sennheiser,Fair,11400,5140,Individual,Individual,OLX,No,0,0,25,8472,Expired,Not Returned,West,Ahmedabad,3.8,Resold
+LISTING_00728,PRD00728,Furniture,Office Chair,Urban Ladder,Fair,36900,25090,Individual,Individual,OLX,Yes,8820,0,29,2852,Expired,Not Returned,North,Jaipur,2.3,Refurbished
+LISTING_00729,PRD00729,Furniture,Office Chair,IKEA,Fair,38660,18190,Individual,Individual,OLX,No,0,0,56,8201,Expired,Not Returned,North,Jaipur,3.1,Refurbished
+LISTING_00730,PRD00730,Smartphones,Galaxy S Series,Google,Like New,86120,46840,Individual,Individual,Amazon Renewed,Yes,7540,1,53,6406,Expired,Not Returned,North,Lucknow,4.6,Refurbished
+LISTING_00731,PRD00731,Home Appliances,Air Conditioner,Samsung,Good,8670,6460,Individual,Individual,EchoChain Marketplace,No,0,2,24,7046,Expired,Not Returned,East,Bhubaneswar,5.0,Recycled
+LISTING_00732,PRD00732,Laptops,IdeaPad,Lenovo,Good,78660,64760,Individual,Business,Amazon Renewed,Yes,7100,0,24,9391,Expired,Not Returned,West,Ahmedabad,4.8,Refurbished
+LISTING_00733,PRD00733,Gaming,Controller,Microsoft,Poor,111520,27810,Individual,Individual,EchoChain Marketplace,No,0,3,34,9175,Expired,Not Returned,East,Bhubaneswar,2.9,Resold
+LISTING_00734,PRD00734,Smartphones,Galaxy S Series,Google,Poor,70980,26100,Individual,Individual,Local Dealer,Yes,14680,0,7,6903,Active,Not Returned,North,Chandigarh,2.8,Resold
+LISTING_00735,PRD00735,Furniture,Study Table,Wakefit,Good,34970,24440,Individual,Individual,Facebook Marketplace,No,0,0,28,6947,Expired,Returned,West,Surat,3.6,Refurbished
+LISTING_00736,PRD00736,Smartphones,Galaxy S Series,Sony,Fair,46890,16430,Individual,Individual,Amazon Renewed,No,0,1,42,3043,Expired,Not Returned,South,Bengaluru,3.7,Resold
+LISTING_00737,PRD00737,Cameras,Action Camera,Canon,Poor,142820,24280,Individual,Individual,OLX,No,0,3,52,7200,Expired,Not Returned,West,Nagpur,2.8,Refurbished
+LISTING_00738,PRD00738,Home Appliances,Washing Machine,Whirlpool,Good,19140,11760,Individual,Individual,Cashify,No,0,1,24,2805,Extended,Not Returned,East,Bhubaneswar,2.2,Recycled
+LISTING_00739,PRD00739,Fashion,Sneakers,Adidas,Fair,9750,2970,Individual,Business,Local Dealer,Yes,910,0,50,3954,Expired,Not Returned,South,Hyderabad,3.8,Refurbished
+LISTING_00740,PRD00740,Audio,Wireless Earbuds,Boat,Fair,12330,7280,Business,Business,EchoChain Marketplace,No,0,0,19,9337,Expired,Not Returned,South,Hyderabad,3.4,Refurbished
+LISTING_00741,PRD00741,Furniture,Bookshelf,Godrej,Fair,38510,18760,Individual,Individual,Amazon Renewed,No,0,1,20,1595,Expired,Not Returned,West,Nagpur,3.0,Resold
+LISTING_00742,PRD00742,Smartphones,Xperia,Samsung,Like New,30410,19160,Business,Individual,Local Dealer,Yes,2890,0,34,6760,Expired,Not Returned,South,Hyderabad,4.4,Resold
+LISTING_00743,PRD00743,Home Appliances,Refrigerator,LG,Good,27490,17610,Individual,Individual,EchoChain Marketplace,No,0,0,33,8094,Extended,Not Returned,East,Guwahati,4.7,Refurbished
+LISTING_00744,PRD00744,Fashion,Jacket,Nike,Good,16740,14160,Individual,Individual,Facebook Marketplace,Yes,3000,0,12,812,Active,Not Returned,East,Guwahati,3.9,Recycled
+LISTING_00745,PRD00745,Laptops,MacBook Air,Apple,Fair,18550,10190,Individual,Business,OLX,Yes,4100,3,32,10614,Expired,Not Returned,West,Mumbai,3.7,Refurbished
+LISTING_00746,PRD00746,Fashion,Jacket,Levi's,Like New,12410,9780,Individual,Business,EchoChain Marketplace,No,0,0,59,7561,Expired,Not Returned,East,Kolkata,4.1,Resold
+LISTING_00747,PRD00747,Smartphones,Pixel,OnePlus,Like New,32890,21890,Individual,Individual,Cashify,Yes,1740,1,19,6331,Expired,Not Returned,North,Delhi,4.2,Resold
+LISTING_00748,PRD00748,Home Appliances,Washing Machine,Whirlpool,Good,18420,8210,Individual,Individual,EchoChain Marketplace,No,0,0,55,7601,Expired,Not Returned,West,Mumbai,2.8,Refurbished
+LISTING_00749,PRD00749,Cameras,Mirrorless Camera,Canon,Good,109600,78830,Individual,Individual,EchoChain Marketplace,No,0,1,28,3216,Expired,Not Returned,South,Vijayawada,5.0,Recycled
+LISTING_00750,PRD00750,Home Appliances,Refrigerator,Whirlpool,Fair,59600,16770,Individual,Business,Facebook Marketplace,Yes,5090,0,60,4313,Expired,Not Returned,West,Mumbai,4.9,Recycled
+LISTING_00751,PRD00751,Audio,Bluetooth Speaker,JBL,Good,24850,9130,Individual,Individual,Cashify,No,0,0,50,2692,Expired,Returned,South,Hyderabad,3.6,Resold
+LISTING_00752,PRD00752,Fashion,Denim,Levi's,Fair,3260,1070,Individual,Individual,Facebook Marketplace,No,0,0,53,1458,Expired,Not Returned,West,Pune,3.7,Recycled
+LISTING_00753,PRD00753,Smartphones,Xperia,Samsung,Good,48350,49650,Individual,Individual,Cashify,Yes,4360,1,14,3706,Expired,Not Returned,East,Guwahati,2.8,Recycled
+LISTING_00754,PRD00754,Laptops,IdeaPad,Lenovo,Good,75470,33010,Individual,Individual,OLX,Yes,12010,0,53,10757,Extended,Not Returned,North,Jaipur,4.6,Refurbished
+LISTING_00755,PRD00755,Home Appliances,Microwave,LG,Good,75990,34270,Business,Individual,Facebook Marketplace,No,0,0,57,9738,Expired,Not Returned,East,Bhubaneswar,4.1,Refurbished
+LISTING_00756,PRD00756,Gaming,Gaming Console,Sony,Good,39420,20680,Individual,Business,Facebook Marketplace,No,0,3,29,5552,Expired,Not Returned,West,Ahmedabad,3.8,Resold
+LISTING_00757,PRD00757,Cameras,Action Camera,Canon,Good,104980,60740,Individual,Individual,EchoChain Marketplace,Yes,24770,0,38,7089,Extended,Returned,East,Kolkata,3.6,Refurbished
+LISTING_00758,PRD00758,Gaming,VR Headset,Lenovo,Like New,104430,82860,Business,Individual,OLX,No,0,2,19,2303,Extended,Not Returned,West,Nagpur,4.0,Resold
+LISTING_00759,PRD00759,Smartphones,Galaxy S Series,Samsung,Poor,19830,3970,Individual,Individual,Local Dealer,Yes,2050,1,34,11276,Expired,Not Returned,West,Surat,3.5,Resold
+LISTING_00760,PRD00760,Smartphones,OnePlus,Apple,Good,43870,54620,Individual,Individual,Local Dealer,No,0,1,11,8905,Active,Not Returned,South,Hyderabad,4.4,Refurbished
+LISTING_00761,PRD00761,Fashion,Backpack,Levi's,Poor,5120,1480,Individual,Business,Local Dealer,No,0,0,40,7086,Expired,Not Returned,North,Chandigarh,3.1,Resold
+LISTING_00762,PRD00762,Smartphones,Pixel,Samsung,Like New,11030,8480,Individual,Individual,EchoChain Marketplace,No,0,0,49,1286,Extended,Not Returned,North,Delhi,4.1,Resold
+LISTING_00763,PRD00763,Fashion,Denim,Levi's,Good,10380,7330,Business,Individual,Facebook Marketplace,No,0,2,6,6521,Active,Not Returned,West,Ahmedabad,4.3,Resold
+LISTING_00764,PRD00764,Home Appliances,Vacuum Cleaner,IFB,Fair,77040,24560,Business,Individual,Amazon Renewed,Yes,13270,2,50,10956,Expired,Not Returned,North,Lucknow,3.1,Refurbished
+LISTING_00765,PRD00765,Furniture,Sofa,IKEA,Good,48810,28160,Individual,Individual,EchoChain Marketplace,No,0,0,56,6516,Expired,Not Returned,North,Lucknow,3.6,Refurbished
+LISTING_00766,PRD00766,Fashion,Jacket,Puma,Fair,26700,11660,Business,Individual,Amazon Renewed,No,0,0,30,5162,Expired,Not Returned,West,Pune,3.1,Resold
+LISTING_00767,PRD00767,Home Appliances,Air Conditioner,Samsung,Fair,31480,12350,Individual,Business,OLX,No,0,4,20,6021,Expired,Not Returned,South,Hyderabad,2.9,Resold
+LISTING_00768,PRD00768,Laptops,IdeaPad,HP,Fair,89630,32250,Individual,Individual,Local Dealer,No,0,0,54,1115,Extended,Not Returned,South,Hyderabad,3.4,Resold
+LISTING_00769,PRD00769,Laptops,MacBook Air,Dell,Like New,121060,104630,Business,Business,EchoChain Marketplace,No,0,0,9,11564,Active,Not Returned,North,Chandigarh,3.9,Refurbished
+LISTING_00770,PRD00770,Audio,Wireless Earbuds,Sony,Good,5810,5310,Individual,Individual,EchoChain Marketplace,No,0,0,4,1397,Active,Returned,North,Lucknow,3.4,Resold
+LISTING_00771,PRD00771,Smartphones,OnePlus,Google,Like New,35540,37090,Individual,Individual,EchoChain Marketplace,No,0,0,15,10910,Extended,Not Returned,West,Pune,3.6,Refurbished
+LISTING_00772,PRD00772,Gaming,Controller,Microsoft,Good,84560,61520,Business,Individual,Local Dealer,Yes,17230,2,30,9998,Expired,Not Returned,North,Noida,3.8,Resold
+LISTING_00773,PRD00773,Home Appliances,Vacuum Cleaner,Samsung,Fair,36410,9660,Business,Individual,OLX,Yes,5680,3,47,6087,Expired,Not Returned,North,Delhi,4.1,Recycled
+LISTING_00774,PRD00774,Fashion,Watch,Adidas,Good,8220,7680,Individual,Individual,Facebook Marketplace,No,0,0,25,2322,Expired,Not Returned,East,Ranchi,5.0,Resold
+LISTING_00775,PRD00775,Fashion,Denim,Nike,Good,1660,1010,Individual,Individual,Cashify,No,0,2,46,9261,Extended,Not Returned,South,Vijayawada,3.4,Resold
+LISTING_00776,PRD00776,Audio,Smart Speaker,Boat,Good,1960,1400,Individual,Business,Amazon Renewed,No,0,1,18,292,Expired,Not Returned,East,Ranchi,3.8,Resold
+LISTING_00777,PRD00777,Cameras,DSLR,GoPro,Poor,50250,18910,Individual,Individual,Cashify,Yes,3610,1,44,11959,Expired,Not Returned,West,Pune,2.3,Refurbished
+LISTING_00778,PRD00778,Audio,Soundbar,Boat,Fair,7310,6280,Individual,Individual,Local Dealer,Yes,1160,0,5,4203,Active,Not Returned,East,Patna,2.9,Recycled
+LISTING_00779,PRD00779,Smartphones,Pixel,Google,Like New,44540,43840,Individual,Individual,Facebook Marketplace,No,0,0,40,4784,Expired,Not Returned,North,Chandigarh,3.7,Resold
+LISTING_00780,PRD00780,Home Appliances,Refrigerator,Daikin,Good,19490,21120,Individual,Individual,Facebook Marketplace,No,0,1,5,3876,Active,Not Returned,South,Kochi,4.1,Resold
+LISTING_00781,PRD00781,Audio,Soundbar,Sony,Good,8310,4370,Individual,Individual,OLX,No,0,0,44,4187,Expired,Not Returned,North,Noida,3.3,Refurbished
+LISTING_00782,PRD00782,Cameras,Mirrorless Camera,Sony,Good,113500,73260,Business,Individual,Facebook Marketplace,No,0,1,44,7350,Expired,Not Returned,West,Nagpur,3.3,Refurbished
+LISTING_00783,PRD00783,Home Appliances,Microwave,IFB,Good,20030,13710,Business,Individual,Cashify,No,0,3,42,5425,Expired,Not Returned,North,Jaipur,3.8,Refurbished
+LISTING_00784,PRD00784,Laptops,MacBook Air,HP,Good,92390,83260,Individual,Individual,Amazon Renewed,No,0,0,21,5523,Expired,Not Returned,North,Delhi,4.3,Resold
+LISTING_00785,PRD00785,Furniture,Office Chair,Godrej,Good,35010,29010,Individual,Business,Cashify,No,0,2,43,1484,Expired,Not Returned,East,Kolkata,5.0,Recycled
+LISTING_00786,PRD00786,Audio,Soundbar,JBL,Good,44430,22300,Individual,Individual,Local Dealer,No,0,1,17,6720,Expired,Not Returned,North,Noida,4.7,Resold
+LISTING_00787,PRD00787,Laptops,IdeaPad,Dell,Like New,23220,16690,Business,Individual,Facebook Marketplace,No,0,1,7,9685,Active,Not Returned,West,Pune,4.3,Resold
+LISTING_00788,PRD00788,Laptops,MacBook Air,HP,Like New,51630,44980,Individual,Business,Amazon Renewed,No,0,0,40,7800,Expired,Not Returned,West,Nagpur,3.9,Resold
+LISTING_00789,PRD00789,Fashion,Watch,Levi's,Fair,13750,5320,Individual,Individual,Cashify,Yes,2780,0,29,3108,Extended,Not Returned,East,Ranchi,4.1,Resold
+LISTING_00790,PRD00790,Gaming,Controller,ASUS,Fair,105910,38980,Individual,Business,Amazon Renewed,No,0,0,31,7469,Expired,Not Returned,North,Jaipur,3.4,Resold
+LISTING_00791,PRD00791,Smartphones,iPhone,Apple,Good,20700,10540,Business,Individual,Local Dealer,No,0,2,54,509,Expired,Not Returned,North,Jaipur,5.0,Refurbished
+LISTING_00792,PRD00792,Laptops,Inspiron,HP,Like New,38490,31070,Individual,Business,OLX,No,0,0,16,9952,Expired,Not Returned,North,Noida,3.7,Resold
+LISTING_00793,PRD00793,Cameras,Action Camera,Canon,Fair,117710,41640,Individual,Individual,Amazon Renewed,No,0,4,54,6276,Extended,Not Returned,West,Mumbai,3.3,Resold
+LISTING_00794,PRD00794,Smartphones,iPhone,Sony,Good,43560,37720,Individual,Individual,OLX,No,0,1,29,6761,Expired,Not Returned,North,Chandigarh,4.9,Resold
+LISTING_00795,PRD00795,Smartphones,OnePlus,Apple,Fair,17170,9880,Individual,Business,OLX,Yes,3770,0,57,9641,Expired,Not Returned,South,Kochi,3.5,Refurbished
+LISTING_00796,PRD00796,Home Appliances,Microwave,LG,Good,44140,43560,Business,Individual,OLX,Yes,6480,0,21,2448,Expired,Not Returned,East,Bhubaneswar,3.9,Resold
+LISTING_00797,PRD00797,Smartphones,Xperia,Sony,Fair,40350,11620,Business,Business,OLX,No,0,4,59,4292,Expired,Not Returned,North,Chandigarh,4.1,Resold
+LISTING_00798,PRD00798,Fashion,Backpack,Nike,Fair,26340,9410,Business,Individual,OLX,No,0,1,45,7517,Expired,Not Returned,East,Guwahati,3.6,Recycled
+LISTING_00799,PRD00799,Laptops,Pavilion,Apple,Good,26320,14920,Individual,Individual,Local Dealer,No,0,2,36,1619,Expired,Not Returned,East,Bhubaneswar,4.4,Recycled
+LISTING_00800,PRD00800,Fashion,Sneakers,Nike,Poor,24470,7310,Individual,Individual,Facebook Marketplace,Yes,2750,3,22,10835,Expired,Not Returned,East,Bhubaneswar,3.5,Resold
+LISTING_00801,PRD00801,Cameras,Action Camera,Canon,Good,100030,68640,Individual,Individual,OLX,No,0,0,10,9457,Active,Not Returned,West,Mumbai,4.9,Refurbished
+LISTING_00802,PRD00802,Cameras,Camcorder,Sony,Like New,60500,29350,Individual,Individual,Amazon Renewed,Yes,5360,0,43,1912,Expired,Not Returned,South,Kochi,3.3,Refurbished
+LISTING_00803,PRD00803,Laptops,IdeaPad,Apple,Good,29030,19740,Business,Individual,Local Dealer,No,0,0,46,10982,Expired,Not Returned,North,Jaipur,3.0,Resold
+LISTING_00804,PRD00804,Home Appliances,Refrigerator,Samsung,Fair,46370,14240,Business,Individual,OLX,Yes,6350,1,54,69,Expired,Not Returned,West,Pune,3.3,Refurbished
+LISTING_00805,PRD00805,Furniture,Dining Set,Wakefit,Good,44430,32660,Individual,Individual,OLX,No,0,0,33,1437,Expired,Not Returned,East,Kolkata,5.0,Resold
+LISTING_00806,PRD00806,Smartphones,Galaxy S Series,Sony,Fair,81980,34820,Individual,Individual,Facebook Marketplace,Yes,8350,0,8,11692,Active,Not Returned,East,Kolkata,4.3,Resold
+LISTING_00807,PRD00807,Cameras,DSLR,Sony,Fair,103980,37250,Individual,Individual,Facebook Marketplace,Yes,14300,0,50,666,Expired,Not Returned,East,Guwahati,3.0,Refurbished
+LISTING_00808,PRD00808,Fashion,Watch,Puma,Poor,10810,3620,Business,Individual,Local Dealer,Yes,1660,3,23,11304,Expired,Not Returned,South,Vijayawada,2.9,Resold
+LISTING_00809,PRD00809,Audio,Headphones,Sennheiser,Good,7140,5050,Individual,Business,Local Dealer,Yes,2190,1,57,7494,Expired,Not Returned,South,Kochi,3.8,Resold
+LISTING_00810,PRD00810,Cameras,Camcorder,GoPro,Good,47990,44050,Individual,Individual,Local Dealer,Yes,7430,1,18,10191,Expired,Not Returned,South,Hyderabad,3.7,Resold
+LISTING_00811,PRD00811,Smartphones,Galaxy S Series,Google,Like New,63540,58830,Individual,Individual,Cashify,No,0,0,5,1608,Active,Not Returned,South,Hyderabad,4.5,Refurbished
+LISTING_00812,PRD00812,Home Appliances,Microwave,Daikin,Fair,73560,27080,Individual,Individual,Cashify,Yes,17670,0,52,10186,Expired,Returned,West,Ahmedabad,4.2,Refurbished
+LISTING_00813,PRD00813,Laptops,Pavilion,Dell,Like New,28920,34180,Individual,Individual,Amazon Renewed,Yes,5700,1,32,481,Extended,Not Returned,East,Kolkata,4.2,Refurbished
+LISTING_00814,PRD00814,Home Appliances,Microwave,Whirlpool,Good,42190,17400,Individual,Individual,Local Dealer,No,0,0,56,1597,Expired,Not Returned,North,Noida,4.1,Refurbished
+LISTING_00815,PRD00815,Laptops,IdeaPad,Apple,Fair,43330,29470,Individual,Business,EchoChain Marketplace,Yes,3900,0,18,9117,Expired,Not Returned,South,Vijayawada,3.5,Recycled
+LISTING_00816,PRD00816,Laptops,MacBook Air,Dell,Good,37960,22210,Individual,Business,Facebook Marketplace,No,0,2,17,2744,Expired,Not Returned,North,Noida,3.7,Resold
+LISTING_00817,PRD00817,Smartphones,Galaxy S Series,Sony,Good,12600,7320,Business,Individual,Cashify,No,0,0,21,10530,Expired,Not Returned,South,Kochi,3.9,Resold
+LISTING_00818,PRD00818,Furniture,Bookshelf,Pepperfry,Good,31790,19210,Individual,Individual,Facebook Marketplace,No,0,0,37,7855,Extended,Not Returned,West,Nagpur,3.8,Landfill
+LISTING_00819,PRD00819,Smartphones,Pixel,Apple,Fair,80650,33210,Individual,Individual,OLX,No,0,4,22,5418,Expired,Not Returned,South,Kochi,2.0,Recycled
+LISTING_00820,PRD00820,Home Appliances,Vacuum Cleaner,IFB,Good,77450,65100,Individual,Individual,Amazon Renewed,Yes,9070,0,6,1686,Active,Not Returned,East,Guwahati,3.9,Recycled
+LISTING_00821,PRD00821,Home Appliances,Air Conditioner,LG,Like New,20780,29940,Individual,Individual,Local Dealer,No,0,0,6,6021,Active,Not Returned,North,Noida,4.0,Resold
+LISTING_00822,PRD00822,Home Appliances,Microwave,Samsung,Like New,22900,16080,Individual,Individual,EchoChain Marketplace,No,0,0,6,2634,Active,Not Returned,South,Vijayawada,4.8,Resold
+LISTING_00823,PRD00823,Gaming,Controller,Sony,Fair,106380,52540,Individual,Business,EchoChain Marketplace,Yes,6200,3,42,1072,Expired,Not Returned,South,Bengaluru,3.9,Refurbished
+LISTING_00824,PRD00824,Home Appliances,Washing Machine,LG,Fair,7180,2320,Individual,Individual,Cashify,No,0,2,38,5386,Expired,Not Returned,North,Noida,3.2,Resold
+LISTING_00825,PRD00825,Fashion,Watch,Nike,Good,23100,13040,Business,Individual,OLX,No,0,4,20,2458,Expired,Not Returned,West,Pune,3.2,Resold
+LISTING_00826,PRD00826,Cameras,Action Camera,Nikon,Good,90000,71140,Individual,Business,Facebook Marketplace,No,0,1,51,4968,Expired,Not Returned,East,Bhubaneswar,4.4,Refurbished
+LISTING_00827,PRD00827,Gaming,Monitor,ASUS,Fair,40020,36350,Individual,Individual,EchoChain Marketplace,Yes,10430,2,9,2434,Active,Not Returned,North,Jaipur,4.0,Resold
+LISTING_00828,PRD00828,Gaming,Controller,ASUS,Good,90400,41740,Individual,Individual,Facebook Marketplace,No,0,3,26,10051,Expired,Not Returned,South,Chennai,3.1,Resold
+LISTING_00829,PRD00829,Fashion,Sneakers,Nike,Fair,22490,12200,Individual,Individual,Cashify,Yes,5690,1,33,10255,Expired,Not Returned,South,Vijayawada,2.7,Resold
+LISTING_00830,PRD00830,Fashion,Denim,Fossil,Good,9270,5320,Business,Business,Local Dealer,No,0,0,56,5190,Extended,Not Returned,East,Guwahati,4.4,Resold
+LISTING_00831,PRD00831,Smartphones,Galaxy S Series,Apple,Poor,17720,7390,Individual,Individual,OLX,Yes,4280,1,29,384,Expired,Not Returned,North,Delhi,3.9,Resold
+LISTING_00832,PRD00832,Laptops,Pavilion,Dell,Good,143770,72230,Individual,Individual,Cashify,No,0,1,28,7269,Expired,Not Returned,West,Nagpur,4.6,Refurbished
+LISTING_00833,PRD00833,Audio,Wireless Earbuds,Boat,Like New,28430,23750,Business,Individual,Local Dealer,Yes,6850,3,32,2169,Expired,Not Returned,West,Mumbai,4.2,Landfill
+LISTING_00834,PRD00834,Smartphones,Xperia,Samsung,Good,57630,52990,Individual,Individual,OLX,Yes,12130,0,28,6522,Extended,Not Returned,South,Chennai,3.4,Refurbished
+LISTING_00835,PRD00835,Fashion,Jacket,Levi's,Like New,15780,10990,Individual,Individual,Amazon Renewed,No,0,0,58,11179,Expired,Not Returned,West,Surat,4.1,Resold
+LISTING_00836,PRD00836,Audio,Wireless Earbuds,Sennheiser,Like New,12850,9080,Individual,Business,Cashify,No,0,0,50,11639,Extended,Not Returned,East,Patna,3.7,Refurbished
+LISTING_00837,PRD00837,Smartphones,Pixel,Apple,Good,4330,4370,Individual,Individual,OLX,No,0,0,23,5854,Expired,Not Returned,East,Bhubaneswar,4.1,Resold
+LISTING_00838,PRD00838,Home Appliances,Refrigerator,Daikin,Like New,27680,32100,Individual,Business,Local Dealer,No,0,0,35,3533,Expired,Not Returned,North,Jaipur,3.8,Refurbished
+LISTING_00839,PRD00839,Smartphones,Pixel,Samsung,Good,60610,25300,Individual,Individual,OLX,Yes,8420,2,60,9956,Extended,Not Returned,South,Kochi,5.0,Resold
+LISTING_00840,PRD00840,Gaming,Gaming Console,Lenovo,Good,57170,35020,Individual,Individual,Cashify,Yes,9690,0,11,5628,Active,Not Returned,East,Bhubaneswar,4.4,Resold
+LISTING_00841,PRD00841,Furniture,Bookshelf,IKEA,Fair,65070,32530,Individual,Individual,Local Dealer,No,0,0,14,198,Expired,Not Returned,East,Patna,2.9,Recycled
+LISTING_00842,PRD00842,Gaming,VR Headset,ASUS,Fair,109350,37950,Individual,Individual,Facebook Marketplace,No,0,2,31,10534,Expired,Not Returned,East,Kolkata,2.7,Resold
+LISTING_00843,PRD00843,Audio,Wireless Earbuds,Sony,Like New,28590,19190,Business,Individual,EchoChain Marketplace,Yes,5390,4,54,8758,Expired,Not Returned,North,Delhi,4.4,Resold
+LISTING_00844,PRD00844,Cameras,Mirrorless Camera,Nikon,Good,105650,80690,Individual,Individual,OLX,No,0,0,45,7349,Expired,Not Returned,South,Kochi,4.8,Refurbished
+LISTING_00845,PRD00845,Gaming,VR Headset,Sony,Fair,24590,17840,Individual,Individual,OLX,No,0,2,26,487,Extended,Not Returned,South,Vijayawada,3.1,Refurbished
+LISTING_00846,PRD00846,Audio,Bluetooth Speaker,Bose,Like New,21590,29450,Individual,Individual,Cashify,No,0,1,8,1087,Active,Not Returned,East,Guwahati,4.0,Refurbished
+LISTING_00847,PRD00847,Laptops,IdeaPad,Dell,Fair,79320,62310,Individual,Individual,Local Dealer,Yes,20100,2,9,2192,Active,Not Returned,West,Nagpur,3.7,Resold
+LISTING_00848,PRD00848,Audio,Smart Speaker,Sony,Good,12820,8150,Individual,Individual,OLX,Yes,740,0,21,11179,Expired,Not Returned,North,Noida,5.0,Refurbished
+LISTING_00849,PRD00849,Gaming,Gaming Console,Sony,Good,47100,22740,Individual,Business,Facebook Marketplace,No,0,0,32,446,Expired,Not Returned,East,Ranchi,4.4,Resold
+LISTING_00850,PRD00850,Fashion,Sneakers,Fossil,Fair,4790,2890,Individual,Individual,Local Dealer,Yes,640,0,25,6666,Expired,Returned,South,Bengaluru,4.5,Resold
+LISTING_00851,PRD00851,Furniture,Dining Set,Godrej,Fair,21460,7140,Individual,Individual,Local Dealer,No,0,3,44,9177,Extended,Not Returned,West,Nagpur,2.6,Landfill
+LISTING_00852,PRD00852,Gaming,Monitor,ASUS,Fair,144610,55170,Individual,Business,Cashify,No,0,2,25,10716,Expired,Returned,South,Kochi,3.8,Refurbished
+LISTING_00853,PRD00853,Cameras,Camcorder,GoPro,Good,122050,58090,Individual,Individual,Local Dealer,Yes,20820,1,54,8758,Expired,Not Returned,West,Pune,4.2,Resold
+LISTING_00854,PRD00854,Laptops,Inspiron,HP,Good,49890,39060,Business,Individual,Cashify,No,0,1,9,10482,Active,Not Returned,West,Ahmedabad,3.8,Refurbished
+LISTING_00855,PRD00855,Furniture,Sofa,Urban Ladder,Good,19900,12060,Individual,Individual,EchoChain Marketplace,No,0,0,23,11081,Expired,Not Returned,East,Bhubaneswar,3.5,Resold
+LISTING_00856,PRD00856,Fashion,Jacket,Adidas,Like New,10490,6970,Individual,Individual,Cashify,No,0,0,29,559,Expired,Returned,North,Lucknow,3.6,Recycled
+LISTING_00857,PRD00857,Gaming,Gaming Console,Microsoft,Good,104050,62770,Individual,Individual,Local Dealer,No,0,0,40,2789,Expired,Not Returned,South,Kochi,3.6,Resold
+LISTING_00858,PRD00858,Smartphones,Galaxy S Series,Apple,Fair,44240,39190,Individual,Individual,OLX,No,0,1,11,5906,Active,Not Returned,East,Kolkata,2.6,Resold
+LISTING_00859,PRD00859,Smartphones,OnePlus,Samsung,Good,36170,27070,Individual,Individual,Local Dealer,No,0,1,57,6439,Expired,Not Returned,East,Guwahati,3.9,Refurbished
+LISTING_00860,PRD00860,Fashion,Backpack,Puma,Good,26840,17360,Individual,Individual,Amazon Renewed,No,0,0,35,11722,Expired,Not Returned,West,Pune,3.9,Resold
+LISTING_00861,PRD00861,Gaming,Gaming Laptop,Sony,Like New,30370,35750,Individual,Individual,Local Dealer,No,0,0,23,4139,Expired,Not Returned,North,Delhi,4.4,Resold
+LISTING_00862,PRD00862,Furniture,Study Table,Urban Ladder,Like New,12440,9530,Individual,Individual,Cashify,Yes,3190,2,49,6396,Expired,Not Returned,North,Delhi,5.0,Resold
+LISTING_00863,PRD00863,Fashion,Denim,Fossil,Good,5190,2590,Individual,Individual,OLX,No,0,0,36,9713,Expired,Not Returned,South,Kochi,4.1,Resold
+LISTING_00864,PRD00864,Furniture,Study Table,IKEA,Good,4930,4220,Individual,Individual,Local Dealer,Yes,1480,1,39,11159,Expired,Not Returned,South,Vijayawada,4.0,Resold
+LISTING_00865,PRD00865,Laptops,Pavilion,Acer,Good,93260,68430,Individual,Individual,EchoChain Marketplace,No,0,1,42,3262,Expired,Not Returned,East,Bhubaneswar,4.2,Refurbished
+LISTING_00866,PRD00866,Audio,Soundbar,JBL,Fair,2450,1080,Individual,Business,Cashify,Yes,540,1,56,791,Expired,Not Returned,West,Mumbai,3.1,Refurbished
+LISTING_00867,PRD00867,Fashion,Jacket,Nike,Good,13310,9780,Individual,Individual,Facebook Marketplace,No,0,1,35,3885,Expired,Not Returned,South,Hyderabad,4.4,Refurbished
+LISTING_00868,PRD00868,Home Appliances,Air Conditioner,LG,Good,56140,41090,Business,Individual,Amazon Renewed,No,0,3,41,6820,Expired,Not Returned,North,Lucknow,3.7,Resold
+LISTING_00869,PRD00869,Fashion,Denim,Fossil,Like New,10760,6250,Business,Individual,Cashify,No,0,4,47,7654,Expired,Not Returned,East,Kolkata,4.1,Resold
+LISTING_00870,PRD00870,Laptops,ThinkPad,Apple,Fair,98200,47390,Individual,Individual,OLX,No,0,0,33,7757,Expired,Not Returned,East,Kolkata,3.7,Refurbished
+LISTING_00871,PRD00871,Home Appliances,Vacuum Cleaner,Samsung,Like New,39630,30400,Individual,Business,OLX,No,0,1,36,9007,Expired,Not Returned,South,Kochi,3.5,Refurbished
+LISTING_00872,PRD00872,Cameras,Lens,GoPro,Fair,21590,11600,Individual,Individual,Cashify,Yes,1750,2,26,492,Expired,Not Returned,East,Guwahati,3.0,Resold
+LISTING_00873,PRD00873,Furniture,Office Chair,Godrej,Poor,9320,3470,Individual,Business,EchoChain Marketplace,Yes,2040,3,28,4847,Expired,Not Returned,North,Delhi,3.7,Resold
+LISTING_00874,PRD00874,Home Appliances,Air Conditioner,IFB,Good,8030,6850,Individual,Business,Cashify,Yes,2170,4,22,3915,Expired,Not Returned,North,Lucknow,4.6,Refurbished
+LISTING_00875,PRD00875,Cameras,Lens,Sony,Poor,14750,3570,Individual,Individual,Cashify,Yes,3200,0,54,11661,Extended,Not Returned,North,Delhi,2.6,Refurbished
+LISTING_00876,PRD00876,Fashion,Jacket,Puma,Like New,28390,18600,Business,Individual,Cashify,No,0,1,41,2418,Expired,Not Returned,West,Mumbai,3.0,Refurbished
+LISTING_00877,PRD00877,Smartphones,iPhone,Sony,Like New,47960,47930,Individual,Business,Amazon Renewed,No,0,0,23,7858,Expired,Not Returned,South,Hyderabad,5.0,Resold
+LISTING_00878,PRD00878,Smartphones,Galaxy S Series,Apple,Fair,69160,43450,Business,Individual,Amazon Renewed,No,0,2,15,7189,Expired,Not Returned,North,Chandigarh,2.9,Recycled
+LISTING_00879,PRD00879,Home Appliances,Vacuum Cleaner,LG,Fair,24830,15110,Individual,Individual,EchoChain Marketplace,Yes,2250,2,17,8155,Expired,Not Returned,East,Guwahati,3.7,Recycled
+LISTING_00880,PRD00880,Cameras,Lens,GoPro,Good,73800,83210,Business,Individual,Local Dealer,No,0,1,20,4270,Expired,Not Returned,North,Jaipur,3.6,Resold
+LISTING_00881,PRD00881,Fashion,Denim,Levi's,Fair,15350,12800,Individual,Individual,Local Dealer,No,0,1,21,11538,Expired,Not Returned,East,Ranchi,3.6,Resold
+LISTING_00882,PRD00882,Laptops,Inspiron,HP,Good,78770,45180,Business,Individual,Local Dealer,No,0,0,16,1833,Expired,Not Returned,East,Ranchi,3.5,Refurbished
+LISTING_00883,PRD00883,Smartphones,iPhone,Apple,Good,10020,5830,Individual,Individual,Local Dealer,No,0,3,39,6210,Expired,Not Returned,North,Noida,4.9,Resold
+LISTING_00884,PRD00884,Cameras,Lens,Nikon,Poor,16370,6450,Individual,Individual,Facebook Marketplace,Yes,3390,1,21,6409,Expired,Not Returned,North,Chandigarh,3.3,Refurbished
+LISTING_00885,PRD00885,Smartphones,Pixel,Apple,Fair,73640,21750,Individual,Individual,Cashify,No,0,0,42,3783,Expired,Not Returned,East,Kolkata,2.7,Recycled
+LISTING_00886,PRD00886,Fashion,Denim,Puma,Good,10170,9830,Individual,Individual,Local Dealer,No,0,0,6,4209,Active,Not Returned,West,Nagpur,4.0,Recycled
+LISTING_00887,PRD00887,Laptops,Pavilion,HP,Fair,33940,13120,Individual,Individual,Amazon Renewed,Yes,5940,1,59,9045,Expired,Not Returned,North,Delhi,3.1,Refurbished
+LISTING_00888,PRD00888,Fashion,Watch,Fossil,Fair,10570,5310,Individual,Individual,Amazon Renewed,No,0,0,30,1648,Expired,Not Returned,West,Mumbai,3.8,Resold
+LISTING_00889,PRD00889,Laptops,Inspiron,HP,Fair,134420,44400,Individual,Individual,EchoChain Marketplace,Yes,12150,0,43,8679,Expired,Not Returned,East,Ranchi,3.4,Resold
+LISTING_00890,PRD00890,Audio,Smart Speaker,Sennheiser,Good,35730,22060,Individual,Individual,Local Dealer,No,0,1,10,2465,Active,Not Returned,West,Nagpur,4.5,Refurbished
+LISTING_00891,PRD00891,Furniture,Sofa,Urban Ladder,Fair,59780,30400,Individual,Individual,Cashify,Yes,11960,1,6,588,Active,Not Returned,West,Ahmedabad,4.3,Resold
+LISTING_00892,PRD00892,Audio,Soundbar,Bose,Like New,29160,15740,Individual,Individual,Local Dealer,No,0,0,50,4369,Extended,Not Returned,West,Ahmedabad,5.0,Resold
+LISTING_00893,PRD00893,Furniture,Bookshelf,Pepperfry,Fair,62170,21320,Individual,Individual,Facebook Marketplace,No,0,1,56,8296,Expired,Not Returned,West,Ahmedabad,3.1,Recycled
+LISTING_00894,PRD00894,Furniture,Office Chair,Pepperfry,Fair,31130,16160,Business,Individual,Facebook Marketplace,Yes,2850,3,41,11844,Expired,Not Returned,East,Guwahati,3.6,Refurbished
+LISTING_00895,PRD00895,Laptops,IdeaPad,HP,Like New,24270,31150,Individual,Individual,Cashify,Yes,8140,2,16,9088,Expired,Not Returned,East,Ranchi,3.8,Recycled
+LISTING_00896,PRD00896,Cameras,Mirrorless Camera,GoPro,Like New,73550,54420,Individual,Individual,Amazon Renewed,No,0,2,45,5690,Extended,Returned,North,Noida,4.6,Resold
+LISTING_00897,PRD00897,Cameras,Action Camera,GoPro,Like New,38320,38840,Individual,Individual,OLX,No,0,0,13,3925,Extended,Not Returned,West,Ahmedabad,3.5,Landfill
+LISTING_00898,PRD00898,Home Appliances,Refrigerator,Daikin,Good,21850,10740,Individual,Individual,EchoChain Marketplace,No,0,2,32,9828,Expired,Not Returned,North,Lucknow,5.0,Refurbished
+LISTING_00899,PRD00899,Audio,Headphones,Sennheiser,Good,35050,18850,Individual,Individual,Local Dealer,No,0,1,23,738,Expired,Not Returned,North,Noida,3.4,Refurbished
+LISTING_00900,PRD00900,Home Appliances,Vacuum Cleaner,Whirlpool,Poor,28740,10760,Individual,Individual,Facebook Marketplace,Yes,7710,2,34,10415,Expired,Not Returned,South,Chennai,3.8,Resold
+LISTING_00901,PRD00901,Audio,Soundbar,Sony,Fair,4760,2730,Individual,Individual,Facebook Marketplace,Yes,750,2,5,6759,Active,Not Returned,North,Lucknow,2.7,Resold
+LISTING_00902,PRD00902,Smartphones,Galaxy S Series,Apple,Good,28220,16020,Individual,Individual,Facebook Marketplace,Yes,2840,0,41,5859,Expired,Not Returned,West,Surat,4.0,Refurbished
+LISTING_00903,PRD00903,Laptops,Pavilion,Apple,Fair,141500,54890,Individual,Individual,EchoChain Marketplace,No,0,0,25,6575,Expired,Not Returned,South,Vijayawada,3.7,Recycled
+LISTING_00904,PRD00904,Cameras,Action Camera,Sony,Fair,45870,17040,Individual,Individual,OLX,Yes,7020,0,20,4289,Expired,Not Returned,North,Lucknow,4.2,Resold
+LISTING_00905,PRD00905,Fashion,Jacket,Puma,Fair,13450,9080,Individual,Individual,Local Dealer,No,0,1,20,7008,Expired,Not Returned,East,Ranchi,4.0,Refurbished
+LISTING_00906,PRD00906,Audio,Smart Speaker,Sony,Fair,1820,1050,Individual,Business,Amazon Renewed,No,0,1,21,6566,Expired,Not Returned,North,Noida,4.0,Resold
+LISTING_00907,PRD00907,Audio,Headphones,Boat,Like New,14950,14050,Individual,Individual,Amazon Renewed,No,0,2,12,11439,Active,Not Returned,South,Chennai,3.7,Refurbished
+LISTING_00908,PRD00908,Smartphones,Pixel,Samsung,Like New,60240,50730,Individual,Individual,Amazon Renewed,Yes,9710,1,28,1706,Extended,Not Returned,West,Mumbai,3.9,Recycled
+LISTING_00909,PRD00909,Fashion,Sneakers,Fossil,Fair,15290,7980,Individual,Individual,EchoChain Marketplace,No,0,0,30,51,Expired,Not Returned,South,Chennai,3.8,Resold
+LISTING_00910,PRD00910,Audio,Soundbar,Boat,Good,11870,7950,Individual,Individual,Facebook Marketplace,Yes,2860,1,55,3739,Expired,Returned,West,Nagpur,2.7,Resold
+LISTING_00911,PRD00911,Gaming,Monitor,Sony,Poor,79270,22600,Individual,Individual,Local Dealer,Yes,14170,3,45,3537,Expired,Not Returned,East,Patna,3.1,Recycled
+LISTING_00912,PRD00912,Smartphones,Xperia,OnePlus,Good,58810,59220,Individual,Business,Facebook Marketplace,No,0,0,4,7566,Active,Not Returned,East,Kolkata,4.2,Recycled
+LISTING_00913,PRD00913,Fashion,Backpack,Levi's,Fair,33180,13830,Business,Individual,EchoChain Marketplace,No,0,1,37,11544,Expired,Returned,East,Patna,3.5,Refurbished
+LISTING_00914,PRD00914,Home Appliances,Washing Machine,Samsung,Good,66080,43350,Individual,Individual,Local Dealer,No,0,1,32,1774,Expired,Not Returned,West,Pune,4.0,Resold
+LISTING_00915,PRD00915,Fashion,Denim,Nike,Good,24100,13910,Individual,Individual,Amazon Renewed,Yes,1260,0,32,1076,Expired,Not Returned,North,Jaipur,3.1,Refurbished
+LISTING_00916,PRD00916,Cameras,DSLR,Sony,Good,75730,43750,Business,Individual,Local Dealer,No,0,1,26,2042,Extended,Not Returned,East,Ranchi,3.2,Resold
+LISTING_00917,PRD00917,Smartphones,Xperia,OnePlus,Good,34300,20060,Individual,Individual,Local Dealer,No,0,3,57,9101,Expired,Not Returned,East,Kolkata,3.5,Resold
+LISTING_00918,PRD00918,Gaming,VR Headset,Meta,Good,66250,65120,Individual,Individual,Amazon Renewed,Yes,6710,1,35,10215,Expired,Not Returned,South,Vijayawada,3.5,Recycled
+LISTING_00919,PRD00919,Smartphones,Galaxy S Series,OnePlus,Like New,76880,78960,Individual,Individual,EchoChain Marketplace,Yes,5580,1,8,3171,Active,Not Returned,East,Ranchi,4.2,Refurbished
+LISTING_00920,PRD00920,Audio,Soundbar,JBL,Like New,2790,1450,Individual,Individual,Local Dealer,Yes,330,5,41,6903,Expired,Not Returned,North,Chandigarh,3.6,Resold
+LISTING_00921,PRD00921,Laptops,MacBook Air,HP,Fair,31880,10960,Business,Individual,Facebook Marketplace,No,0,0,31,2197,Expired,Not Returned,West,Surat,3.6,Resold
+LISTING_00922,PRD00922,Furniture,Dining Set,IKEA,Good,9610,4580,Individual,Individual,EchoChain Marketplace,No,0,0,20,1663,Extended,Not Returned,North,Jaipur,5.0,Refurbished
+LISTING_00923,PRD00923,Fashion,Jacket,Puma,Good,30050,18940,Business,Individual,Cashify,No,0,2,13,5780,Extended,Not Returned,West,Nagpur,4.1,Resold
+LISTING_00924,PRD00924,Laptops,Inspiron,HP,Like New,73490,79450,Individual,Individual,Cashify,Yes,15620,2,25,8203,Expired,Returned,West,Pune,4.3,Refurbished
+LISTING_00925,PRD00925,Furniture,Dining Set,Urban Ladder,Good,39340,41790,Business,Individual,Cashify,No,0,0,20,9377,Expired,Not Returned,South,Hyderabad,4.3,Resold
+LISTING_00926,PRD00926,Smartphones,OnePlus,OnePlus,Good,67970,34070,Individual,Business,Local Dealer,No,0,1,57,6176,Expired,Returned,South,Bengaluru,4.1,Resold
+LISTING_00927,PRD00927,Cameras,Camcorder,Panasonic,Good,117240,67060,Individual,Individual,OLX,No,0,2,22,9828,Expired,Not Returned,East,Guwahati,4.4,Resold
+LISTING_00928,PRD00928,Furniture,Dining Set,IKEA,Good,8130,4420,Individual,Individual,Facebook Marketplace,No,0,2,51,171,Expired,Not Returned,North,Noida,3.0,Recycled
+LISTING_00929,PRD00929,Cameras,Action Camera,Nikon,Good,117300,92830,Individual,Individual,Cashify,No,0,1,9,9157,Active,Not Returned,East,Ranchi,3.2,Resold
+LISTING_00930,PRD00930,Home Appliances,Vacuum Cleaner,IFB,Poor,42300,14580,Individual,Individual,EchoChain Marketplace,Yes,12930,0,34,4901,Expired,Not Returned,West,Mumbai,3.2,Resold
+LISTING_00931,PRD00931,Laptops,MacBook Air,Lenovo,Good,40840,34670,Individual,Individual,Facebook Marketplace,No,0,3,5,8555,Active,Not Returned,South,Chennai,4.9,Refurbished
+LISTING_00932,PRD00932,Cameras,Camcorder,Panasonic,Good,125540,55480,Business,Individual,Facebook Marketplace,No,0,0,54,257,Expired,Not Returned,West,Pune,3.5,Resold
+LISTING_00933,PRD00933,Audio,Smart Speaker,Sennheiser,Poor,36070,8670,Individual,Business,OLX,No,0,0,40,2039,Expired,Not Returned,South,Chennai,3.9,Recycled
+LISTING_00934,PRD00934,Laptops,MacBook Air,Acer,Poor,49310,15940,Individual,Individual,EchoChain Marketplace,Yes,7580,0,7,8651,Active,Not Returned,South,Bengaluru,3.9,Resold
+LISTING_00935,PRD00935,Furniture,Study Table,IKEA,Good,6560,4490,Individual,Individual,EchoChain Marketplace,No,0,1,60,11744,Expired,Not Returned,North,Chandigarh,4.9,Resold
+LISTING_00936,PRD00936,Smartphones,Pixel,Samsung,Fair,47860,32420,Individual,Individual,Cashify,Yes,13130,1,3,1451,Active,Not Returned,South,Kochi,4.8,Resold
+LISTING_00937,PRD00937,Cameras,Action Camera,Panasonic,Good,74110,54620,Individual,Individual,OLX,No,0,0,9,7498,Active,Not Returned,South,Bengaluru,3.8,Recycled
+LISTING_00938,PRD00938,Furniture,Bookshelf,Wakefit,Good,6650,5950,Individual,Individual,OLX,No,0,1,10,7427,Active,Not Returned,West,Nagpur,4.0,Refurbished
+LISTING_00939,PRD00939,Laptops,MacBook Air,Apple,Poor,37170,12490,Business,Business,EchoChain Marketplace,No,0,2,27,272,Extended,Not Returned,West,Mumbai,2.8,Resold
+LISTING_00940,PRD00940,Fashion,Jacket,Adidas,Like New,7430,6790,Business,Individual,Facebook Marketplace,Yes,1020,1,31,3678,Extended,Not Returned,South,Bengaluru,3.5,Recycled
+LISTING_00941,PRD00941,Laptops,ThinkPad,Lenovo,Good,101670,83210,Individual,Individual,OLX,Yes,21490,0,20,9479,Expired,Not Returned,East,Ranchi,4.6,Recycled
+LISTING_00942,PRD00942,Home Appliances,Microwave,LG,Fair,58470,21180,Business,Individual,Amazon Renewed,No,0,1,60,6929,Expired,Not Returned,South,Bengaluru,4.7,Resold
+LISTING_00943,PRD00943,Fashion,Backpack,Adidas,Good,17100,14340,Business,Individual,OLX,Yes,3290,1,47,202,Expired,Not Returned,East,Bhubaneswar,4.0,Refurbished
+LISTING_00944,PRD00944,Gaming,Gaming Console,Microsoft,Good,46100,34420,Individual,Individual,Local Dealer,No,0,1,31,9658,Expired,Not Returned,East,Bhubaneswar,4.6,Resold
+LISTING_00945,PRD00945,Smartphones,Pixel,Samsung,Good,72000,59370,Individual,Individual,EchoChain Marketplace,No,0,3,29,7126,Extended,Not Returned,North,Lucknow,3.9,Refurbished
+LISTING_00946,PRD00946,Cameras,Camcorder,Nikon,Good,138610,95470,Individual,Individual,EchoChain Marketplace,Yes,25700,0,8,5552,Active,Not Returned,North,Lucknow,4.5,Resold
+LISTING_00947,PRD00947,Furniture,Office Chair,IKEA,Good,15480,8800,Individual,Individual,EchoChain Marketplace,Yes,1110,1,20,7828,Expired,Not Returned,East,Guwahati,4.4,Refurbished
+LISTING_00948,PRD00948,Laptops,MacBook Air,Dell,Good,132120,81080,Individual,Individual,OLX,No,0,0,12,6057,Active,Not Returned,North,Jaipur,4.1,Refurbished
+LISTING_00949,PRD00949,Audio,Smart Speaker,Bose,Like New,26980,24950,Individual,Individual,Amazon Renewed,No,0,4,6,7450,Active,Not Returned,South,Vijayawada,3.7,Refurbished
+LISTING_00950,PRD00950,Smartphones,Galaxy S Series,Sony,Fair,100370,39140,Individual,Individual,EchoChain Marketplace,No,0,3,36,11627,Expired,Returned,East,Bhubaneswar,3.5,Resold
+LISTING_00951,PRD00951,Home Appliances,Microwave,Samsung,Good,32350,26940,Individual,Business,EchoChain Marketplace,Yes,3590,0,13,6041,Expired,Not Returned,North,Delhi,4.4,Refurbished
+LISTING_00952,PRD00952,Fashion,Sneakers,Nike,Good,31300,14900,Business,Individual,Facebook Marketplace,Yes,4970,0,28,3319,Expired,Not Returned,East,Bhubaneswar,3.7,Recycled
+LISTING_00953,PRD00953,Furniture,Study Table,Urban Ladder,Good,65110,46650,Individual,Individual,EchoChain Marketplace,Yes,8770,1,15,6026,Expired,Not Returned,South,Vijayawada,5.0,Resold
+LISTING_00954,PRD00954,Gaming,Controller,Meta,Fair,38570,22360,Individual,Individual,Local Dealer,No,0,1,60,9546,Expired,Not Returned,North,Delhi,2.7,Recycled
+LISTING_00955,PRD00955,Laptops,Inspiron,Apple,Good,105660,54800,Individual,Business,Amazon Renewed,No,0,1,13,9372,Expired,Not Returned,South,Kochi,4.7,Resold
+LISTING_00956,PRD00956,Home Appliances,Refrigerator,Daikin,Good,67240,58940,Individual,Individual,Cashify,No,0,1,14,587,Extended,Not Returned,North,Jaipur,3.4,Resold
+LISTING_00957,PRD00957,Furniture,Bookshelf,Urban Ladder,Good,17350,14600,Individual,Business,Amazon Renewed,No,0,0,9,3399,Active,Not Returned,West,Nagpur,4.4,Recycled
+LISTING_00958,PRD00958,Laptops,ThinkPad,HP,Fair,42190,16760,Individual,Individual,EchoChain Marketplace,No,0,2,22,6662,Extended,Not Returned,East,Kolkata,3.6,Resold
+LISTING_00959,PRD00959,Laptops,ThinkPad,HP,Good,95320,51520,Business,Business,Local Dealer,No,0,2,41,1167,Expired,Not Returned,West,Ahmedabad,4.0,Recycled
+LISTING_00960,PRD00960,Furniture,Office Chair,Wakefit,Good,18530,10230,Business,Individual,Cashify,No,0,1,16,8800,Expired,Returned,North,Chandigarh,4.3,Resold
+LISTING_00961,PRD00961,Cameras,Mirrorless Camera,Canon,Good,84690,43900,Individual,Individual,OLX,No,0,0,54,3308,Expired,Not Returned,West,Nagpur,4.3,Refurbished
+LISTING_00962,PRD00962,Fashion,Backpack,Puma,Good,24900,10030,Individual,Individual,EchoChain Marketplace,Yes,2150,0,60,10123,Expired,Not Returned,East,Kolkata,4.4,Refurbished
+LISTING_00963,PRD00963,Smartphones,Pixel,Google,Fair,47260,34980,Business,Individual,Amazon Renewed,No,0,1,12,114,Active,Not Returned,West,Ahmedabad,3.9,Resold
+LISTING_00964,PRD00964,Cameras,Action Camera,Panasonic,Good,84020,47050,Business,Individual,Amazon Renewed,Yes,20830,0,59,2087,Expired,Not Returned,North,Lucknow,3.6,Refurbished
+LISTING_00965,PRD00965,Smartphones,iPhone,Samsung,Poor,19200,5940,Individual,Individual,Amazon Renewed,No,0,4,30,985,Expired,Not Returned,North,Chandigarh,4.3,Resold
+LISTING_00966,PRD00966,Gaming,VR Headset,ASUS,Good,5350,3170,Business,Individual,Cashify,No,0,0,55,10267,Expired,Not Returned,East,Ranchi,3.9,Resold
+LISTING_00967,PRD00967,Smartphones,iPhone,Apple,Good,57620,54430,Individual,Individual,Cashify,No,0,4,10,2357,Active,Not Returned,North,Chandigarh,3.5,Recycled
+LISTING_00968,PRD00968,Gaming,Monitor,Sony,Good,80860,41730,Individual,Individual,OLX,No,0,0,40,2801,Expired,Not Returned,East,Patna,4.5,Refurbished
+LISTING_00969,PRD00969,Gaming,Gaming Laptop,Sony,Fair,30040,15200,Business,Individual,OLX,No,0,2,5,7106,Active,Not Returned,North,Jaipur,3.2,Resold
+LISTING_00970,PRD00970,Audio,Headphones,JBL,Fair,20010,9270,Individual,Individual,Amazon Renewed,Yes,3110,1,6,105,Active,Not Returned,South,Hyderabad,3.5,Resold
+LISTING_00971,PRD00971,Home Appliances,Air Conditioner,Whirlpool,Good,46530,34820,Individual,Business,Local Dealer,No,0,0,20,8642,Expired,Not Returned,South,Hyderabad,4.3,Resold
+LISTING_00972,PRD00972,Smartphones,Galaxy S Series,Samsung,Good,51550,43030,Individual,Business,Cashify,No,0,0,4,3442,Active,Not Returned,East,Ranchi,3.6,Refurbished
+LISTING_00973,PRD00973,Furniture,Sofa,Wakefit,Good,42870,43290,Business,Business,EchoChain Marketplace,Yes,7480,4,14,3041,Expired,Not Returned,West,Pune,4.4,Resold
+LISTING_00974,PRD00974,Smartphones,Xperia,OnePlus,Poor,7480,1750,Business,Individual,EchoChain Marketplace,No,0,1,43,910,Expired,Not Returned,West,Surat,4.5,Resold
+LISTING_00975,PRD00975,Audio,Smart Speaker,JBL,Fair,31010,8580,Business,Business,Amazon Renewed,No,0,0,56,1368,Expired,Not Returned,South,Kochi,4.4,Refurbished
+LISTING_00976,PRD00976,Fashion,Watch,Fossil,Good,4360,2830,Individual,Individual,Cashify,No,0,1,31,7361,Expired,Not Returned,West,Mumbai,4.5,Resold
+LISTING_00977,PRD00977,Audio,Headphones,Sennheiser,Fair,4460,2600,Business,Individual,Cashify,No,0,0,24,1154,Expired,Not Returned,West,Surat,3.9,Refurbished
+LISTING_00978,PRD00978,Fashion,Backpack,Nike,Like New,18520,16820,Business,Individual,Cashify,Yes,1810,1,39,3038,Expired,Not Returned,South,Bengaluru,4.7,Resold
+LISTING_00979,PRD00979,Smartphones,iPhone,Apple,Good,53870,31570,Individual,Individual,EchoChain Marketplace,Yes,11460,0,19,10028,Expired,Not Returned,South,Chennai,4.3,Resold
+LISTING_00980,PRD00980,Home Appliances,Microwave,LG,Good,28180,22180,Individual,Individual,Facebook Marketplace,Yes,7460,1,53,3119,Expired,Returned,East,Guwahati,4.2,Resold
+LISTING_00981,PRD00981,Laptops,ThinkPad,HP,Good,38090,30690,Individual,Business,EchoChain Marketplace,No,0,1,29,9799,Expired,Not Returned,West,Ahmedabad,4.8,Resold
+LISTING_00982,PRD00982,Laptops,Pavilion,Apple,Poor,38010,8680,Individual,Individual,OLX,No,0,0,15,2899,Extended,Not Returned,East,Kolkata,3.3,Resold
+LISTING_00983,PRD00983,Gaming,VR Headset,Meta,Like New,120240,82380,Business,Individual,EchoChain Marketplace,Yes,14050,0,39,4465,Expired,Not Returned,East,Kolkata,2.9,Refurbished
+LISTING_00984,PRD00984,Audio,Bluetooth Speaker,Sony,Like New,20260,15710,Individual,Individual,EchoChain Marketplace,No,0,2,60,6513,Expired,Not Returned,South,Bengaluru,4.7,Resold
+LISTING_00985,PRD00985,Smartphones,iPhone,Apple,Fair,29480,10610,Individual,Individual,Cashify,Yes,1530,1,42,9324,Expired,Returned,East,Guwahati,3.9,Resold
+LISTING_00986,PRD00986,Laptops,ThinkPad,Dell,Good,42880,24270,Individual,Business,Local Dealer,No,0,0,50,4449,Expired,Not Returned,South,Vijayawada,4.3,Resold
+LISTING_00987,PRD00987,Laptops,MacBook Air,Acer,Fair,132950,41270,Individual,Individual,OLX,No,0,0,52,3205,Expired,Not Returned,West,Ahmedabad,2.4,Resold
+LISTING_00988,PRD00988,Smartphones,OnePlus,Sony,Like New,77200,45030,Individual,Individual,EchoChain Marketplace,Yes,5090,1,54,6317,Expired,Not Returned,West,Ahmedabad,4.1,Refurbished
+LISTING_00989,PRD00989,Smartphones,Galaxy S Series,Google,Good,77680,41360,Individual,Individual,Local Dealer,Yes,3470,2,20,6221,Expired,Not Returned,South,Kochi,4.8,Resold
+LISTING_00990,PRD00990,Audio,Smart Speaker,JBL,Fair,7370,3920,Individual,Business,Cashify,No,0,2,38,10325,Extended,Not Returned,North,Delhi,3.4,Refurbished
+LISTING_00991,PRD00991,Home Appliances,Microwave,LG,Like New,42320,68820,Individual,Individual,Facebook Marketplace,No,0,2,3,3996,Active,Not Returned,North,Delhi,4.9,Refurbished
+LISTING_00992,PRD00992,Fashion,Sneakers,Levi's,Poor,24600,8660,Individual,Individual,EchoChain Marketplace,Yes,3610,0,12,8541,Active,Not Returned,South,Hyderabad,2.9,Resold
+LISTING_00993,PRD00993,Audio,Headphones,Bose,Fair,22990,13260,Business,Business,Amazon Renewed,No,0,1,6,4271,Active,Not Returned,East,Guwahati,3.7,Resold
+LISTING_00994,PRD00994,Audio,Soundbar,JBL,Fair,4410,2410,Individual,Individual,OLX,Yes,1510,2,50,221,Expired,Not Returned,East,Guwahati,3.4,Resold
+LISTING_00995,PRD00995,Smartphones,OnePlus,Google,Good,16770,9900,Individual,Individual,EchoChain Marketplace,No,0,0,43,5612,Expired,Not Returned,West,Surat,4.4,Resold
+LISTING_00996,PRD00996,Laptops,Pavilion,Acer,Good,121910,88470,Individual,Individual,Facebook Marketplace,Yes,23110,1,12,5536,Active,Not Returned,South,Chennai,3.6,Recycled
+LISTING_00997,PRD00997,Audio,Wireless Earbuds,Boat,Good,1990,1850,Individual,Business,Cashify,No,0,3,22,7834,Expired,Not Returned,South,Hyderabad,4.8,Refurbished
+LISTING_00998,PRD00998,Audio,Bluetooth Speaker,JBL,Poor,13100,3710,Business,Individual,EchoChain Marketplace,Yes,2470,1,3,6539,Active,Not Returned,East,Kolkata,3.5,Refurbished
+LISTING_00999,PRD00999,Audio,Headphones,Sony,Fair,20830,10540,Individual,Individual,OLX,No,0,0,40,8300,Expired,Not Returned,West,Ahmedabad,3.0,Resold
+LISTING_01000,PRD01000,Home Appliances,Microwave,Whirlpool,Like New,46690,34140,Individual,Individual,Amazon Renewed,No,0,4,13,1034,Expired,Not Returned,West,Pune,5.0,Recycled
