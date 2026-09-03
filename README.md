@@ -1,557 +1,851 @@
 # EchoChain: Circular Economy & Secondary Market Lifecycle Analytics
 
-> **Turning post-sale product data into actionable insights for sustainable manufacturing, circular economy, and secondary-market decision-making.**
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scrapy](https://img.shields.io/badge/Scrapy-Web%20Scraping-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-purple)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Tests](https://img.shields.io/badge/Tests-15%20Passed-brightgreen)
 
-![Project](https://img.shields.io/badge/Project-EchoChain-0A66C2?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-Circular%20Economy-2E8B57?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-FF3621?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-Lifecycle%20Analytics-6A5ACD?style=for-the-badge)
+## Project Overview
 
----
+**EchoChain** is a circular economy and secondary-market analytics project designed to provide visibility into a product's lifecycle after its initial sale.
 
-## 📌 Project Overview
+Traditional product lifecycle tracking focuses mainly on manufacturing and the first point of sale. Once a product enters the secondary market, information about resale, refurbishment, repair, recycling, and final disposition can become difficult to track.
 
-**EchoChain** is a data analytics solution designed to bridge the information gap between **manufacturing operations and the secondary market**.
+EchoChain addresses this data visibility gap by combining lifecycle transaction data with secondary-market information to support:
 
-Manufacturers typically track products rigorously during production and until the point of sale. However, once a product enters the post-sale lifecycle, important information such as **resale value, product condition, repair history, component failures, and potential for refurbishment** can become difficult to track.
-
-EchoChain addresses this challenge by combining:
-
-* Secondary-market data collected through web scraping
-* Internal manufacturing and **Bill of Materials (BOM)** data
-* Distributed data processing
-* Product/SKU matching
-* Lifecycle and sustainability metrics
-* Interactive **Microsoft Power BI** dashboards
-
-The goal is to help sustainability and business teams understand **what happens to products after their initial sale** and identify opportunities for **refurbishment, buy-back programs, component recovery, and circular-economy initiatives**.
+* Product resale analysis
+* Secondary-market pricing analysis
+* Refurbishment analysis
+* Recycling and waste-diversion analysis
+* Circularity measurement
+* Product lifecycle analytics
+* Executive-level sustainability insights
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
-Manufacturers often have detailed visibility into products during manufacturing but limited visibility after the point of sale.
-
-This creates a **post-sale data blind spot**, making it difficult to:
-
-* Measure the complete environmental impact of products
-* Track products through secondary markets
-* Identify components with frequent failure rates
-* Estimate resale and recovery value
-* Identify refurbishment opportunities
-* Improve product design using lifecycle insights
-* Support profitable circular-economy strategies
-
-**EchoChain transforms this fragmented information into a unified lifecycle analytics framework.**
-
----
-
-## 💡 Use Case
-
-A **Sustainability Executive** opens the EchoChain dashboard to evaluate the lifecycle of a specific laptop model.
-
-The dashboard combines:
-
-**Internal BOM Data + Secondary-Market Listings + Product Condition + Failure Information + Resale Value**
-
-For example, the analysis may reveal that:
-
-> A particular laptop model has a high **Circularity Score** because its motherboard frequently fails under warranty, while the remaining components maintain strong resale value on secondary-market platforms.
-
-This insight can support a strategic **buy-back, refurbishment, component recovery, or resale program** rather than sending the complete product to landfill.
-
----
-
-## 🏗️ Solution Architecture
+Manufacturers often have detailed information about a product until it is sold to the first customer. After that point, the product may pass through several ownership and lifecycle stages:
 
 ```text
-                    ┌──────────────────────────┐
-                    │ Secondary Market Sources │
-                    │     eBay / Listings      │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │   Web Scraping Layer     │
-                    │ Python Scrapers / Data   │
-                    │      Extraction          │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-┌──────────────────┐   ┌──────────────────────────┐
-│ Internal BOM Data│──▶│   Data Lakehouse         │
-│ Manufacturing   │   │ Databricks + Delta Lake │
-└──────────────────┘   └────────────┬─────────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │   PySpark Processing │
-                         │ Cleaning & Matching  │
-                         │ Aggregation & Metrics│
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │ Lifecycle Analytics  │
-                         │ Circularity Metrics  │
-                         │ Resale & Recovery    │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │    Power BI          │
-                         │ Executive Dashboard  │
-                         │ Drill-down Analytics │
-                         └──────────────────────┘
+Manufacturer
+     |
+     v
+  Customer
+     |
+     v
+ Secondary Market
+     |
+     +----> Resale
+     |
+     +----> Refurbishment
+     |
+     +----> Repair
+     |
+     +----> Recycling
+     |
+     v
+Final Disposition
+```
+
+Without reliable post-sale data, organizations have limited visibility into:
+
+* How products are resold
+* How product value changes over time
+* Which products are suitable for refurbishment
+* How much material is recovered
+* How much waste is diverted from landfill
+* The environmental impact of extended product lifecycles
+
+---
+
+## Objectives
+
+The major objectives of EchoChain are to:
+
+1. Clean and validate product lifecycle data.
+2. Collect and demonstrate secondary-market listing data.
+3. Integrate marketplace information with lifecycle records.
+4. Analyze resale prices and market-value differences.
+5. Identify pricing opportunities in the secondary market.
+6. Analyze product condition, refurbishment, recycling, and final disposition.
+7. Provide analytical datasets for downstream SQL and BI analysis.
+8. Establish automated data-quality checks through Python tests.
+
+---
+
+## Solution Architecture
+
+The project is organized as a data-processing pipeline:
+
+```text
+                    SOURCE DATA
+                        |
+                        v
+              EchoChain_Data.csv
+                        |
+                        v
+              Data Cleaning Layer
+                        |
+                        v
+          EchoChain_Data_Cleaned.csv
+                        |
+                        v
+        Secondary Market Preparation
+                        |
+                        v
+       secondary_market_listings.csv
+                        |
+                        v
+           Marketplace Integration
+                        |
+                        v
+        marketplace_integrated.csv
+                        |
+                        v
+          Marketplace Analytics
+                        |
+                        v
+        marketplace_analytics.csv
+                        |
+              +---------+---------+
+              |                   |
+              v                   v
+       Analytical SQL       Analysis Reports
+              |                   |
+              +---------+---------+
+                        |
+                        v
+             Downstream BI Layer
+              Power BI / Reporting
+```
+
+### Scraping Demonstration Pipeline
+
+A separate Scrapy workflow demonstrates marketplace data collection and transformation:
+
+```text
+Scrapy Spider
+     |
+     v
+scraped_marketplace.csv
+     |
+     v
+Data Cleaning
+     |
+     v
+marketplace_cleaned.csv
+     |
+     v
+Transformation
+     |
+     v
+marketplace_transformed.csv
+```
+
+The scraping demonstration and the main marketplace analytics pipeline are maintained as separate processing paths.
+
+---
+
+# Key Features
+
+## 1. Data Cleaning
+
+The main lifecycle dataset contains **10,000 records and 33 columns**.
+
+The cleaning process:
+
+* Removes duplicate records
+* Standardizes column names and text values
+* Converts date fields
+* Converts numerical fields to appropriate types
+* Standardizes Yes/No fields
+* Validates transaction and product IDs
+* Validates purchase and resale dates
+* Validates recycling information
+* Validates refurbishment information
+* Validates customer ratings
+* Validates circularity scores
+* Detects invalid negative values
+* Generates a cleaned dataset
+
+Output:
+
+```text
+data/cleaned/EchoChain_Data_Cleaned.csv
 ```
 
 ---
 
-## 🔑 Key Modules
+## 2. Data Validation
 
-### 1. Web Scraping Infrastructure
+The project includes automated validation scripts covering:
 
-Python-based spiders are used to collect secondary-market information such as:
+* Schema validation
+* Row and column counts
+* Duplicate detection
+* ID validation
+* Date validation
+* Recycling logic
+* Refurbishment logic
+* Rating validation
+* Circularity score validation
+* Negative-value detection
+* Categorical-value validation
+* Missing-value reporting
 
-* Product/model name
+The validation process confirms that the cleaned lifecycle dataset satisfies the defined quality rules.
+
+---
+
+## 3. Secondary-Market Data
+
+The project creates a structured secondary-market dataset from the lifecycle data.
+
+The marketplace dataset contains **1,000 listings** and includes information such as:
+
+* Listing ID
+* Product ID
+* Product category
+* Product name
+* Brand
+* Condition
+* Market value
 * Listing price
-* Product condition
-* Seller information
-* Component information
-* Listing availability
-* Other relevant marketplace attributes
-
-The scraped data provides visibility into the **post-sale lifecycle** of products.
-
----
-
-### 2. Data Lakehouse
-
-**Databricks and Delta Lake** provide the unified storage and processing foundation.
-
-The lakehouse is designed to handle both:
-
-* **Structured internal data** such as manufacturing records and BOMs
-* **Semi-structured/unstructured scraped marketplace data**
-
-Delta Lake helps maintain reliable, scalable datasets for downstream analytics.
-
----
-
-### 3. Big Data Processing
-
-**Apache PySpark** is used to process and transform large datasets.
-
-Key processing activities include:
-
-* Data cleaning
-* Missing-value handling
-* Standardization
-* Product/SKU normalization
-* Fuzzy matching
-* Joining marketplace listings with internal BOM records
-* Aggregating product-level metrics
-* Generating lifecycle indicators
-
----
-
-### 4. Circularity Analytics
-
-EchoChain generates analytical indicators that help evaluate the circular potential of products.
-
-Potential metrics include:
-
-* **Circularity Score**
-* Resale Value
-* Recovery Value
-* Component Failure Rate
-* Refurbishment Potential
-* Product Reuse Potential
-* Secondary-Market Demand
-* Component Recovery Opportunity
-* Estimated Landfill Diversion
-
-These metrics help convert raw lifecycle data into actionable business insights.
-
----
-
-### 5. Power BI Dashboard
-
-Microsoft Power BI acts as the executive analytics layer.
-
-The dashboard can provide:
-
-* Product-level lifecycle analysis
-* Secondary-market price trends
-* Product condition distribution
-* Component failure analysis
-* Circularity scoring
-* Resale opportunities
-* Refurbishment opportunities
-* Recovery-value analysis
-* SKU-level drill-downs
-* Executive KPIs
-
----
-
-## 📊 Dashboard Overview
-
-## 01. Executive Overview
-
-![Executive Overview](Power%20BI%20Dashboard/executive-overview.png)
-
----
-
-## 02. Product & Resale Analytics
-
-![Product-Resale-Analytics](Power%20BI%20Dashboard/product-resale-analytics.png)
-
----
-
-## 📊 Key Business Questions
-
-EchoChain is designed to answer questions such as:
-
-1. Which products have the highest circularity potential?
-2. Which components fail most frequently?
-3. Which products retain the highest resale value?
-4. Which products should be targeted for refurbishment?
-5. What percentage of products could potentially be diverted from landfill?
-6. Which components have strong secondary-market value?
-7. Where can manufacturers introduce buy-back programs?
-8. Which products generate the greatest recovery opportunity?
-9. How does product condition affect resale value?
-10. Which manufacturing decisions could improve future product circularity?
-
----
-
-## 🛠️ Technology Stack
-
-| Category            | Technology                                   |
-| ------------------- | -------------------------------------------- |
-| Programming         | Python                                       |
-| Web Scraping        | Python Web Scraping                          |
-| Data Platform       | Databricks                                   |
-| Storage             | Delta Lake                                   |
-| Data Transformation | PySpark / SQL                                |
-| Visualization       | Microsoft Power BI                           |
-| Data Domain         | Circular Economy & Sustainable Manufacturing |
-| Analytics Focus     | Product Lifecycle & Secondary Market         |
-
----
-
-## 🔄 Data Processing Workflow
-
-```text
-1. Collect secondary-market data
-            ↓
-2. Extract product and condition information
-            ↓
-3. Store raw data in the lakehouse
-            ↓
-4. Clean and standardize datasets
-            ↓
-5. Process data using PySpark
-            ↓
-6. Match marketplace products with internal SKUs
-            ↓
-7. Join listings with BOM information
-            ↓
-8. Calculate lifecycle and circularity metrics
-            ↓
-9. Build analytical datasets
-            ↓
-10. Visualize insights in Power BI
-            ↓
-11. Support sustainability & business decisions
-```
-
----
-
-## 📈 Expected Outcomes
-
-EchoChain enables organizations to move from **limited post-sale visibility** toward a more complete product lifecycle view.
-
-### Business Benefits
-
-* Better visibility into secondary markets
-* Identification of refurbishment opportunities
-* Improved component recovery decisions
-* Data-driven buy-back strategies
-* Better understanding of product failures
-* Identification of high-value reusable components
-* Improved sustainability reporting
-* Reduced potential landfill contribution
-* Support for circular-economy business models
-
----
-
-## 🌱 Sustainability Impact
-
-EchoChain supports circular-economy principles by helping organizations understand how products and components can remain valuable beyond their first lifecycle.
-
-Instead of viewing a returned or used product simply as **waste**, the system helps identify whether it can be:
-
-```text
-Product
-   │
-   ├── Reuse
-   │
-   ├── Refurbish
-   │
-   ├── Resell
-   │
-   ├── Recover Components
-   │
-   └── Recycle
-```
-
-This creates opportunities to extend product lifecycles and improve resource utilization.
-
----
-
-## 🧮 Example Circularity Score Concept
-
-A conceptual circularity score can combine multiple lifecycle indicators:
-
-```text
-Circularity Score
-        =
-Resale Potential
-+ Refurbishment Potential
-+ Component Recovery Value
-+ Reuse Potential
-- Failure / Waste Risk
-```
-
-> **Note:** The exact scoring methodology can be customized according to the organization's sustainability framework and available data.
-
----
-
-## 📊 Dashboard Highlights
-
-The Power BI dashboard can be structured around the following sections:
-
-### Executive Overview
-
-* Total Products
-* Total Secondary Listings
-* Average Resale Value
-* Average Circularity Score
-* Potential Recovery Value
-
-### Product Lifecycle
-
-* Product condition
-* Resale price
+* Seller type
+* Buyer type
+* Platform
+* Refurbishment status
 * Product age
-* Failure rate
-* Refurbishment potential
+* Customer rating
+* Region
+* City
+* Final disposition
 
-### Component Analytics
+Output:
 
-* Component failure frequency
-* Component resale value
-* Recovery opportunities
-* BOM-level analysis
-
-### Circular Economy
-
-* Circularity Score
-* Reuse potential
-* Refurbishment potential
-* Recovery potential
-* Potential landfill diversion
-
-### Market Intelligence
-
-* Secondary-market demand
-* Price distribution
-* Condition vs. price
-* Product/model comparison
+```text
+data/raw/secondary_market_listings.csv
+```
 
 ---
 
-## 📁 Suggested Repository Structure
+## 4. Marketplace Integration
+
+Secondary-market records are integrated with the main lifecycle dataset using `Product_ID`.
+
+The integration process produces:
+
+```text
+data/processed/marketplace_integrated.csv
+```
+
+The integrated dataset contains **10,000 records and 37 columns**, with marketplace information attached to the corresponding lifecycle records.
+
+---
+
+## 5. Marketplace Analytics
+
+The analytics layer calculates additional pricing metrics, including:
+
+### Price Difference
+
+```text
+Price Difference =
+Market Value - Listing Price
+```
+
+### Discount Percentage
+
+```text
+Discount Percentage =
+((Market Value - Listing Price) / Market Value) × 100
+```
+
+### Listing-to-Market Ratio
+
+```text
+Listing-to-Market Ratio =
+Listing Price / Market Value
+```
+
+### Pricing Category
+
+Listings are categorized as:
+
+* Below Market Value
+* At Market Value
+* Above Market Value
+
+The resulting analytical dataset contains **1,000 marketplace records and 41 columns**.
+
+Output:
+
+```text
+data/processed/marketplace_analytics.csv
+```
+
+---
+
+# Marketplace Analysis
+
+The project generates several analytical outputs:
+
+```text
+data/processed/
+|
++-- marketplace_analytics.csv
++-- marketplace_cleaned.csv
++-- marketplace_integrated.csv
++-- marketplace_transformed.csv
+|
++-- category_analysis.csv
++-- condition_analysis.csv
++-- marketplace_analysis.csv
++-- platform_analysis.csv
++-- region_analysis.csv
++-- top_discounted_products.csv
+|
++-- marketplace_analysis/
+    |
+    +-- category_analysis.csv
+    +-- condition_analysis.csv
+    +-- disposition_analysis.csv
+    +-- marketplace_summary.csv
+    +-- platform_analysis.csv
+    +-- pricing_analysis.csv
+    +-- refurbishment_analysis.csv
+    +-- seller_analysis.csv
+    +-- top_market_opportunities.csv
+```
+
+These outputs support analysis of:
+
+* Product categories
+* Product conditions
+* Marketplace platforms
+* Regions
+* Sellers
+* Pricing
+* Discounts
+* Refurbishment opportunities
+* Final disposition
+* Market opportunities
+
+---
+
+# Web Scraping
+
+EchoChain includes a **Scrapy-based marketplace scraping demonstration**.
+
+The spider:
+
+```text
+scrapy/echomarket/spiders/marketplace_spider.py
+```
+
+reads marketplace listing data and produces structured `MarketplaceListingItem` records.
+
+The Scrapy pipeline:
+
+```text
+scrapy/echomarket/pipelines.py
+```
+
+writes marketplace records to:
+
+```text
+data/raw/secondary_market/marketplace_listings.csv
+```
+
+The current demonstration successfully processes **20 marketplace listings**.
+
+Run the spider with:
+
+```powershell
+cd scrapy
+py -m scrapy crawl marketplace
+```
+
+---
+
+# Data Transformation
+
+The project also includes a marketplace transformation workflow based on scraped marketplace data:
+
+```text
+scraped_marketplace.csv
+        |
+        v
+clean_scraped_marketplace.py
+        |
+        v
+marketplace_cleaned.csv
+        |
+        v
+transform_marketplace_data.py
+        |
+        v
+marketplace_transformed.csv
+```
+
+The transformed marketplace dataset follows the EchoChain lifecycle schema and can be validated using:
+
+```powershell
+python scripts/validate_transformed_marketplace.py
+```
+
+---
+
+# SQL Analytics
+
+The project contains analytical SQL queries in:
+
+```text
+sql/analytical_queries.sql
+```
+
+The queries cover areas such as:
+
+* Lifecycle overview
+* Resale price analysis
+* Circularity analysis
+* Refurbishment analysis
+* Recycling analysis
+* Final disposition
+* Product condition
+* Warranty status
+* Seller and buyer analysis
+* Recycling eligibility
+* Monthly resale trends
+* Monthly recycling trends
+* High-circularity products
+* Refurbishment candidates
+* Executive-level KPIs
+
+The SQL layer is designed as an analytical layer that can be adapted to the final Gold dataset or database/view used by the complete project.
+
+---
+
+# Testing
+
+EchoChain includes automated Python tests using `pytest`.
+
+Test files:
+
+```text
+tests/
+|
++-- test_data_cleaning.py
++-- test_marketplace.py
++-- test_marketplace_analytics.py
+```
+
+Run all tests:
+
+```powershell
+pytest -q
+```
+
+Current result:
+
+```text
+15 passed
+```
+
+The tests cover data cleaning, marketplace processing, analytical calculations, validation rules, and expected dataset structures.
+
+---
+
+# Project Structure
 
 ```text
 EchoChain/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── sample/
-│
-├── scraping/
-│   ├── scrapers/
-│   └── data_collection.py
-│
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── data_cleaning.ipynb
-│   └── lifecycle_analysis.ipynb
-│
-├── pyspark/
-│   ├── transformations.py
-│   ├── fuzzy_matching.py
-│   └── aggregations.py
-│
-├── sql/
-│   └── analytical_queries.sql
-│
-├── powerbi/
-│   └── EchoChain_Dashboard.pbix
-│
-├── docs/
-│   ├── architecture.md
-│   └── methodology.md
-│
-└── requirements.txt
+|
++-- data/
+|   +-- raw/
+|   +-- cleaned/
+|   +-- processed/
+|
++-- docs/
+|   +-- architecture.md
+|   +-- data_cleaning.md
+|   +-- methodology.md
+|
++-- notebooks/
+|   +-- data_cleaning.ipynb
+|
++-- scrapy/
+|   +-- scrapy.cfg
+|   +-- echomarket/
+|       +-- items.py
+|       +-- itemloaders.py
+|       +-- pipelines.py
+|       +-- settings.py
+|       +-- spiders/
+|
++-- scripts/
+|   +-- analyze_marketplace.py
+|   +-- clean_scraped_marketplace.py
+|   +-- create_marketplace_analytics.py
+|   +-- create_secondary_market_listings.py
+|   +-- data_cleaning.py
+|   +-- data_validation.py
+|   +-- integrate_marketplace_data.py
+|   +-- transform_marketplace_data.py
+|   +-- validate_integrated_marketplace.py
+|   +-- validate_marketplace_analytics.py
+|   +-- validate_scraped_marketplace.py
+|   +-- validate_secondary_market_listings.py
+|   +-- validate_transformed_marketplace.py
+|
++-- sql/
+|   +-- analytical_queries.sql
+|
++-- tests/
+|   +-- test_data_cleaning.py
+|   +-- test_marketplace.py
+|   +-- test_marketplace_analytics.py
+|
++-- Power BI Dashboard/
+|   +-- Dashboard 1.pdf
+|   +-- Dashboard 2.pdf
+|   +-- EchoChain_PowerBI_Dashboard_Wise_Documentation.docx
+|   +-- executive-overview.png
+|   +-- product-resale-analytics.png
+|
++-- .gitignore
++-- LICENSE
++-- README.md
++-- requirements.txt
 ```
 
 ---
 
-## 🚀 Getting Started
+# Technology Stack
 
-### Prerequisites
+| Technology              | Purpose                                |
+| ----------------------- | -------------------------------------- |
+| Python                  | Data processing and automation         |
+| Pandas                  | Data cleaning and analysis             |
+| Scrapy                  | Marketplace web-scraping workflow      |
+| Pytest                  | Automated testing                      |
+| SQL                     | Analytical queries                     |
+| Jupyter Notebook        | Exploratory data processing            |
+| Databricks / Delta Lake | Project-level lakehouse architecture   |
+| PySpark                 | Downstream distributed data processing |
+| Power BI                | Dashboard and business intelligence    |
 
-Make sure the following tools are available:
+> **Note:** PySpark processing and Power BI dashboard development are downstream/project components and are maintained separately from the Python marketplace-processing workflow documented here.
 
-* Python 3.x
-* Apache PySpark
-* Databricks environment
-* Delta Lake
-* Microsoft Power BI
-* Git
+---
 
-### Clone the Repository
+# Installation
 
-```bash
-git clone https://github.com/<your-username>/EchoChain.git
-cd EchoChain
+Clone the repository:
+
+```powershell
+git clone https://github.com/sarthak-raj08/-EchoChain-Circular-Economy-Secondary-Market-Lifecycle-Analytics.git
+cd -EchoChain-Circular-Economy-Secondary-Market-Lifecycle-Analytics
 ```
 
-### Install Dependencies
+Create a virtual environment:
 
-```bash
-pip install -r requirements.txt
+```powershell
+python -m venv .venv
 ```
 
-### Run the Data Pipeline
+Activate it:
 
-The general pipeline follows:
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+Install dependencies:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+---
+
+# Requirements
+
+The current Python requirements are:
 
 ```text
-Scraping → Storage → Cleaning → Matching → Analytics → Power BI
+pandas
+scrapy
+itemloaders
+pytest
 ```
 
-Individual scripts/notebooks can be executed according to the project structure.
+They are listed in:
+
+```text
+requirements.txt
+```
 
 ---
 
-## 🔐 Data & Ethical Considerations
+# Running the Data Pipeline
 
-When collecting marketplace data, the project should follow the relevant website's:
+## Step 1: Clean the Main Dataset
 
-* Terms of Service
-* robots.txt policies
+```powershell
+python scripts/data_cleaning.py
+```
+
+Output:
+
+```text
+data/cleaned/EchoChain_Data_Cleaned.csv
+```
+
+## Step 2: Validate the Main Dataset
+
+```powershell
+python scripts/data_validation.py
+```
+
+## Step 3: Create Secondary-Market Listings
+
+```powershell
+python scripts/create_secondary_market_listings.py
+```
+
+## Step 4: Validate Secondary-Market Listings
+
+```powershell
+python scripts/validate_secondary_market_listings.py
+```
+
+## Step 5: Integrate Marketplace Data
+
+```powershell
+python scripts/integrate_marketplace_data.py
+```
+
+## Step 6: Validate Integrated Data
+
+```powershell
+python scripts/validate_integrated_marketplace.py
+```
+
+## Step 7: Create Marketplace Analytics
+
+```powershell
+python scripts/create_marketplace_analytics.py
+```
+
+## Step 8: Validate Marketplace Analytics
+
+```powershell
+python scripts/validate_marketplace_analytics.py
+```
+
+## Step 9: Generate Marketplace Analysis
+
+```powershell
+python scripts/analyze_marketplace.py
+```
+
+---
+
+# Running the Scrapy Workflow
+
+Navigate to the Scrapy project:
+
+```powershell
+cd scrapy
+```
+
+Run the marketplace spider:
+
+```powershell
+py -m scrapy crawl marketplace
+```
+
+The scraped output is written to:
+
+```text
+data/raw/secondary_market/marketplace_listings.csv
+```
+
+---
+
+# Documentation
+
+Additional project documentation is available in the `docs` directory:
+
+* [Architecture](docs/architecture.md)
+* [Data Cleaning](docs/data_cleaning.md)
+* [Methodology](docs/methodology.md)
+
+These documents provide additional information about the project architecture, data-processing methodology, cleaning rules, validation strategy, and analytical workflow.
+
+---
+
+# Business Questions
+
+EchoChain is designed to help answer questions such as:
+
+### Product Lifecycle
+
+* How long do products remain in circulation?
+* How many ownership cycles do products experience?
+* What happens to products after resale?
+
+### Secondary Market
+
+* Which products have the highest resale value?
+* Which products are listed below their market value?
+* How does condition affect resale pricing?
+* Which platforms provide the strongest market opportunities?
+
+### Refurbishment
+
+* Which products are being refurbished?
+* What are the associated refurbishment costs?
+* Which products could represent refurbishment opportunities?
+
+### Sustainability
+
+* How many products are recycled?
+* How much material is recovered?
+* How much waste is diverted?
+* How much CO2 is saved?
+* Which products achieve higher circularity scores?
+
+---
+
+# Circularity and Sustainability
+
+EchoChain connects commercial lifecycle metrics with sustainability indicators.
+
+Important sustainability fields include:
+
+```text
+Recycling_Eligible
+Recycled
+Material_Recovered_Kg
+CO2_Saved_Kg
+Waste_Diverted_Kg
+Circularity_Score
+Final_Disposition
+```
+
+These fields allow the project to examine the relationship between product lifecycle extension and environmental impact.
+
+---
+
+# Current Implementation Status
+
+| Component                            | Status                       |
+| ------------------------------------ | ---------------------------- |
+| Main dataset                         | Completed                    |
+| Data cleaning                        | Completed                    |
+| Data validation                      | Completed                    |
+| Secondary-market dataset             | Completed                    |
+| Marketplace integration              | Completed                    |
+| Marketplace analytics                | Completed                    |
+| Marketplace analysis reports         | Completed                    |
+| Scrapy demonstration                 | Completed                    |
+| Scraped marketplace cleaning         | Completed                    |
+| Scraped marketplace transformation   | Completed                    |
+| Analytical SQL                       | Completed                    |
+| Automated tests                      | Completed                    |
+| Project documentation                | Completed                    |
+| PySpark processing                   | Downstream project component |
+| Power BI dashboards                  | Downstream project component |
+| Full production marketplace scraping | Future enhancement           |
+| Automated scheduled ingestion        | Future enhancement           |
+
+---
+
+# Limitations
+
+The current implementation has several limitations:
+
+1. The main secondary-market dataset is derived from the project lifecycle data for analytical demonstration.
+2. The Scrapy workflow is a marketplace scraping demonstration rather than a production-scale marketplace ingestion system.
+3. The scraped marketplace transformation uses generated lifecycle attributes where the source marketplace does not provide equivalent fields.
+4. The main marketplace analytics pipeline and the Scrapy demonstration pipeline are separate workflows.
+5. Production deployment would require additional monitoring, scheduling, source reliability checks, and marketplace-specific compliance considerations.
+
+---
+
+# Future Enhancements
+
+Potential improvements include:
+
+* Connect live marketplace sources where permitted.
+* Add scheduled data ingestion.
+* Introduce incremental data processing.
+* Implement stronger product/SKU matching.
+* Integrate component-level lifecycle information.
+* Improve refurbishment opportunity scoring.
+* Add advanced depreciation modelling.
+* Optimize Delta Lake storage.
+* Add automated data-quality monitoring.
+* Expand executive dashboard capabilities.
+* Add alerts for unusual pricing or lifecycle patterns.
+
+---
+
+# Ethical and Responsible Data Collection
+
+Marketplace data collection should respect:
+
+* Website terms of service
+* Robots.txt and crawling policies
+* Applicable laws and regulations
 * Rate limits
-* Data usage restrictions
-* Applicable privacy requirements
+* Privacy requirements
+* Data licensing requirements
 
-Only publicly available and appropriate information should be collected and used for analytical purposes.
+The project should avoid collecting unnecessary personal information and should use responsible scraping practices.
 
 ---
 
-## 🎓 Project Learning Outcomes
+# Learning Outcomes
 
-This project provides hands-on exposure to:
+This project demonstrates practical experience with:
 
-* Web scraping
-* Data engineering
-* Data lakehouse architecture
-* Databricks
-* Delta Lake
-* Apache PySpark
-* Fuzzy matching
-* SQL analytics
+* Python data engineering
+* Pandas data cleaning
+* Data validation
+* Automated testing
+* Web scraping with Scrapy
 * Data integration
-* Power BI dashboard development
-* Sustainability analytics
-* Circular-economy concepts
-* Business intelligence and decision support
+* Marketplace analytics
+* SQL analytics
+* Data pipeline design
+* Circular economy analytics
+* Sustainability metrics
+* Git and GitHub project management
+* Documentation of data-processing workflows
 
 ---
 
-## 👥 Project Context
+# Conclusion
 
-**Project:** EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
+EchoChain demonstrates how product lifecycle and secondary-market data can be combined to provide greater visibility into the circular economy.
 
-**Domain:** Sustainable Manufacturing & Circular Economy
+The project establishes a structured pipeline for cleaning lifecycle data, processing marketplace information, calculating resale and pricing metrics, validating analytical outputs, and preparing data for downstream business intelligence.
 
-**Primary Focus:** Product Lifecycle Analytics
-
-**Organization / Program:** Infotact Solutions
-
-**Core Technologies:**
-
-```text
-Python
-Databricks
-Delta Lake
-PySpark
-SQL
-Microsoft Power BI
-```
+By extending visibility beyond the initial point of sale, EchoChain provides a foundation for analyzing product reuse, refurbishment, resale, recycling, and final disposition while connecting these lifecycle stages with sustainability metrics.
 
 ---
 
-## 🔮 Future Enhancements
+## Repository
 
-Potential future improvements include:
-
-* Real-time secondary-market monitoring
-* Automated product matching using ML
-* Predictive resale-price modelling
-* Component failure prediction
-* Automated circularity scoring
-* Carbon-footprint estimation
-* Supplier sustainability analysis
-* Recommendation engine for refurbishment
-* Integration with ERP/manufacturing systems
-* AI-powered sustainability recommendations
+**GitHub:**
+https://github.com/sarthak-raj08/-EchoChain-Circular-Economy-Secondary-Market-Lifecycle-Analytics
 
 ---
 
-## 📌 Conclusion
+## License
 
-**EchoChain** demonstrates how data engineering, big-data processing, and business intelligence can be combined to solve a real-world sustainability problem.
-
-By connecting **manufacturing BOM data with secondary-market information**, the project creates greater visibility into the complete product lifecycle. The resulting analytics can help organizations identify **resale, reuse, refurbishment, and component-recovery opportunities**, enabling more informed decisions while supporting the transition toward a **circular economy**.
-
----
-
-## ⭐ Project Highlights
-
-```text
-✓ Secondary-market data collection
-✓ Manufacturing BOM integration
-✓ Databricks + Delta Lake architecture
-✓ PySpark-based big-data processing
-✓ Fuzzy product/SKU matching
-✓ Circularity and lifecycle analytics
-✓ Power BI executive dashboard
-✓ Sustainability-focused business insights
-✓ Refurbishment & resale opportunity analysis
-```
-
----
-
-## 📄 License
-
-This project was developed for **educational and analytical purposes**. Add an appropriate open-source license if the repository is intended for public distribution.
+This project is distributed under the license included in the repository.
