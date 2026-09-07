@@ -175,3 +175,54 @@ Books to Scrape
  Analysis & Visualization
        ↓
     Power BI
+
+
+
+### Execution Section
+
+The README should also contain the exact commands you have been using.
+
+For example:
+
+# Activate virtual environment
+.\.venv\Scripts\Activate.ps1
+
+# Run Scrapy spider
+cd scrapy
+python -m scrapy crawl marketplace
+
+# Return to project root
+cd ..
+
+# Clean scraped data
+python .\scripts\clean_scraped_marketplace.py
+
+# Validate scraped data
+python .\scripts\validate_scraped_marketplace.py
+
+# Transform marketplace data
+python .\scripts\transform_marketplace_data.py
+
+# Validate transformed data
+python .\scripts\validate_transformed_marketplace.py
+
+# Create secondary market listings
+python .\scripts\create_secondary_market_listings.py
+
+# Validate listings
+python .\scripts\validate_secondary_market_listings.py
+
+# Integrate marketplace data
+python .\scripts\integrate_marketplace_data.py
+
+# Validate integration
+python .\scripts\validate_integrated_marketplace.py
+
+# Create marketplace analytics
+python .\scripts\create_marketplace_analytics.py
+
+# Validate analytics
+python .\scripts\validate_marketplace_analytics.py
+
+# Run marketplace analysis
+python .\scripts\analyze_marketplace.py
