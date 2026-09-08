@@ -511,9 +511,12 @@ EchoChain/
 +-- Power BI Dashboard/
 |   +-- Dashboard 1.pdf
 |   +-- Dashboard 2.pdf
-|   +-- EchoChain_PowerBI_Dashboard_Wise_Documentation.docx
+|   +-- Dashboard 3.pdf
+|   +-- Dashboard 4.pdf
 |   +-- executive-overview.png
 |   +-- product-resale-analytics.png
+|   +-- refurbishment-customer-analytics.png
+|   +-- circular-economy-enviornmental-impact.png
 |
 +-- .gitignore
 +-- LICENSE
@@ -758,7 +761,7 @@ These fields allow the project to examine the relationship between product lifec
 | Automated tests                      | Completed                    |
 | Project documentation                | Completed                    |
 | PySpark processing                   | Downstream project component |
-| Power BI dashboards                  | Downstream project component |
+| Power BI dashboards                  | Completed                    |
 | Full production marketplace scraping | Future enhancement           |
 | Automated scheduled ingestion        | Future enhancement           |
 
