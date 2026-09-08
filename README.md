@@ -226,3 +226,162 @@ python .\scripts\validate_marketplace_analytics.py
 
 # Run marketplace analysis
 python .\scripts\analyze_marketplace.py
+
+
+# 📊 Current Marketplace Results
+
+Based on the current **1,000 marketplace listings**, the following results were
+obtained after processing and analyzing the marketplace dataset.
+
+---
+
+## 📁 Dataset Overview
+
+| Metric | Value |
+|--------|-------|
+| **Records** | 1,000 |
+| **Columns** | 41 |
+
+---
+
+## 💰 Pricing Analysis
+
+| Metric | Value |
+|--------|-------|
+| **Average Market Value** | ₹49,107.41 |
+| **Average Listing Price** | ₹29,292.15 |
+| **Average Discount** | 38.49% |
+
+### 📉 Pricing Distribution
+
+The listings were compared against their respective market values.
+
+| Pricing Category | Listings | Percentage |
+|------------------|----------|------------|
+| **Below Market Value** | 932 | 93.20% |
+| **Above Market Value** | 68 | 6.80% |
+| **Total** | **1,000** | **100%** |
+
+### 📌 Key Pricing Insight
+
+> **93.20% of marketplace listings are priced below their market value, while
+> only 6.80% are priced above market value.**
+
+This indicates that the majority of the analyzed marketplace listings are
+offered at prices lower than their estimated market value.
+
+---
+
+## ⭐ Customer Rating Analysis
+
+| Metric | Rating |
+|--------|--------|
+| **Average Rating** | 3.86 |
+| **Highest Rating** | 5.00 |
+| **Lowest Rating** | 1.60 |
+
+The dataset shows an overall average customer rating of **3.86**, indicating
+generally positive customer feedback across the analyzed listings.
+
+---
+
+## ♻️ Refurbishment Analysis
+
+| Refurbishment Status | Listings | Percentage |
+|----------------------|----------|------------|
+| **Refurbished** | 374 | 37.40% |
+| **Not Refurbished** | 626 | 62.60% |
+| **Total** | **1,000** | **100%** |
+
+### 📌 Refurbishment Insight
+
+> **37.40% of the marketplace listings are refurbished, while 62.60% are not
+> refurbished.**
+
+This provides an overview of the role of refurbishment within the secondary
+marketplace dataset.
+
+---
+
+## 🔄 Final Disposition
+
+The final disposition represents the outcome of the products within the
+marketplace lifecycle.
+
+| Final Disposition | Listings | Percentage |
+|-------------------|----------|------------|
+| **Resold** | 514 | 51.40% |
+| **Refurbished** | 300 | 30.00% |
+| **Recycled** | 158 | 15.80% |
+| **Landfill** | 28 | 2.80% |
+| **Total** | **1,000** | **100%** |
+
+### 📌 Final Disposition Insight
+
+> **Resold products represent the largest category at 51.40%, followed by
+> refurbished products at 30.00%, recycled products at 15.80%, and landfill
+> products at 2.80%.**
+
+---
+
+## 📊 Marketplace Summary
+
+| Category | Key Result |
+|----------|------------|
+| **Dataset Size** | 1,000 listings |
+| **Average Market Value** | ₹49,107.41 |
+| **Average Listing Price** | ₹29,292.15 |
+| **Average Discount** | 38.49% |
+| **Below Market Value** | 93.20% |
+| **Average Customer Rating** | 3.86 |
+| **Refurbished Products** | 37.40% |
+| **Resold Products** | 51.40% |
+| **Recycled Products** | 15.80% |
+| **Landfill Products** | 2.80% |
+
+---
+
+## 💡 Key Business Insights
+
+1. **Strong Pricing Opportunity**  
+   93.20% of listings are below their estimated market value, highlighting a
+   significant pricing gap in the secondary marketplace.
+
+2. **Healthy Customer Feedback**  
+   The average customer rating is **3.86/5**, suggesting generally positive
+   customer satisfaction.
+
+3. **Significant Refurbishment Activity**  
+   **37.40%** of listings are refurbished, demonstrating the importance of
+   refurbishment in extending product lifecycles.
+
+4. **High Resale Rate**  
+   **51.40%** of products are ultimately resold, showing strong potential for
+   secondary-market circulation.
+
+5. **Low Landfill Share**  
+   Only **2.80%** of products reach landfill, indicating that most products
+   continue through resale, refurbishment, or recycling pathways.
+
+---
+
+## 🔗 Marketplace Analytics Flow
+
+```text
+1,000 Marketplace Listings
+            ↓
+     Data Cleaning
+            ↓
+      Data Validation
+            ↓
+      Pricing Analysis
+            ↓
+    Customer Rating Analysis
+            ↓
+   Refurbishment Analysis
+            ↓
+     Final Disposition
+            ↓
+     Business Insights
+            ↓
+       Power BI Dashboard
