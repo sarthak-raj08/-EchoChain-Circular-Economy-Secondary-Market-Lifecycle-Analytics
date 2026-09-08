@@ -839,13 +839,6 @@ By extending visibility beyond the initial point of sale, EchoChain provides a f
 
 ---
 
-## Repository
-
-**GitHub:**
-https://github.com/sarthak-raj08/-EchoChain-Circular-Economy-Secondary-Market-Lifecycle-Analytics
-
----
-
 ## License
 
 This project is distributed under the license included in the repository.
